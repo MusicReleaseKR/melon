@@ -1,0 +1,9 @@
+[album_domestic]
+title = "멜론 ─ 최신앨범 ─ 국내"
+url = "https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&params%5BorderBy%5D=&po=pageObj&startIndex=1"
+entrySelector = "div[id='albumList'] form div ul li"
+titleSelector = "a.ellipsis.album_name"
+linkSelector = "a.ellipsis.album_name"
+contentSelector = "span.ellipsis.artist > a:nth-child(1)"
+imageSelector = "div.thumb > a > img"
+waitUntil = "networkidle"
