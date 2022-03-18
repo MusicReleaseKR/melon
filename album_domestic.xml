@@ -4,17 +4,9 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 21:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 22:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[ODDINARY]]></title>
-            <link>javascript:melon.link.goAlbumDetail('10893657');</link>
-            <guid>javascript:melon.link.goAlbumDetail('10893657');</guid>
-            <pubDate>Fri, 18 Mar 2022 04:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids (스트레이 키즈)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/108/93/657/10893657_20220317174829_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
         <item>
             <title><![CDATA[늦은 후회]]></title>
             <link>javascript:melon.link.goAlbumDetail('10893566');</link>
@@ -54,6 +46,14 @@
             <pubDate>Fri, 18 Mar 2022 09:19:36 GMT</pubDate>
             <content:encoded><![CDATA[키드킹 (Kidd King)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/108/93/642/10893642_20220317173253_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[ODDINARY]]></title>
+            <link>javascript:melon.link.goAlbumDetail('10893657');</link>
+            <guid>javascript:melon.link.goAlbumDetail('10893657');</guid>
+            <pubDate>Fri, 18 Mar 2022 04:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids (스트레이 키즈)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/108/93/657/10893657_20220317174829_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[뽕]]></title>
