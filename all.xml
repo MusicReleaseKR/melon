@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 03:44:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 05:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,12 +160,12 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/109/82/413/10982413_20220614115746_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
-            <title><![CDATA[Summer (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('10984354');</link>
-            <guid>javascript:melon.link.goAlbumDetail('10984354');</guid>
-            <pubDate>Wed, 15 Jun 2022 15:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[Paul Blanco]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/109/84/354/10984354_20220615140704_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+            <title><![CDATA[그대를 허락해 주세요 (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('10981045');</link>
+            <guid>javascript:melon.link.goAlbumDetail('10981045');</guid>
+            <pubDate>Thu, 16 Jun 2022 05:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[정철 (최정철)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/109/81/045/10981045_20220613150121_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
