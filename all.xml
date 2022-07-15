@@ -4,25 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 21:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 22:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[CHECKMATE (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11004992');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11004992');</guid>
-            <pubDate>Fri, 15 Jul 2022 05:01:56 GMT</pubDate>
-            <content:encoded><![CDATA[ITZY (있지)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/04/992/11004992_20220714144554_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[Jack In The Box (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11005689');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11005689');</guid>
-            <pubDate>Fri, 15 Jul 2022 05:01:56 GMT</pubDate>
-            <content:encoded><![CDATA[j-hope]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/05/689/11005689_20220715102933_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
         <item>
             <title><![CDATA[좀 더 안아줄 걸 (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>javascript:melon.link.goAlbumDetail('11005281');</link>
@@ -54,6 +38,22 @@
             <pubDate>Fri, 15 Jul 2022 09:14:53 GMT</pubDate>
             <content:encoded><![CDATA[노윤하]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/05/640/11005640_20220715095724_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[CHECKMATE (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11004992');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11004992');</guid>
+            <pubDate>Fri, 15 Jul 2022 05:01:56 GMT</pubDate>
+            <content:encoded><![CDATA[ITZY (있지)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/04/992/11004992_20220714144554_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Jack In The Box (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11005689');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11005689');</guid>
+            <pubDate>Fri, 15 Jul 2022 05:01:56 GMT</pubDate>
+            <content:encoded><![CDATA[j-hope]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/05/689/11005689_20220715102933_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[안녕 (멜론 ─ 최신앨범 ─ 국내)]]></title>
@@ -131,7 +131,7 @@
 						<span class="reg_date" title="발매일">2022.07.15</span>
 						<i class="bar"></i>
 						<button type="button" class="button_etc like" title="국가가 부른다 Part20 좋아요" data-album-no="11005016" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>294</span></button>
+<span class="cnt"><strong class="none">총건수</strong>296</span></button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">3곡</span>
 					</div>
@@ -246,14 +246,14 @@
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 15 Jul 2022 21:14:14 GMT</pubDate>
+            <pubDate>Fri, 15 Jul 2022 22:14:49 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3048993');" title="track by YOON: 팥빙수 페이지 이동" class="ellipsis">Billlie (빌리)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 15 Jul 2022 21:14:14 GMT</pubDate>
+            <pubDate>Fri, 15 Jul 2022 22:14:49 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('437');" title="track by YOON: 팥빙수 페이지 이동" class="ellipsis">윤종신</a>]]></content:encoded>
         </item>
         <item>
