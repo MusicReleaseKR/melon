@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 21:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 22:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,14 +24,6 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/26/013/11026013_20220809173431_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
-            <title><![CDATA[Boogie Woogie (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11028528');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11028528');</guid>
-            <pubDate>Fri, 12 Aug 2022 17:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/28/528/11028528_20220811162752_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
             <title><![CDATA[UH-RA? with KozyPop (코지팝 X 최유정, 안병웅, 드레스) (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>javascript:melon.link.goAlbumDetail('11027846');</link>
             <guid>javascript:melon.link.goAlbumDetail('11027846');</guid>
@@ -43,14 +35,14 @@
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 12 Aug 2022 21:14:08 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 22:16:21 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('968264');" title="UH-RA? with KozyPop (코지팝 X 최유정, 안병웅, 드레스) 페이지 이동" class="ellipsis">최유정 (Weki Meki)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 12 Aug 2022 21:14:08 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 22:16:21 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2736680');" title="UH-RA? with KozyPop (코지팝 X 최유정, 안병웅, 드레스) 페이지 이동" class="ellipsis">안병웅</a>]]></content:encoded>
         </item>
         <item>
@@ -60,6 +52,14 @@
             <pubDate>Fri, 12 Aug 2022 17:22:36 GMT</pubDate>
             <content:encoded><![CDATA[트웰브 (twlv)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/26/046/11026046_20220809181403_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Boogie Woogie (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11028528');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11028528');</guid>
+            <pubDate>Fri, 12 Aug 2022 17:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/28/528/11028528_20220811162752_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[Evergray (멜론 ─ 최신앨범 ─ 국내)]]></title>
@@ -112,7 +112,7 @@
 						<span class="reg_date" title="발매일">2022.08.12</span>
 						<i class="bar"></i>
 						<button type="button" class="button_etc like" title="국가가 부른다 Part24 좋아요" data-album-no="11028479" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>161</span></button>
+<span class="cnt"><strong class="none">총건수</strong>163</span></button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">3곡</span>
 					</div>
