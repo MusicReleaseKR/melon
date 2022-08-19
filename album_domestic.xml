@@ -4,17 +4,9 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 21:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 22:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Pink Venom]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11033394');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11033394');</guid>
-            <pubDate>Fri, 19 Aug 2022 04:48:40 GMT</pubDate>
-            <content:encoded><![CDATA[BLACKPINK]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/33/394/11033394_20220819101829_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
         <item>
             <title><![CDATA[연애의 발명 (웹툰 '연애의 발견' X BIG Naughty (서동현))]]></title>
             <link>javascript:melon.link.goAlbumDetail('11032811');</link>
@@ -46,6 +38,14 @@
             <pubDate>Fri, 19 Aug 2022 09:15:59 GMT</pubDate>
             <content:encoded><![CDATA[김성규]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/32/921/11032921_20220818171029_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Pink Venom]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11033394');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11033394');</guid>
+            <pubDate>Fri, 19 Aug 2022 04:48:40 GMT</pubDate>
+            <content:encoded><![CDATA[BLACKPINK]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/33/394/11033394_20220819101829_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[Certified 맘따 Boy]]></title>
@@ -90,7 +90,7 @@
 						<span class="reg_date" title="발매일">2022.08.19</span>
 						<i class="bar"></i>
 						<button type="button" class="button_etc like" title="국가가 부른다 Part25 좋아요" data-album-no="11032802" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>615</span></button>
+<span class="cnt"><strong class="none">총건수</strong>619</span></button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">3곡</span>
 					</div>
@@ -155,7 +155,7 @@
 						<span class="reg_date" title="발매일">2022.08.19</span>
 						<i class="bar"></i>
 						<button type="button" class="button_etc like" title="이상한 변호사 우영우 OST Special 좋아요" data-album-no="11033442" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>332</span></button>
+<span class="cnt"><strong class="none">총건수</strong>338</span></button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">38곡</span>
 					</div>
@@ -237,14 +237,14 @@
             <title><![CDATA[20]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Fri, 19 Aug 2022 21:13:52 GMT</pubDate>
+            <pubDate>Fri, 19 Aug 2022 22:17:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('1866689');" title="잠수이별 페이지 이동" class="ellipsis">우원재</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[21]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Fri, 19 Aug 2022 21:13:52 GMT</pubDate>
+            <pubDate>Fri, 19 Aug 2022 22:17:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2740934');" title="잠수이별 페이지 이동" class="ellipsis">meenoi (미노이)</a>]]></content:encoded>
         </item>
     </channel>
