@@ -4,9 +4,96 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 01:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 04:05:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[I CAN'T]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11042915');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11042915');</guid>
+            <pubDate>Thu, 01 Sep 2022 04:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[한림]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/42/915/11042915_20220831151130_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[First Flight]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11043334');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11043334');</guid>
+            <pubDate>Thu, 01 Sep 2022 04:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[에이리드 (A.iRiD)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/43/334/11043334_20220831164536_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[그레이트 서울 인베이전 Section 4]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11043637');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11043637');</guid>
+            <pubDate>Thu, 01 Sep 2022 04:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="thumb">
+					<a href="javascript:melon.link.goAlbumDetail('11043637');" title="그레이트 서울 인베이전 Section 4 - 페이지 이동" class="image_typeAll">
+						<img onerror="WEBPOCIMG.defaultAlbumImg(this);" src="https://cdnimg.melon.co.kr/cm2/album/images/110/43/637/11043637_20220831200943_500.jpg/melon/resize/360/quality/80/optimize" alt="" width="180" height="180">
+						<span class="bg_album_frame"></span>
+					</a>
+				</div>
+
+				
+
+				<div class="entry">
+					<div class="info">
+						<span class="vdo_name">[옴니버스]</span>
+						<a href="javascript:melon.link.goAlbumDetail('11043637');" class="ellipsis album_name" title="그레이트 서울 인베이전 Section 4 - 페이지 이동">그레이트 서울 인베이전 Section 4</a>
+						<span class="ellipsis artist">
+							Various Artists<span class="checkEllipsis" style="display: none;">Various Artists</span>
+						</span>
+						
+					</div>
+					<div class="meta">
+						<span class="reg_date" title="발매일">2022.09.01</span>
+						<i class="bar"></i>
+						<button type="button" class="button_etc like" title="그레이트 서울 인베이전 Section 4 좋아요" data-album-no="11043637" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
+<span class="cnt"><strong class="none">총건수</strong>42</span></button>
+						<i class="bar"></i>
+						<span class="tot_song" title="총 수록곡">5곡</span>
+					</div>
+					<div class="wrap_btn_tb">
+						<button type="button" onclick="melon.play.playAlbum('18020123','11043637');" title="앨범듣기" class="button_rbox"><span class="button_icons type02 play"></span><span class="cnt">앨범듣기</span></button>
+						<button type="button" onclick="melon.buy.goBuyProduct('frm','11043637','3B0001','','0','18020123','1');" title="앨범 다운로드" class="button_rbox"><span class="button_icons type02 download"></span><span class="cnt">앨범다운</span></button>
+						
+						<button type="button" onclick="melon.buy.goPresentForAlbum('11043637', '', '18020123');" title="선택된 곡 선물하기" class="button_rbox"><span class="button_icons type02 gift"></span><span class="cnt">선물</span></button>
+						
+					</div>
+				</div>]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/43/637/11043637_20220831200943_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[HAAN X SHIRT : Energy]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11043234');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11043234');</guid>
+            <pubDate>Thu, 01 Sep 2022 04:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[HAAN]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/43/234/11043234_20220831161545_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[4]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Thu, 01 Sep 2022 04:05:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2083522');" title="HAAN X SHIRT : Energy 페이지 이동" class="ellipsis">HAAN</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Thu, 01 Sep 2022 04:05:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2897244');" title="HAAN X SHIRT : Energy 페이지 이동" class="ellipsis">SHIRT</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[사랑이 아닌 단어로 사랑을 말해요]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11043349');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11043349');</guid>
+            <pubDate>Thu, 01 Sep 2022 04:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[siso(시소)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/43/349/11043349_20220831165243_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
         <item>
             <title><![CDATA[the Billage of perception: chapter two]]></title>
             <link>javascript:melon.link.goAlbumDetail('11042277');</link>
@@ -14,6 +101,22 @@
             <pubDate>Wed, 31 Aug 2022 12:32:12 GMT</pubDate>
             <content:encoded><![CDATA[Billlie (빌리)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/42/277/11042277_20220831110640_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[To The Star]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11043512');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11043512');</guid>
+            <pubDate>Thu, 01 Sep 2022 04:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[임연]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/43/512/11043512_20220831180143_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[24 SCARS]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11041789');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11041789');</guid>
+            <pubDate>Thu, 01 Sep 2022 04:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[EPTEND (에피텐드)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/41/789/11041789_20220830150935_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[어쩔 수가 없나 봐]]></title>
@@ -32,6 +135,14 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/42/057/11042057_20220830190317_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
+            <title><![CDATA[있어줄게]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11043685');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11043685');</guid>
+            <pubDate>Thu, 01 Sep 2022 04:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[최항석과 부기몬스터]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/43/685/11043685_20220831220003_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
             <title><![CDATA[맞아 잠을 설친 건 너 때문이야]]></title>
             <link>javascript:melon.link.goAlbumDetail('11041984');</link>
             <guid>javascript:melon.link.goAlbumDetail('11041984');</guid>
@@ -40,146 +151,68 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/41/984/11041984_20220830165044_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
+            <title><![CDATA[빛나]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11042058');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11042058');</guid>
+            <pubDate>Thu, 01 Sep 2022 04:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[Kyle Lo (카일로)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/42/058/11042058_20220830190521_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[가시오]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11042801');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11042801');</guid>
+            <pubDate>Thu, 01 Sep 2022 04:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[김양]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/42/801/11042801_20220831144122_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[곧 감]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11042609');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11042609');</guid>
+            <pubDate>Thu, 01 Sep 2022 04:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[배스킨라빈스X넉살]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/42/609/11042609_20220831135203_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[신바람]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11042046');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11042046');</guid>
+            <pubDate>Thu, 01 Sep 2022 04:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[전파사]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/42/046/11042046_20220830182949_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Here I Am]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11042831');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11042831');</guid>
+            <pubDate>Thu, 01 Sep 2022 04:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[이소예]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/42/831/11042831_20220831145156_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[강변북로]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11043727');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11043727');</guid>
+            <pubDate>Thu, 01 Sep 2022 04:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[톰너드 (Tomnerd)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/43/727/11043727_20220901104144_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[단 한 번 내 이름 불러줘요]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11042620');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11042620');</guid>
+            <pubDate>Thu, 01 Sep 2022 04:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[모닝커피 (Morning Coffee)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/42/620/11042620_20220831135513_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
             <title><![CDATA[For You]]></title>
             <link>javascript:melon.link.goAlbumDetail('11042998');</link>
             <guid>javascript:melon.link.goAlbumDetail('11042998');</guid>
             <pubDate>Wed, 31 Aug 2022 12:32:12 GMT</pubDate>
             <content:encoded><![CDATA[숀 (SHAUN)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/42/998/11042998_20220831152616_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[A-Team]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11041051');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11041051');</guid>
-            <pubDate>Wed, 31 Aug 2022 12:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[Blase (블라세)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/41/051/11041051_20220830103137_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[6]]></title>
-            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
-            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Thu, 01 Sep 2022 01:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2113072');" title="A-Team 페이지 이동" class="ellipsis">Blase (블라세)</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[7]]></title>
-            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
-            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Thu, 01 Sep 2022 01:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2296594');" title="A-Team 페이지 이동" class="ellipsis">Chillin Homie</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Mr. Hollywood]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11042050');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11042050');</guid>
-            <pubDate>Wed, 31 Aug 2022 12:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[SMMT]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/42/050/11042050_20220830184017_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[싱인더그린 Part 2]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11041061');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11041061');</guid>
-            <pubDate>Wed, 31 Aug 2022 12:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[윤딴딴]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/41/061/11041061_20220830104042_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[안되는데 (Re : WIND 4MEN Vol.1)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11042013');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11042013');</guid>
-            <pubDate>Wed, 31 Aug 2022 12:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[이솔로몬]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/42/013/11042013_20220830172604_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[Shining Love Song]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11041468');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11041468');</guid>
-            <pubDate>Wed, 31 Aug 2022 12:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[SURAN (수란)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/41/468/11041468_20220830140002_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[Departure]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11041790');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11041790');</guid>
-            <pubDate>Wed, 31 Aug 2022 12:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[POPPIES]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/41/790/11041790_20220830150942_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[LOVE TAKER]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11041690');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11041690');</guid>
-            <pubDate>Wed, 31 Aug 2022 12:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[프리티지 (PRITTI-G)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/41/690/11041690_20220830144735_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[버드나무]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11042014');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11042014');</guid>
-            <pubDate>Wed, 31 Aug 2022 12:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[다린]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/42/014/11042014_20220830172611_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[당신이 소원을 말하면 OST Part.5]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11041981');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11041981');</guid>
-            <pubDate>Wed, 31 Aug 2022 12:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[박진주]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/41/981/11041981_20220830165026_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[있잖아]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11042032');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11042032');</guid>
-            <pubDate>Wed, 31 Aug 2022 12:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[슬릭 (SLEEQ)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/42/032/11042032_20220830175420_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[악몽]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11041083');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11041083');</guid>
-            <pubDate>Wed, 31 Aug 2022 12:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[헨]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/41/083/11041083_20220830111327_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[가장 따뜻한 위로]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11042270');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11042270');</guid>
-            <pubDate>Wed, 31 Aug 2022 12:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[시네마 (CNEMA)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/42/270/11042270_20220831110601_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[missing my summer]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11041046');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11041046');</guid>
-            <pubDate>Wed, 31 Aug 2022 12:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[콜린 (COLL!N)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/41/046/11041046_20220830102304_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[세상 그 누구보다 소중해]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11040159');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11040159');</guid>
-            <pubDate>Wed, 31 Aug 2022 12:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[이다능]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/40/159/11040159_20220829161731_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[Better]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11040515');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11040515');</guid>
-            <pubDate>Wed, 31 Aug 2022 12:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[마마무+]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/40/515/11040515_20220829181238_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
