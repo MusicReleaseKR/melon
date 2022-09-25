@@ -4,9 +4,49 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Sep 2022 01:43:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Sep 2022 04:07:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PRIVATE PINK]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11062868');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11062868');</guid>
+            <pubDate>Sun, 25 Sep 2022 04:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[A.TRAIN]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/62/868/11062868_20220923112521_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[HUNNED%]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11062806');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11062806');</guid>
+            <pubDate>Sun, 25 Sep 2022 04:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[Junoflo (주노플로)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/62/806/11062806_20220923103320_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[밤의 노래]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11061677');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11061677');</guid>
+            <pubDate>Sun, 25 Sep 2022 04:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[뎁트]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/61/677/11061677_20220921174409_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[YUIL]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11063246');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11063246');</guid>
+            <pubDate>Sun, 25 Sep 2022 04:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[PERC%NT]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/63/246/11063246_20220923161033_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[우주 왈츠 (With 정우)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11062941');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11062941');</guid>
+            <pubDate>Sun, 25 Sep 2022 04:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[우재 (WOOJAE)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/62/941/11062941_20220923130409_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
         <item>
             <title><![CDATA[그중에 그대를 만나]]></title>
             <link>javascript:melon.link.goAlbumDetail('11062828');</link>
@@ -24,102 +64,166 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/63/191/11063191_20220923154917_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
-            <title><![CDATA[2]]></title>
-            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
-            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sun, 25 Sep 2022 01:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('1229243');" title="Listen-Up(리슨업) EP.8 페이지 이동" class="ellipsis">강승식 (빅톤)</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[3]]></title>
-            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
-            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sun, 25 Sep 2022 01:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('1229241');" title="Listen-Up(리슨업) EP.8 페이지 이동" class="ellipsis">임세준 (빅톤)</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[4]]></title>
-            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
-            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sun, 25 Sep 2022 01:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('1229238');" title="Listen-Up(리슨업) EP.8 페이지 이동" class="ellipsis">정수빈 (빅톤)</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[5]]></title>
-            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
-            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sun, 25 Sep 2022 01:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2889945');" title="Listen-Up(리슨업) EP.8 페이지 이동" class="ellipsis">DRIPPIN (드리핀)</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[6]]></title>
-            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
-            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sun, 25 Sep 2022 01:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('925515');" title="Listen-Up(리슨업) EP.8 페이지 이동" class="ellipsis">오반</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[7]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sun, 25 Sep 2022 01:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('827434');" title="Listen-Up(리슨업) EP.8 페이지 이동" class="ellipsis">Hash Swan</a>]]></content:encoded>
+            <pubDate>Sun, 25 Sep 2022 04:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('1229243');" title="Listen-Up(리슨업) EP.8 페이지 이동" class="ellipsis">강승식 (빅톤)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[8]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sun, 25 Sep 2022 01:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('1865373');" title="Listen-Up(리슨업) EP.8 페이지 이동" class="ellipsis">이대휘 (AB6IX)</a>]]></content:encoded>
+            <pubDate>Sun, 25 Sep 2022 04:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('1229241');" title="Listen-Up(리슨업) EP.8 페이지 이동" class="ellipsis">임세준 (빅톤)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[9]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sun, 25 Sep 2022 01:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2891813');" title="Listen-Up(리슨업) EP.8 페이지 이동" class="ellipsis">GEMINI (제미나이)</a>]]></content:encoded>
+            <pubDate>Sun, 25 Sep 2022 04:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('1229238');" title="Listen-Up(리슨업) EP.8 페이지 이동" class="ellipsis">정수빈 (빅톤)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[10]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sun, 25 Sep 2022 01:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('568051');" title="Listen-Up(리슨업) EP.8 페이지 이동" class="ellipsis">레디 (Reddy)</a>]]></content:encoded>
+            <pubDate>Sun, 25 Sep 2022 04:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2889945');" title="Listen-Up(리슨업) EP.8 페이지 이동" class="ellipsis">DRIPPIN (드리핀)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[11]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sun, 25 Sep 2022 01:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('4426');" title="Listen-Up(리슨업) EP.8 페이지 이동" class="ellipsis">이윤정</a>]]></content:encoded>
+            <pubDate>Sun, 25 Sep 2022 04:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('925515');" title="Listen-Up(리슨업) EP.8 페이지 이동" class="ellipsis">오반</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[12]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sun, 25 Sep 2022 01:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('1381825');" title="Listen-Up(리슨업) EP.8 페이지 이동" class="ellipsis">스월비 (Swervy)</a>]]></content:encoded>
+            <pubDate>Sun, 25 Sep 2022 04:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('827434');" title="Listen-Up(리슨업) EP.8 페이지 이동" class="ellipsis">Hash Swan</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[13]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sun, 25 Sep 2022 01:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('944881');" title="Listen-Up(리슨업) EP.8 페이지 이동" class="ellipsis">DOKO (도코)</a>]]></content:encoded>
+            <pubDate>Sun, 25 Sep 2022 04:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('1865373');" title="Listen-Up(리슨업) EP.8 페이지 이동" class="ellipsis">이대휘 (AB6IX)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[14]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sun, 25 Sep 2022 01:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('607649');" title="Listen-Up(리슨업) EP.8 페이지 이동" class="ellipsis">김신의 (몽니)</a>]]></content:encoded>
+            <pubDate>Sun, 25 Sep 2022 04:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2891813');" title="Listen-Up(리슨업) EP.8 페이지 이동" class="ellipsis">GEMINI (제미나이)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[15]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sun, 25 Sep 2022 01:42:59 GMT</pubDate>
+            <pubDate>Sun, 25 Sep 2022 04:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('568051');" title="Listen-Up(리슨업) EP.8 페이지 이동" class="ellipsis">레디 (Reddy)</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[16]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Sun, 25 Sep 2022 04:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('4426');" title="Listen-Up(리슨업) EP.8 페이지 이동" class="ellipsis">이윤정</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[17]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Sun, 25 Sep 2022 04:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('1381825');" title="Listen-Up(리슨업) EP.8 페이지 이동" class="ellipsis">스월비 (Swervy)</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[18]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Sun, 25 Sep 2022 04:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('944881');" title="Listen-Up(리슨업) EP.8 페이지 이동" class="ellipsis">DOKO (도코)</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[19]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Sun, 25 Sep 2022 04:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('607649');" title="Listen-Up(리슨업) EP.8 페이지 이동" class="ellipsis">김신의 (몽니)</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[20]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Sun, 25 Sep 2022 04:07:25 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2561048');" title="Listen-Up(리슨업) EP.8 페이지 이동" class="ellipsis">빈센트블루</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어지러워요]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11063035');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11063035');</guid>
+            <pubDate>Sun, 25 Sep 2022 04:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[로쿠 (roku)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/63/035/11063035_20220923142736_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[이상한 나라의 앨리스]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11062878');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11062878');</guid>
+            <pubDate>Sun, 25 Sep 2022 04:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[chilloud]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/62/878/11062878_20220923113428_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[NIGHT TIME LOVER]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11062747');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11062747');</guid>
+            <pubDate>Sun, 25 Sep 2022 04:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[OPO]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/62/747/11062747_20220923014020_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Goodbye Summer]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11062938');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11062938');</guid>
+            <pubDate>Sun, 25 Sep 2022 04:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[김아름]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/62/938/11062938_20220923124729_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[never get enough]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11059959');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11059959');</guid>
+            <pubDate>Sun, 25 Sep 2022 04:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[Sweet The Kid]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/59/959/11059959_20220920165139_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[메리골드 (Marigold)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11062807');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11062807');</guid>
+            <pubDate>Sun, 25 Sep 2022 04:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[조소현]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/62/807/11062807_20220923103728_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[으라차차 내 인생 OST Part.40]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11063243');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11063243');</guid>
+            <pubDate>Sun, 25 Sep 2022 04:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[안솔희(블루베리)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/63/243/11063243_20220923160812_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[너 없는 일기]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11063061');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11063061');</guid>
+            <pubDate>Sun, 25 Sep 2022 04:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[정구한 (KUHAN)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/63/061/11063061_20220923150529_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[금수저 OST Part.1]]></title>
@@ -128,6 +232,22 @@
             <pubDate>Sat, 24 Sep 2022 09:17:38 GMT</pubDate>
             <content:encoded><![CDATA[민경훈]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/61/134/11061134_20220921153742_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[처음에]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11062471');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11062471');</guid>
+            <pubDate>Sun, 25 Sep 2022 04:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[Dine On]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/62/471/11062471_20220922160631_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Still live in you]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11062459');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11062459');</guid>
+            <pubDate>Sun, 25 Sep 2022 04:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[원하]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/62/459/11062459_20220922155703_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[천원짜리 변호사 OST Part.1]]></title>
@@ -144,250 +264,6 @@
             <pubDate>Sat, 24 Sep 2022 09:17:38 GMT</pubDate>
             <content:encoded><![CDATA[아우릴고트 (OUREALGOAT)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/62/748/11062748_20220923014629_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[비긴어게인 오픈마이크 EPISODE. 36]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11063031');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11063031');</guid>
-            <pubDate>Sat, 24 Sep 2022 09:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[정엽]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/63/031/11063031_20220923141904_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[블라인드 OST Part.1]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11062957');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11062957');</guid>
-            <pubDate>Sat, 24 Sep 2022 09:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[김예지]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/62/957/11062957_20220923130942_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[FUN!!! (Feat. JAEHA)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11062981');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11062981');</guid>
-            <pubDate>Sat, 24 Sep 2022 09:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[Futuristic Swaver]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/62/981/11062981_20220923140649_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[히든싱어7 - Episode. 6]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11062974');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11062974');</guid>
-            <pubDate>Sat, 24 Sep 2022 04:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[HYNN (박혜원)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/62/974/11062974_20220923135756_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[아바타싱어 ROUND 2]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11062810');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11062810');</guid>
-            <pubDate>Sat, 24 Sep 2022 04:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="thumb">
-					<a href="javascript:melon.link.goAlbumDetail('11062810');" title="아바타싱어 ROUND 2 - 페이지 이동" class="image_typeAll">
-						<img onerror="WEBPOCIMG.defaultAlbumImg(this);" src="https://cdnimg.melon.co.kr/cm2/album/images/110/62/810/11062810_20220923103949_500.jpg/melon/resize/360/quality/80/optimize" alt="" width="180" height="180">
-						<span class="bg_album_frame"></span>
-					</a>
-				</div>
-
-				
-
-				<div class="entry">
-					<div class="info">
-						<span class="vdo_name">[옴니버스]</span>
-						<a href="javascript:melon.link.goAlbumDetail('11062810');" class="ellipsis album_name" title="아바타싱어 ROUND 2 - 페이지 이동">아바타싱어 ROUND 2</a>
-						<span class="ellipsis artist">
-							Various Artists<span class="checkEllipsis" style="display: none;">Various Artists</span>
-						</span>
-						
-					</div>
-					<div class="meta">
-						<span class="reg_date" title="발매일">2022.09.24</span>
-						<i class="bar"></i>
-						<button type="button" class="button_etc like" title="아바타싱어 ROUND 2 좋아요" data-album-no="11062810" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>34</span></button>
-						<i class="bar"></i>
-						<span class="tot_song" title="총 수록곡">7곡</span>
-					</div>
-					<div class="wrap_btn_tb">
-						<button type="button" onclick="melon.play.playAlbum('18020123','11062810');" title="앨범듣기" class="button_rbox"><span class="button_icons type02 play"></span><span class="cnt">앨범듣기</span></button>
-						<button type="button" onclick="melon.buy.goBuyProduct('frm','11062810','3B0001','','0','18020123','1');" title="앨범 다운로드" class="button_rbox"><span class="button_icons type02 download"></span><span class="cnt">앨범다운</span></button>
-						
-						<button type="button" onclick="melon.buy.goPresentForAlbum('11062810', '', '18020123');" title="선택된 곡 선물하기" class="button_rbox"><span class="button_icons type02 gift"></span><span class="cnt">선물</span></button>
-						
-					</div>
-				</div>]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/62/810/11062810_20220923103949_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[싱포레스트2(이별)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11062879');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11062879');</guid>
-            <pubDate>Sat, 24 Sep 2022 04:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[박봄 (Park Bom)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/62/879/11062879_20220923114233_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[25]]></title>
-            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
-            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sun, 25 Sep 2022 01:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('439341');" title="싱포레스트2(이별) 페이지 이동" class="ellipsis">박봄 (Park Bom)</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[26]]></title>
-            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
-            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sun, 25 Sep 2022 01:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('1907398');" title="싱포레스트2(이별) 페이지 이동" class="ellipsis">정세운</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[27]]></title>
-            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
-            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sun, 25 Sep 2022 01:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2869024');" title="싱포레스트2(이별) 페이지 이동" class="ellipsis">나나 (NANA)</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[28]]></title>
-            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
-            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sun, 25 Sep 2022 01:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('858236');" title="싱포레스트2(이별) 페이지 이동" class="ellipsis">예린 (YERIN)</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[29]]></title>
-            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
-            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sun, 25 Sep 2022 01:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3112322');" title="싱포레스트2(이별) 페이지 이동" class="ellipsis">시온</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다우니 (DOWNY)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11062956');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11062956');</guid>
-            <pubDate>Sat, 24 Sep 2022 04:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[타미즈 (Tamiz)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/62/956/11062956_20220923130934_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[31]]></title>
-            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
-            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sun, 25 Sep 2022 01:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2644334');" title="다우니 (DOWNY) 페이지 이동" class="ellipsis">타미즈 (Tamiz)</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[32]]></title>
-            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
-            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sun, 25 Sep 2022 01:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2973876');" title="다우니 (DOWNY) 페이지 이동" class="ellipsis">HIRO (히로)</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우울함을 숨기고 만나야만]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11063064');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11063064');</guid>
-            <pubDate>Sat, 24 Sep 2022 04:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[결 (KYUL)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/63/064/11063064_20220923151752_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[Next on Mars Vol.4]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11062745');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11062745');</guid>
-            <pubDate>Sat, 24 Sep 2022 04:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[lofi]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/62/745/11062745_20220923013402_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[35]]></title>
-            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
-            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sun, 25 Sep 2022 01:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2113007');" title="Next on Mars Vol.4 페이지 이동" class="ellipsis">lofi</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[36]]></title>
-            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
-            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sun, 25 Sep 2022 01:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3084980');" title="Next on Mars Vol.4 페이지 이동" class="ellipsis">yuenn (유넨)</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[무덤 위에 소주를 부어줘]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11062850');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11062850');</guid>
-            <pubDate>Fri, 23 Sep 2022 09:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[호미들]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/62/850/11062850_20220923110720_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[Studio X {1. Phase}]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11062395');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11062395');</guid>
-            <pubDate>Fri, 23 Sep 2022 09:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[선우정아]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/62/395/11062395_20220922152310_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[안고 있는 건 너였다]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11062144');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11062144');</guid>
-            <pubDate>Sat, 24 Sep 2022 09:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[그네]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/62/144/11062144_20220922113339_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[40]]></title>
-            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
-            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sun, 25 Sep 2022 01:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('776544');" title="안고 있는 건 너였다 페이지 이동" class="ellipsis">그네</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[41]]></title>
-            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
-            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sun, 25 Sep 2022 01:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2879232');" title="안고 있는 건 너였다 페이지 이동" class="ellipsis">다무 (Damu)</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[바다가 들린다]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11027975');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11027975');</guid>
-            <pubDate>Sat, 24 Sep 2022 04:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[박재우]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/27/975/11027975_20220923134414_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[Eclipse]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11062920');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11062920');</guid>
-            <pubDate>Sat, 24 Sep 2022 04:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[090 (Gong Gu Gong)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/62/920/11062920_20220923121727_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[환승연애2 OST Part 4 '다시, 설렘']]></title>
-            <link>javascript:melon.link.goAlbumDetail('11063038');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11063038');</guid>
-            <pubDate>Sat, 24 Sep 2022 04:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[KOYO (코요)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/63/038/11063038_20220923144203_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[45]]></title>
-            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
-            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sun, 25 Sep 2022 01:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2241215');" title="환승연애2 OST Part 4 '다시, 설렘' 페이지 이동" class="ellipsis">KOYO (코요)</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[46]]></title>
-            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
-            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sun, 25 Sep 2022 01:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2645957');" title="환승연애2 OST Part 4 '다시, 설렘' 페이지 이동" class="ellipsis">정튠 (Jungtune)</a>]]></content:encoded>
         </item>
     </channel>
 </rss>
