@@ -4,9 +4,17 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Oct 2022 03:47:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Oct 2022 05:05:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Boys Like You]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11080694');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11080694');</guid>
+            <pubDate>Fri, 21 Oct 2022 05:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[ITZY (있지)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/80/694/11080694_20221019153725_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
         <item>
             <title><![CDATA[국가가 부른다 Part34]]></title>
             <link>javascript:melon.link.goAlbumDetail('11082332');</link>
@@ -34,7 +42,7 @@
 						<span class="reg_date" title="발매일">2022.10.21</span>
 						<i class="bar"></i>
 						<button type="button" class="button_etc like" title="국가가 부른다 Part34 좋아요" data-album-no="11082332" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>281</span></button>
+<span class="cnt"><strong class="none">총건수</strong>469</span></button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">3곡</span>
 					</div>
@@ -63,6 +71,35 @@
             <pubDate>Fri, 21 Oct 2022 03:47:35 GMT</pubDate>
             <content:encoded><![CDATA[김동현]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/81/059/11081059_20221019183540_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[iScreaM Vol.18 : Girls Remixes]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11081019');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11081019');</guid>
+            <pubDate>Fri, 21 Oct 2022 05:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[aespa]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/81/019/11081019_20221019175716_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[5]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Fri, 21 Oct 2022 05:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2899555');" title="iScreaM Vol.18 : Girls Remixes 페이지 이동" class="ellipsis">aespa</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[6]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Fri, 21 Oct 2022 05:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('904925');" title="iScreaM Vol.18 : Girls Remixes 페이지 이동" class="ellipsis">BRLLNT</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[7]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Fri, 21 Oct 2022 05:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('1230217');" title="iScreaM Vol.18 : Girls Remixes 페이지 이동" class="ellipsis">Minit</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Roller Skate]]></title>
@@ -97,17 +134,17 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/80/925/11080925_20221019170504_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
-            <title><![CDATA[7]]></title>
+            <title><![CDATA[12]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Fri, 21 Oct 2022 03:47:35 GMT</pubDate>
+            <pubDate>Fri, 21 Oct 2022 05:05:44 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('261447');" title="사랑 후에 페이지 이동" class="ellipsis">예성 (YESUNG)</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[8]]></title>
+            <title><![CDATA[13]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Fri, 21 Oct 2022 03:47:35 GMT</pubDate>
+            <pubDate>Fri, 21 Oct 2022 05:05:44 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('756530');" title="사랑 후에 페이지 이동" class="ellipsis">솔라 (마마무)</a>]]></content:encoded>
         </item>
         <item>
@@ -197,22 +234,6 @@
             <pubDate>Thu, 20 Oct 2022 16:31:38 GMT</pubDate>
             <content:encoded><![CDATA[데이먼스 이어 (Damons year)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/81/172/11081172_20221019190751_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[제자리]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11080324');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11080324');</guid>
-            <pubDate>Thu, 20 Oct 2022 16:31:38 GMT</pubDate>
-            <content:encoded><![CDATA[서출구]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/80/324/11080324_20221019114828_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[일당백집사 OST Part.1]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11080409');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11080409');</guid>
-            <pubDate>Thu, 20 Oct 2022 16:31:38 GMT</pubDate>
-            <content:encoded><![CDATA[이원석]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/80/409/11080409_20221019143222_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
