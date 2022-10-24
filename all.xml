@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Oct 2022 21:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Oct 2022 22:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Mon, 24 Oct 2022 09:30:46 GMT</pubDate>
             <content:encoded><![CDATA[기현 (몬스타엑스)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/83/731/11083731_20221021175455_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[Sweet Sorrow of Mother (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11064950');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11064950');</guid>
-            <pubDate>Mon, 24 Oct 2022 04:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[비비 (BIBI)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/64/950/11064950_20221024112853_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[치얼업 OST Part.4 (멜론 ─ 최신앨범 ─ 국내)]]></title>
@@ -54,6 +46,14 @@
             <pubDate>Mon, 24 Oct 2022 09:30:47 GMT</pubDate>
             <content:encoded><![CDATA[Jvcki Wai]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/79/593/11079593_20221018162750_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Sweet Sorrow of Mother (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11064950');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11064950');</guid>
+            <pubDate>Mon, 24 Oct 2022 04:32:39 GMT</pubDate>
+            <content:encoded><![CDATA[비비 (BIBI)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/64/950/11064950_20221024112853_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[기괴한 이야기 (Bizarre Story) (멜론 ─ 최신앨범 ─ 국내)]]></title>
