@@ -4,9 +4,49 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Oct 2022 08:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Oct 2022 09:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너를 사랑해]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11089654');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11089654');</guid>
+            <pubDate>Sun, 30 Oct 2022 09:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[이진이]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/89/654/11089654_20221028154153_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[고백연습]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11089677');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11089677');</guid>
+            <pubDate>Sun, 30 Oct 2022 09:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[경서]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/89/677/11089677_20221028155256_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[디 엠파이어: 법의 제국 OST Part.5]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11089442');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11089442');</guid>
+            <pubDate>Sun, 30 Oct 2022 09:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[민서 (MINSEO)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/89/442/11089442_20221028100348_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[그런 계절이잖아요]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11089691');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11089691');</guid>
+            <pubDate>Sun, 30 Oct 2022 09:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[프롬]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/89/691/11089691_20221028164245_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Sound of Smoke]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11089497');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11089497');</guid>
+            <pubDate>Sun, 30 Oct 2022 09:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[Paul Blanco]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/89/497/11089497_20221028121731_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
         <item>
             <title><![CDATA[바람남 Part2]]></title>
             <link>javascript:melon.link.goAlbumDetail('11089556');</link>
@@ -16,17 +56,17 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/89/556/11089556_20221028153200_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
-            <title><![CDATA[1]]></title>
+            <title><![CDATA[6]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sun, 30 Oct 2022 08:20:06 GMT</pubDate>
+            <pubDate>Sun, 30 Oct 2022 09:16:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('205950');" title="바람남 Part2 페이지 이동" class="ellipsis">박창근</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2]]></title>
+            <title><![CDATA[7]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sun, 30 Oct 2022 08:20:06 GMT</pubDate>
+            <pubDate>Sun, 30 Oct 2022 09:16:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2971837');" title="바람남 Part2 페이지 이동" class="ellipsis">이병찬</a>]]></content:encoded>
         </item>
         <item>
@@ -60,6 +100,22 @@
             <pubDate>Sun, 30 Oct 2022 07:15:04 GMT</pubDate>
             <content:encoded><![CDATA[팔로알토 (Paloalto)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/89/498/11089498_20221028121943_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[청담에서]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11089460');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11089460');</guid>
+            <pubDate>Sun, 30 Oct 2022 09:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[GongGongGoo009]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/89/460/11089460_20221028104803_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[CB2M]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11089500');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11089500');</guid>
+            <pubDate>Sun, 30 Oct 2022 09:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[BAYLEE (베일리)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/89/500/11089500_20221028122359_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[천천히]]></title>
@@ -124,95 +180,6 @@
             <pubDate>Sun, 30 Oct 2022 07:15:04 GMT</pubDate>
             <content:encoded><![CDATA[Audiosfrom]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/89/461/11089461_20221028104810_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[드라마]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11089493');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11089493');</guid>
-            <pubDate>Sun, 30 Oct 2022 07:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[호두 (Hodoo)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/89/493/11089493_20221028120705_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[거짓말]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11088094');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11088094');</guid>
-            <pubDate>Sun, 30 Oct 2022 07:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[차세대]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/88/094/11088094_20221027105455_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[Artistic Love]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11089401');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11089401');</guid>
-            <pubDate>Sun, 30 Oct 2022 07:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[UO]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/89/401/11089401_20221028093239_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[처음에 (Solo Version)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11089123');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11089123');</guid>
-            <pubDate>Sun, 30 Oct 2022 07:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[Dine On]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/89/123/11089123_20221027154955_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[Whoop!]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11089386');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11089386');</guid>
-            <pubDate>Sun, 30 Oct 2022 07:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[404]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/89/386/11089386_20221027185744_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[All in]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11089494');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11089494');</guid>
-            <pubDate>Sun, 30 Oct 2022 07:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[Mew]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/89/494/11089494_20221028121312_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼미더머니 11 Episode 0]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11089492');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11089492');</guid>
-            <pubDate>Sun, 30 Oct 2022 07:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="thumb">
-					<a href="javascript:melon.link.goAlbumDetail('11089492');" title="쇼미더머니 11 Episode 0 - 페이지 이동" class="image_typeAll">
-						<img onerror="WEBPOCIMG.defaultAlbumImg(this);" src="https://cdnimg.melon.co.kr/cm2/album/images/110/89/492/11089492_20221028120655_500.jpg/melon/resize/360/quality/80/optimize" alt="" width="180" height="180">
-						<span class="bg_album_frame"></span>
-					</a>
-				</div>
-
-				
-
-				<div class="entry">
-					<div class="info">
-						<span class="vdo_name">[옴니버스]</span>
-						<a href="javascript:melon.link.goAlbumDetail('11089492');" class="ellipsis album_name" title="쇼미더머니 11 Episode 0 - 페이지 이동">쇼미더머니 11 Episode 0</a>
-						<span class="ellipsis artist">
-							Various Artists<span class="checkEllipsis" style="display: none;">Various Artists</span>
-						</span>
-						
-					</div>
-					<div class="meta">
-						<span class="reg_date" title="발매일">2022.10.29</span>
-						<i class="bar"></i>
-						<button type="button" class="button_etc like" title="쇼미더머니 11 Episode 0 좋아요" data-album-no="11089492" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>965</span></button>
-						<i class="bar"></i>
-						<span class="tot_song" title="총 수록곡">4곡</span>
-					</div>
-					<div class="wrap_btn_tb">
-						<button type="button" onclick="melon.play.playAlbum('18020123','11089492');" title="앨범듣기" class="button_rbox"><span class="button_icons type02 play"></span><span class="cnt">앨범듣기</span></button>
-						<button type="button" onclick="melon.buy.goBuyProduct('frm','11089492','3B0001','','0','18020123','1');" title="앨범 다운로드" class="button_rbox"><span class="button_icons type02 download"></span><span class="cnt">앨범다운</span></button>
-						
-						<button type="button" onclick="melon.buy.goPresentForAlbum('11089492', '', '18020123');" title="선택된 곡 선물하기" class="button_rbox"><span class="button_icons type02 gift"></span><span class="cnt">선물</span></button>
-						
-					</div>
-				</div>]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/110/89/492/11089492_20221028120655_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
