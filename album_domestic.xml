@@ -4,7 +4,7 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 14:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 15:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Thu, 19 Jan 2023 10:15:13 GMT</pubDate>
             <content:encoded><![CDATA[김유안]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/111/51/693/11151693_20230118143516_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Handel : Suite No.2 In F Major HWV.427 - I. Adagio]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11151882');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11151882');</guid>
+            <pubDate>Thu, 19 Jan 2023 15:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[조성진]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/111/51/882/11151882_20230118153129_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[고민(Source of Trouble)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 19 Jan 2023 10:15:13 GMT</pubDate>
             <content:encoded><![CDATA[정연수]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/111/51/687/11151687_20230118143017_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[Ground Zero]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11150239');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11150239');</guid>
-            <pubDate>Thu, 19 Jan 2023 10:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[DJ Wegun]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/111/50/239/11150239_20230117095757_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
