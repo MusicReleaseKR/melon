@@ -4,9 +4,63 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 08:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 09:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기억의 흔적 (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11170430');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11170430');</guid>
+            <pubDate>Thu, 09 Feb 2023 09:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[Jayci yucca (제이씨 유카)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/111/70/430/11170430_20230208181848_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
+            <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
+            <pubDate>Thu, 09 Feb 2023 09:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2112746');" title="기억의 흔적 페이지 이동" class="ellipsis">Jayci yucca (제이씨 유카)</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
+            <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
+            <pubDate>Thu, 09 Feb 2023 09:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('1910367');" title="기억의 흔적 페이지 이동" class="ellipsis">dnss</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Endless (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11170159');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11170159');</guid>
+            <pubDate>Thu, 09 Feb 2023 09:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[허각]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/111/70/159/11170159_20230208170059_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Ferrari (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11169786');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11169786');</guid>
+            <pubDate>Thu, 09 Feb 2023 09:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[40]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/111/69/786/11169786_20230209181401_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[낯선 이별 (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11170663');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11170663');</guid>
+            <pubDate>Thu, 09 Feb 2023 09:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[DK(디셈버)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/111/70/663/11170663_20230208235459_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[우리의 디데이 OST Part.4 (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11169426');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11169426');</guid>
+            <pubDate>Thu, 09 Feb 2023 09:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[박장현 (VROMANCE)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/111/69/426/11169426_20230208145405_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
         <item>
             <title><![CDATA[연애대전 OST Part 2 (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>javascript:melon.link.goAlbumDetail('11169132');</link>
@@ -42,7 +96,7 @@
 						<span class="reg_date" title="발매일">2023.02.09</span>
 						<i class="bar"></i>
 						<button type="button" class="button_etc like" title="WET! Episode. 1 좋아요" data-album-no="11170760" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>22</span></button>
+<span class="cnt"><strong class="none">총건수</strong>27</span></button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">4곡</span>
 					</div>
@@ -63,6 +117,14 @@
             <pubDate>Thu, 09 Feb 2023 03:17:19 GMT</pubDate>
             <content:encoded><![CDATA[강이채]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/111/69/135/11169135_20230208110107_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[모든 게 착각이었다 OST Remix (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11169134');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11169134');</guid>
+            <pubDate>Thu, 09 Feb 2023 09:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[민니 ((여자)아이들)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/111/69/134/11169134_20230208105954_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[it's LIT! (멜론 ─ 최신앨범 ─ 국내)]]></title>
@@ -163,7 +225,7 @@
 						<span class="reg_date" title="발매일">2023.02.09</span>
 						<i class="bar"></i>
 						<button type="button" class="button_etc like" title="조선 정신과 의사 유세풍 2 OST Special 좋아요" data-album-no="11170670" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>6</span></button>
+<span class="cnt"><strong class="none">총건수</strong>8</span></button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">76곡</span>
 					</div>
@@ -184,54 +246,6 @@
             <pubDate>Thu, 09 Feb 2023 03:17:19 GMT</pubDate>
             <content:encoded><![CDATA[조월]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/111/69/389/11169389_20230208143103_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[아프로디테 (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11169273');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11169273');</guid>
-            <pubDate>Wed, 08 Feb 2023 14:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[ARTBEAT (아트비트)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/111/69/273/11169273_20230208120204_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[빛 바래 사라지지만 (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11168160');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11168160');</guid>
-            <pubDate>Thu, 09 Feb 2023 03:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[마린]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/111/68/160/11168160_20230207145601_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[별을 바라보면서 (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11169344');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11169344');</guid>
-            <pubDate>Thu, 09 Feb 2023 03:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[김로망]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/111/69/344/11169344_20230208140545_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[시시한 청춘에 남기는 노래 (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11167978');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11167978');</guid>
-            <pubDate>Thu, 09 Feb 2023 03:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[음율]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/111/67/978/11167978_20230207135901_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[설월화 (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11169315');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11169315');</guid>
-            <pubDate>Thu, 09 Feb 2023 03:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[그네]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/111/69/315/11169315_20230208134544_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[HEART DODUMI 2 (하트도두미 2) (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11168027');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11168027');</guid>
-            <pubDate>Wed, 08 Feb 2023 14:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[Lil Cherry]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/111/68/027/11168027_20230207142953_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
