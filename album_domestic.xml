@@ -4,7 +4,7 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Mar 2023 10:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Mar 2023 11:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,47 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/00/322/11200322_20230309175849_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
+            <title><![CDATA[불후의 명곡 - 아티스트 YB 편 1부]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11201040');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11201040');</guid>
+            <pubDate>Sat, 11 Mar 2023 11:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="thumb">
+					<a href="javascript:melon.link.goAlbumDetail('11201040');" title="불후의 명곡 - 아티스트 YB 편 1부 - 페이지 이동" class="image_typeAll">
+						<img onerror="WEBPOCIMG.defaultAlbumImg(this);" src="https://cdnimg.melon.co.kr/cm2/album/images/112/01/040/11201040_20230310160803_500.jpg/melon/resize/360/quality/80/optimize" alt="" width="180" height="180">
+						<span class="bg_album_frame"></span>
+					</a>
+				</div>
+
+				
+
+				<div class="entry">
+					<div class="info">
+						<span class="vdo_name">[옴니버스]</span>
+						<a href="javascript:melon.link.goAlbumDetail('11201040');" class="ellipsis album_name" title="불후의 명곡 - 아티스트 YB 편 1부 - 페이지 이동">불후의 명곡 - 아티스트 YB 편 1부</a>
+						<span class="ellipsis artist">
+							Various Artists<span class="checkEllipsis" style="display: none;">Various Artists</span>
+						</span>
+						
+					</div>
+					<div class="meta">
+						<span class="reg_date" title="발매일">2023.03.11</span>
+						<i class="bar"></i>
+						<button type="button" class="button_etc like" title="불후의 명곡 - 아티스트 YB 편 1부 좋아요" data-album-no="11201040" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
+<span class="cnt"><strong class="none">총건수</strong>2</span></button>
+						<i class="bar"></i>
+						<span class="tot_song" title="총 수록곡">3곡</span>
+					</div>
+					<div class="wrap_btn_tb">
+						<button type="button" onclick="melon.play.playAlbum('18020123','11201040');" title="앨범듣기" class="button_rbox"><span class="button_icons type02 play"></span><span class="cnt">앨범듣기</span></button>
+						<button type="button" onclick="melon.buy.goBuyProduct('frm','11201040','3B0001','','0','18020123','1');" title="앨범 다운로드" class="button_rbox"><span class="button_icons type02 download"></span><span class="cnt">앨범다운</span></button>
+						
+						<button type="button" onclick="melon.buy.goPresentForAlbum('11201040', '', '18020123');" title="선택된 곡 선물하기" class="button_rbox"><span class="button_icons type02 gift"></span><span class="cnt">선물</span></button>
+						
+					</div>
+				</div>]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/01/040/11201040_20230310160803_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
             <title><![CDATA[Demon girl]]></title>
             <link>javascript:melon.link.goAlbumDetail('11200018');</link>
             <guid>javascript:melon.link.goAlbumDetail('11200018');</guid>
@@ -128,45 +169,45 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/00/803/11200803_20230310103227_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
-            <title><![CDATA[15]]></title>
-            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
-            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sat, 11 Mar 2023 10:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2560195');" title="우리가 그려놓은 기억 페이지 이동" class="ellipsis">오브어스 (Of US)</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[16]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sat, 11 Mar 2023 10:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('1284956');" title="우리가 그려놓은 기억 페이지 이동" class="ellipsis">이정석</a>]]></content:encoded>
+            <pubDate>Sat, 11 Mar 2023 11:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2560195');" title="우리가 그려놓은 기억 페이지 이동" class="ellipsis">오브어스 (Of US)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[17]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sat, 11 Mar 2023 10:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('792116');" title="우리가 그려놓은 기억 페이지 이동" class="ellipsis">리튼 (Ritten)</a>]]></content:encoded>
+            <pubDate>Sat, 11 Mar 2023 11:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('1284956');" title="우리가 그려놓은 기억 페이지 이동" class="ellipsis">이정석</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[18]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sat, 11 Mar 2023 10:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('1384918');" title="우리가 그려놓은 기억 페이지 이동" class="ellipsis">이선주</a>]]></content:encoded>
+            <pubDate>Sat, 11 Mar 2023 11:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('792116');" title="우리가 그려놓은 기억 페이지 이동" class="ellipsis">리튼 (Ritten)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[19]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sat, 11 Mar 2023 10:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3207678');" title="우리가 그려놓은 기억 페이지 이동" class="ellipsis">신수겸</a>]]></content:encoded>
+            <pubDate>Sat, 11 Mar 2023 11:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('1384918');" title="우리가 그려놓은 기억 페이지 이동" class="ellipsis">이선주</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[20]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sat, 11 Mar 2023 10:13:00 GMT</pubDate>
+            <pubDate>Sat, 11 Mar 2023 11:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3207678');" title="우리가 그려놓은 기억 페이지 이동" class="ellipsis">신수겸</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[21]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Sat, 11 Mar 2023 11:12:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2748212');" title="우리가 그려놓은 기억 페이지 이동" class="ellipsis">신호지</a>]]></content:encoded>
         </item>
         <item>
@@ -178,17 +219,17 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/00/216/11200216_20230309173354_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
-            <title><![CDATA[22]]></title>
-            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
-            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sat, 11 Mar 2023 10:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2936047');" title="휴지통 페이지 이동" class="ellipsis">That</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[23]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sat, 11 Mar 2023 10:13:00 GMT</pubDate>
+            <pubDate>Sat, 11 Mar 2023 11:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2936047');" title="휴지통 페이지 이동" class="ellipsis">That</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[24]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Sat, 11 Mar 2023 11:12:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2296172');" title="휴지통 페이지 이동" class="ellipsis">Bas Bao (바스바오)</a>]]></content:encoded>
         </item>
         <item>
@@ -214,14 +255,6 @@
             <pubDate>Sat, 11 Mar 2023 03:14:09 GMT</pubDate>
             <content:encoded><![CDATA[휴이 (Huie)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/00/942/11200942_20230310133952_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[RZN]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11200822');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11200822');</guid>
-            <pubDate>Sat, 11 Mar 2023 03:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[Shoi]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/00/822/11200822_20230310111341_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
