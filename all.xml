@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 03:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 04:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[D-DAY (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11219412');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11219412');</guid>
+            <pubDate>Fri, 21 Apr 2023 04:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[Agust D]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/19/412/11219412_20230421104829_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
         <item>
             <title><![CDATA[BOYS PLANET - FINAL TOP9 BATTLE (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>javascript:melon.link.goAlbumDetail('11227284');</link>
@@ -158,47 +166,6 @@
             <pubDate>Thu, 20 Apr 2023 09:14:04 GMT</pubDate>
             <content:encoded><![CDATA[이소정]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/27/524/11227524_20230419153118_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[PEAK TIME - <FINAL ROUND> (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11227528');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11227528');</guid>
-            <pubDate>Thu, 20 Apr 2023 03:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="thumb">
-					<a href="javascript:melon.link.goAlbumDetail('11227528');" title="PEAK TIME - <FINAL ROUND> - 페이지 이동" class="image_typeAll">
-						<img onerror="WEBPOCIMG.defaultAlbumImg(this);" src="https://cdnimg.melon.co.kr/cm2/album/images/112/27/528/11227528_20230419161706_500.jpg/melon/resize/360/quality/80/optimize" alt="" width="180" height="180">
-						<span class="bg_album_frame"></span>
-					</a>
-				</div>
-
-				
-
-				<div class="entry">
-					<div class="info">
-						<span class="vdo_name">[옴니버스]</span>
-						<a href="javascript:melon.link.goAlbumDetail('11227528');" class="ellipsis album_name" title="PEAK TIME - <FINAL ROUND> - 페이지 이동">PEAK TIME - &lt;FINAL ROUND&gt;</a>
-						<span class="ellipsis artist">
-							Various Artists<span class="checkEllipsis" style="display: none;">Various Artists</span>
-						</span>
-						
-					</div>
-					<div class="meta">
-						<span class="reg_date" title="발매일">2023.04.20</span>
-						<i class="bar"></i>
-						<button type="button" class="button_etc like" title="PEAK TIME - <FINAL ROUND> 좋아요" data-album-no="11227528" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>517</span></button>
-						<i class="bar"></i>
-						<span class="tot_song" title="총 수록곡">7곡</span>
-					</div>
-					<div class="wrap_btn_tb">
-						<button type="button" onclick="melon.play.playAlbum('18020123','11227528');" title="앨범듣기" class="button_rbox"><span class="button_icons type02 play"></span><span class="cnt">앨범듣기</span></button>
-						<button type="button" onclick="melon.buy.goBuyProduct('frm','11227528','3B0001','','0','18020123','1');" title="앨범 다운로드" class="button_rbox"><span class="button_icons type02 download"></span><span class="cnt">앨범다운</span></button>
-						
-						<button type="button" onclick="melon.buy.goPresentForAlbum('11227528', '', '18020123');" title="선택된 곡 선물하기" class="button_rbox"><span class="button_icons type02 gift"></span><span class="cnt">선물</span></button>
-						
-					</div>
-				</div>]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/27/528/11227528_20230419161706_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
