@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 May 2023 10:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 11:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -98,7 +98,7 @@
 						<span class="reg_date" title="발매일">2023.05.13</span>
 						<i class="bar"></i>
 						<button type="button" class="button_etc like" title="<팬텀싱어4> Episode. 8 좋아요" data-album-no="11243308" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>149</span></button>
+<span class="cnt"><strong class="none">총건수</strong>150</span></button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">2곡</span>
 					</div>
@@ -140,14 +140,14 @@
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Sat, 13 May 2023 10:11:56 GMT</pubDate>
+            <pubDate>Sat, 13 May 2023 11:11:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2764042');" title="Umm 페이지 이동" class="ellipsis">늘보 (Neulbo)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Sat, 13 May 2023 10:11:56 GMT</pubDate>
+            <pubDate>Sat, 13 May 2023 11:11:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3103023');" title="Umm 페이지 이동" class="ellipsis">sushiwishfish(스위피)</a>]]></content:encoded>
         </item>
         <item>
@@ -157,6 +157,47 @@
             <pubDate>Sat, 13 May 2023 03:12:39 GMT</pubDate>
             <content:encoded><![CDATA[신현우]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/42/793/11242793_20230511181300_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[불후의 명곡 - 천상계 고음 종결자 특집 II (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11243397');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11243397');</guid>
+            <pubDate>Sat, 13 May 2023 11:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="thumb">
+					<a href="javascript:melon.link.goAlbumDetail('11243397');" title="불후의 명곡 - 천상계 고음 종결자 특집 II - 페이지 이동" class="image_typeAll">
+						<img onerror="WEBPOCIMG.defaultAlbumImg(this);" src="https://cdnimg.melon.co.kr/cm2/album/images/112/43/397/11243397_20230512152105_500.jpg/melon/resize/360/quality/80/optimize" alt="" width="180" height="180">
+						<span class="bg_album_frame"></span>
+					</a>
+				</div>
+
+				
+
+				<div class="entry">
+					<div class="info">
+						<span class="vdo_name">[옴니버스]</span>
+						<a href="javascript:melon.link.goAlbumDetail('11243397');" class="ellipsis album_name" title="불후의 명곡 - 천상계 고음 종결자 특집 II - 페이지 이동">불후의 명곡 - 천상계 고음 종결자 특집 II</a>
+						<span class="ellipsis artist">
+							Various Artists<span class="checkEllipsis" style="display: none;">Various Artists</span>
+						</span>
+						
+					</div>
+					<div class="meta">
+						<span class="reg_date" title="발매일">2023.05.13</span>
+						<i class="bar"></i>
+						<button type="button" class="button_etc like" title="불후의 명곡 - 천상계 고음 종결자 특집 II 좋아요" data-album-no="11243397" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
+<span class="cnt"><strong class="none">총건수</strong>7</span></button>
+						<i class="bar"></i>
+						<span class="tot_song" title="총 수록곡">2곡</span>
+					</div>
+					<div class="wrap_btn_tb">
+						<button type="button" onclick="melon.play.playAlbum('18020123','11243397');" title="앨범듣기" class="button_rbox"><span class="button_icons type02 play"></span><span class="cnt">앨범듣기</span></button>
+						<button type="button" onclick="melon.buy.goBuyProduct('frm','11243397','3B0001','','0','18020123','1');" title="앨범 다운로드" class="button_rbox"><span class="button_icons type02 download"></span><span class="cnt">앨범다운</span></button>
+						
+						<button type="button" onclick="melon.buy.goPresentForAlbum('11243397', '', '18020123');" title="선택된 곡 선물하기" class="button_rbox"><span class="button_icons type02 gift"></span><span class="cnt">선물</span></button>
+						
+					</div>
+				</div>]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/43/397/11243397_20230512152105_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[Say Yes (멜론 ─ 최신앨범 ─ 국내)]]></title>
@@ -202,14 +243,14 @@
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Sat, 13 May 2023 10:11:56 GMT</pubDate>
+            <pubDate>Sat, 13 May 2023 11:11:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('786989');" title="우리가 사랑했던 모든 것 OST Part.2 페이지 이동" class="ellipsis">송유빈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Sat, 13 May 2023 10:11:56 GMT</pubDate>
+            <pubDate>Sat, 13 May 2023 11:11:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2622476');" title="우리가 사랑했던 모든 것 OST Part.2 페이지 이동" class="ellipsis">지셀 (Jiselle)</a>]]></content:encoded>
         </item>
         <item>
@@ -219,14 +260,6 @@
             <pubDate>Fri, 12 May 2023 04:14:19 GMT</pubDate>
             <content:encoded><![CDATA[방탄소년단]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/42/802/11242802_20230512092757_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[담요 (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11240919');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11240919');</guid>
-            <pubDate>Sat, 13 May 2023 03:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[hamzzi]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/40/919/11240919_20230510133956_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
