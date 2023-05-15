@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 21:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 22:11:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,14 +32,6 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/29/555/11229555_20230515102634_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
-            <title><![CDATA[Masquerade (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11243619');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11243619');</guid>
-            <pubDate>Mon, 15 May 2023 04:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[MIDNATT]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/43/619/11243619_20230512172755_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
             <title><![CDATA[가면의 여왕 OST Part.3 (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>javascript:melon.link.goAlbumDetail('11244151');</link>
             <guid>javascript:melon.link.goAlbumDetail('11244151');</guid>
@@ -62,6 +54,14 @@
             <pubDate>Mon, 15 May 2023 09:12:53 GMT</pubDate>
             <content:encoded><![CDATA[SOULBYSEL]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/43/602/11243602_20230512165002_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Masquerade (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11243619');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11243619');</guid>
+            <pubDate>Mon, 15 May 2023 04:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[MIDNATT]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/43/619/11243619_20230512172755_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[밥묵자 (멜론 ─ 최신앨범 ─ 국내)]]></title>
