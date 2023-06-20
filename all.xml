@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 22:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 23:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,28 @@
             <pubDate>Tue, 20 Jun 2023 10:13:30 GMT</pubDate>
             <content:encoded><![CDATA[레인보우 노트 (Rainbow note)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/68/843/11268843_20230620182752_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Zero (J.I.D Remix) (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11269317');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11269317');</guid>
+            <pubDate>Tue, 20 Jun 2023 23:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[NewJeans]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/69/317/11269317_20230620140136_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
+            <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
+            <pubDate>Tue, 20 Jun 2023 23:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3114174');" title="Zero (J.I.D Remix) 페이지 이동" class="ellipsis">NewJeans</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
+            <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
+            <pubDate>Tue, 20 Jun 2023 23:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('987368');" title="Zero (J.I.D Remix) 페이지 이동" class="ellipsis">J.I.D</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아프지마 (멜론 ─ 최신앨범 ─ 국내)]]></title>
@@ -114,7 +136,7 @@
 						<span class="reg_date" title="발매일">2023.06.20</span>
 						<i class="bar"></i>
 						<button type="button" class="button_etc like" title="어쩌다 마주친, 그대 OST 좋아요" data-album-no="11268748" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>64</span></button>
+<span class="cnt"><strong class="none">총건수</strong>67</span></button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">63곡</span>
 					</div>
@@ -140,14 +162,14 @@
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Tue, 20 Jun 2023 22:12:29 GMT</pubDate>
+            <pubDate>Tue, 20 Jun 2023 23:13:26 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2926356');" title="AirPods Pro 페이지 이동" class="ellipsis">atlet</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Tue, 20 Jun 2023 22:12:29 GMT</pubDate>
+            <pubDate>Tue, 20 Jun 2023 23:13:26 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2945095');" title="AirPods Pro 페이지 이동" class="ellipsis">레이 (Rei)</a>]]></content:encoded>
         </item>
         <item>
@@ -205,14 +227,6 @@
             <pubDate>Tue, 20 Jun 2023 10:13:31 GMT</pubDate>
             <content:encoded><![CDATA[조아람 (Joe Aram)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/68/855/11268855_20230619162649_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[RUN THE WORLD (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11268740');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11268740');</guid>
-            <pubDate>Tue, 20 Jun 2023 10:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[라네스터 (Lanester)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/68/740/11268740_20230619152845_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
