@@ -4,9 +4,74 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 02:57:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 03:29:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머리 물 뿌려]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11272018');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11272018');</guid>
+            <pubDate>Fri, 23 Jun 2023 03:29:45 GMT</pubDate>
+            <content:encoded><![CDATA[하하X유권 (레게보이즈)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/72/018/11272018_20230622170354_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Love : For you]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11271761');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11271761');</guid>
+            <pubDate>Fri, 23 Jun 2023 03:29:45 GMT</pubDate>
+            <content:encoded><![CDATA[DOKO (도코)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/71/761/11271761_20230622113341_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[미스터로또 베스트 PART7]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11271914');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11271914');</guid>
+            <pubDate>Fri, 23 Jun 2023 03:29:45 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="thumb">
+					<a href="javascript:melon.link.goAlbumDetail('11271914');" title="미스터로또 베스트 PART7 - 페이지 이동" class="image_typeAll">
+						<img onerror="WEBPOCIMG.defaultAlbumImg(this);" src="https://cdnimg.melon.co.kr/cm2/album/images/112/71/914/11271914_20230622161655_500.jpg/melon/resize/360/quality/80/optimize" alt="" width="180" height="180">
+						<span class="bg_album_frame"></span>
+					</a>
+				</div>
+
+				
+
+				<div class="entry">
+					<div class="info">
+						<span class="vdo_name">[옴니버스]</span>
+						<a href="javascript:melon.link.goAlbumDetail('11271914');" class="ellipsis album_name" title="미스터로또 베스트 PART7 - 페이지 이동">미스터로또 베스트 PART7</a>
+						<span class="ellipsis artist">
+							Various Artists<span class="checkEllipsis" style="display: none;">Various Artists</span>
+						</span>
+						
+					</div>
+					<div class="meta">
+						<span class="reg_date" title="발매일">2023.06.23</span>
+						<i class="bar"></i>
+						<button type="button" class="button_etc like" title="미스터로또 베스트 PART7 좋아요" data-album-no="11271914" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
+<span class="cnt"><strong class="none">총건수</strong>276</span></button>
+						<i class="bar"></i>
+						<span class="tot_song" title="총 수록곡">10곡</span>
+					</div>
+					<div class="wrap_btn_tb">
+						<button type="button" onclick="melon.play.playAlbum('18020123','11271914');" title="앨범듣기" class="button_rbox"><span class="button_icons type02 play"></span><span class="cnt">앨범듣기</span></button>
+						<button type="button" onclick="melon.buy.goBuyProduct('frm','11271914','3B0001','','0','18020123','1');" title="앨범 다운로드" class="button_rbox"><span class="button_icons type02 download"></span><span class="cnt">앨범다운</span></button>
+						
+						<button type="button" onclick="melon.buy.goPresentForAlbum('11271914', '', '18020123');" title="선택된 곡 선물하기" class="button_rbox"><span class="button_icons type02 gift"></span><span class="cnt">선물</span></button>
+						
+					</div>
+				</div>]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/71/914/11271914_20230622161655_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[한장의 추억]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11272001');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11272001');</guid>
+            <pubDate>Fri, 23 Jun 2023 03:29:45 GMT</pubDate>
+            <content:encoded><![CDATA[연규성]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/72/001/11272001_20230622165210_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
         <item>
             <title><![CDATA[사랑하지 않아서 그랬니]]></title>
             <link>javascript:melon.link.goAlbumDetail('11270851');</link>
@@ -24,6 +89,30 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/70/546/11270546_20230621141942_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
+            <title><![CDATA[우리의 여름]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11271887');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11271887');</guid>
+            <pubDate>Fri, 23 Jun 2023 03:29:45 GMT</pubDate>
+            <content:encoded><![CDATA[정석훈]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/71/887/11271887_20230622150109_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[그곳은 더 이상 존재하지 않아]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11271885');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11271885');</guid>
+            <pubDate>Fri, 23 Jun 2023 03:29:45 GMT</pubDate>
+            <content:encoded><![CDATA[Ashmute (애쉬뮤트)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/71/885/11271885_20230622150006_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑하면 이런 마음이 될까]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11272064');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11272064');</guid>
+            <pubDate>Fri, 23 Jun 2023 03:29:45 GMT</pubDate>
+            <content:encoded><![CDATA[원지 (WONJI)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/72/064/11272064_20230622173500_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
             <title><![CDATA[인생일기]]></title>
             <link>javascript:melon.link.goAlbumDetail('11270930');</link>
             <guid>javascript:melon.link.goAlbumDetail('11270930');</guid>
@@ -38,6 +127,30 @@
             <pubDate>Thu, 22 Jun 2023 12:25:22 GMT</pubDate>
             <content:encoded><![CDATA[코요태]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/71/534/11271534_20230622102740_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑=생존]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11271853');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11271853');</guid>
+            <pubDate>Fri, 23 Jun 2023 03:29:45 GMT</pubDate>
+            <content:encoded><![CDATA[김나은]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/71/853/11271853_20230622142657_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[STUNNER]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11271983');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11271983');</guid>
+            <pubDate>Fri, 23 Jun 2023 03:29:45 GMT</pubDate>
+            <content:encoded><![CDATA[DJ Sparrow]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/71/983/11271983_20230622164539_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[백일몽(白日夢) / Day Dream]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11271601');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11271601');</guid>
+            <pubDate>Fri, 23 Jun 2023 03:29:45 GMT</pubDate>
+            <content:encoded><![CDATA[아영 (YOUNG)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/71/601/11271601_20230622104010_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[Tattoo]]></title>
@@ -90,7 +203,7 @@
 						<span class="reg_date" title="발매일">2023.06.22</span>
 						<i class="bar"></i>
 						<button type="button" class="button_etc like" title="트랄랄라 브라더스 베스트 PART8 좋아요" data-album-no="11270775" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>138</span></button>
+<span class="cnt"><strong class="none">총건수</strong>139</span></button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">10곡</span>
 					</div>
@@ -105,128 +218,20 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/70/775/11270775_20230621155807_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
+            <title><![CDATA[나는 잘 하고 있는 걸까]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11271843');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11271843');</guid>
+            <pubDate>Fri, 23 Jun 2023 03:29:45 GMT</pubDate>
+            <content:encoded><![CDATA[프리멜로]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/71/843/11271843_20230622141254_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
             <title><![CDATA[비는 내리고]]></title>
             <link>javascript:melon.link.goAlbumDetail('11270643');</link>
             <guid>javascript:melon.link.goAlbumDetail('11270643');</guid>
             <pubDate>Thu, 22 Jun 2023 12:25:22 GMT</pubDate>
             <content:encoded><![CDATA[범진]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/70/643/11270643_20230621144156_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[Baby]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11269385');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11269385');</guid>
-            <pubDate>Thu, 22 Jun 2023 12:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[클래지콰이]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/69/385/11269385_20230620142754_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[그런 날]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11270611');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11270611');</guid>
-            <pubDate>Thu, 22 Jun 2023 12:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[박찬영]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/70/611/11270611_20230621143306_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[Timeline]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11270766');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11270766');</guid>
-            <pubDate>Thu, 22 Jun 2023 12:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[크리스 메인 (Kris Main)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/70/766/11270766_20230621153801_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[널 위한 거야]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11270756');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11270756');</guid>
-            <pubDate>Thu, 22 Jun 2023 12:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[젬스톤]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/70/756/11270756_20230621151036_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[pony]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11270051');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11270051');</guid>
-            <pubDate>Thu, 22 Jun 2023 12:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[잔나비]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/70/051/11270051_20230621105357_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[락락파티 Part.1]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11269341');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11269341');</guid>
-            <pubDate>Thu, 22 Jun 2023 12:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[나비 (Navi)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/69/341/11269341_20230620140720_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[15]]></title>
-            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
-            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Fri, 23 Jun 2023 02:57:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('242868');" title="락락파티 Part.1 페이지 이동" class="ellipsis">나비 (Navi)</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[16]]></title>
-            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
-            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Fri, 23 Jun 2023 02:57:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3101553');" title="락락파티 Part.1 페이지 이동" class="ellipsis">엄지윤</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Unstoppable]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11270818');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11270818');</guid>
-            <pubDate>Thu, 22 Jun 2023 12:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[SUNGYOO]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/70/818/11270818_20230621161502_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[18]]></title>
-            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
-            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Fri, 23 Jun 2023 02:57:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3113659');" title="Unstoppable 페이지 이동" class="ellipsis">SUNGYOO</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[19]]></title>
-            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
-            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Fri, 23 Jun 2023 02:57:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2867826');" title="Unstoppable 페이지 이동" class="ellipsis">Noerio</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Jump]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11270711');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11270711');</guid>
-            <pubDate>Thu, 22 Jun 2023 12:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[Sunday Moon]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/70/711/11270711_20230621145458_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘, 우리의 밤]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11269483');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11269483');</guid>
-            <pubDate>Thu, 22 Jun 2023 12:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[박민혜 (빅마마)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/69/483/11269483_20230620153246_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[GIRL's ROUND Part. 2]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11269582');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11269582');</guid>
-            <pubDate>Thu, 22 Jun 2023 12:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[Lapillus(라필루스)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/69/582/11269582_20230620175357_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[little girl]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11270964');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11270964');</guid>
-            <pubDate>Thu, 22 Jun 2023 12:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[lofi]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/70/964/11270964_20230621172243_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
