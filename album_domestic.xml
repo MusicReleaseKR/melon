@@ -4,7 +4,7 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 09:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 10:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -185,20 +185,20 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/73/350/11273350_20230627142313_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
+            <title><![CDATA[Senseless]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11273344');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11273344');</guid>
+            <pubDate>Tue, 27 Jun 2023 10:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[Yammo]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/73/344/11273344_20230626165856_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
             <title><![CDATA[No Kidz Zone]]></title>
             <link>javascript:melon.link.goAlbumDetail('11273440');</link>
             <guid>javascript:melon.link.goAlbumDetail('11273440');</guid>
             <pubDate>Tue, 27 Jun 2023 03:30:26 GMT</pubDate>
             <content:encoded><![CDATA[99' Nasty Kidz (99' 네스티 키즈)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/73/440/11273440_20230626174847_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[그대를 많이 좋아해요]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11273192');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11273192');</guid>
-            <pubDate>Tue, 27 Jun 2023 03:30:26 GMT</pubDate>
-            <content:encoded><![CDATA[빨간의자]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/112/73/192/11273192_20230626154018_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
