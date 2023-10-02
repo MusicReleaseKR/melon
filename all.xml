@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Oct 2023 03:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 04:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 02 Oct 2023 03:12:56 GMT</pubDate>
             <content:encoded><![CDATA[나지혁]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/35/702/11335702_20230927110146_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[3D : The Remixes (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11336137');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11336137');</guid>
+            <pubDate>Mon, 02 Oct 2023 04:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[정국]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/36/137/11336137_20230927131155_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[To you (멜론 ─ 최신앨범 ─ 국내)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 01 Oct 2023 03:13:01 GMT</pubDate>
             <content:encoded><![CDATA[Sweet The Kid]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/35/595/11335595_20230927103203_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[월간 더 스테이지 (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11336420');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11336420');</guid>
-            <pubDate>Sun, 01 Oct 2023 03:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[김소연]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/36/420/11336420_20230927140252_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
