@@ -4,7 +4,7 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 11:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 12:23:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -114,15 +114,20 @@
 						<span class="vdo_name">[옴니버스]</span>
 						<a href="javascript:melon.link.goAlbumDetail('11342375');" class="ellipsis album_name" title="트랄랄라 브라더스 베스트 PART21 - 페이지 이동">트랄랄라 브라더스 베스트 PART21</a>
 						<span class="ellipsis artist">
-							Various Artists<span class="checkEllipsis" style="display: none;">Various Artists</span>
+							Various Artists<span class="checkEllipsis" style="display:none">Various Artists</span>
 						</span>
 						
 					</div>
 					<div class="meta">
 						<span class="reg_date" title="발매일">2023.10.12</span>
 						<i class="bar"></i>
-						<button type="button" class="button_etc like" title="트랄랄라 브라더스 베스트 PART21 좋아요" data-album-no="11342375" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>258</span></button>
+						<button type="button" class="button_etc like" title="트랄랄라 브라더스 베스트 PART21 좋아요" data-album-no="11342375" data-album-menuid="18020123">
+							<span class="odd_span">좋아요</span>
+							<span class="cnt">
+								<span class="none">총건수</span>
+								0
+							</span>
+						</button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">8곡</span>
 					</div>
@@ -164,14 +169,14 @@
             <title><![CDATA[15]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Thu, 12 Oct 2023 11:10:47 GMT</pubDate>
+            <pubDate>Thu, 12 Oct 2023 12:23:41 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3176958');" title="Love My Days 페이지 이동" class="ellipsis">Odett (오데트)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[16]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Thu, 12 Oct 2023 11:10:47 GMT</pubDate>
+            <pubDate>Thu, 12 Oct 2023 12:23:41 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2060026');" title="Love My Days 페이지 이동" class="ellipsis">준 (JUNE)</a>]]></content:encoded>
         </item>
         <item>
