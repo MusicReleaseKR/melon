@@ -4,9 +4,65 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 08:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 09:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MELTING POINT]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11358523');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11358523');</guid>
+            <pubDate>Mon, 06 Nov 2023 09:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[ZEROBASEONE (제로베이스원)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/58/523/11358523_20231103153003_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Do It]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11358621');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11358621');</guid>
+            <pubDate>Mon, 06 Nov 2023 09:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[영재 (Youngjae)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/58/621/11358621_20231103164659_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[LIME (I'm So)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11358619');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11358619');</guid>
+            <pubDate>Mon, 06 Nov 2023 09:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[백아연]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/58/619/11358619_20231103164159_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[그럴리 없잖아]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11358117');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11358117');</guid>
+            <pubDate>Mon, 06 Nov 2023 09:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[전상근]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/58/117/11358117_20231102182247_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[THE SOLOEST]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11358426');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11358426');</guid>
+            <pubDate>Mon, 06 Nov 2023 09:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[SINCE]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/58/426/11358426_20231103151257_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[쓰레기]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11358300');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11358300');</guid>
+            <pubDate>Mon, 06 Nov 2023 09:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[아우릴고트 (OUREALGOAT)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/58/300/11358300_20231103135947_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Standing Next to You : The Remixes]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11358644');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11358644');</guid>
+            <pubDate>Mon, 06 Nov 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[정국]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/58/644/11358644_20231106095958_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
         <item>
             <title><![CDATA[ESPRESSO MARTINI]]></title>
             <link>javascript:melon.link.goAlbumDetail('11358265');</link>
@@ -16,17 +72,17 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/58/265/11358265_20231103113907_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
-            <title><![CDATA[1]]></title>
+            <title><![CDATA[8]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Mon, 06 Nov 2023 08:16:40 GMT</pubDate>
+            <pubDate>Mon, 06 Nov 2023 09:13:08 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('312266');" title="ESPRESSO MARTINI 페이지 이동" class="ellipsis">알리 (ALi)</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2]]></title>
+            <title><![CDATA[9]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Mon, 06 Nov 2023 08:16:40 GMT</pubDate>
+            <pubDate>Mon, 06 Nov 2023 09:13:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('227228');" title="ESPRESSO MARTINI 페이지 이동" class="ellipsis">솔비</a>]]></content:encoded>
         </item>
         <item>
@@ -62,26 +118,26 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/58/359/11358359_20231103144452_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
-            <title><![CDATA[7]]></title>
+            <title><![CDATA[14]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Mon, 06 Nov 2023 08:16:40 GMT</pubDate>
+            <pubDate>Mon, 06 Nov 2023 09:13:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2083522');" title="한준한줌 페이지 이동" class="ellipsis">HAAN</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[8]]></title>
+            <title><![CDATA[15]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Mon, 06 Nov 2023 08:16:40 GMT</pubDate>
+            <pubDate>Mon, 06 Nov 2023 09:13:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2060026');" title="한준한줌 페이지 이동" class="ellipsis">준 (JUNE)</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Standing Next to You : The Remixes]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11358644');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11358644');</guid>
-            <pubDate>Mon, 06 Nov 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[정국]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/58/644/11358644_20231106095958_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+            <title><![CDATA[우리들이 만들어갈 이야기]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11358226');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11358226');</guid>
+            <pubDate>Mon, 06 Nov 2023 09:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[커맨더맨]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/58/226/11358226_20231103110903_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[靑春記錄  第2話 : 深]]></title>
@@ -108,17 +164,17 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/58/119/11358119_20231102182648_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
-            <title><![CDATA[13]]></title>
+            <title><![CDATA[20]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Mon, 06 Nov 2023 08:16:40 GMT</pubDate>
+            <pubDate>Mon, 06 Nov 2023 09:13:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2642905');" title="어디까지 간 거야 페이지 이동" class="ellipsis">Chan (찬)</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[14]]></title>
+            <title><![CDATA[21]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Mon, 06 Nov 2023 08:16:40 GMT</pubDate>
+            <pubDate>Mon, 06 Nov 2023 09:13:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('1627566');" title="어디까지 간 거야 페이지 이동" class="ellipsis">반에스틴 (BAN ESTIN)</a>]]></content:encoded>
         </item>
         <item>
@@ -152,62 +208,6 @@
             <pubDate>Sun, 05 Nov 2023 10:12:27 GMT</pubDate>
             <content:encoded><![CDATA[정승환]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/58/447/11358447_20231103152149_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[여행: 플리(playlist) OST Part.3]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11358598');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11358598');</guid>
-            <pubDate>Sun, 05 Nov 2023 10:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[케이시 (Kassy)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/58/598/11358598_20231103155328_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[Wannabe]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11358544');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11358544');</guid>
-            <pubDate>Mon, 06 Nov 2023 03:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[백식 (Baeksik)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/58/544/11358544_20231103154106_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[술 한잔 해요]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11358266');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11358266');</guid>
-            <pubDate>Sun, 05 Nov 2023 10:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[경서예지]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/58/266/11358266_20231103114110_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[Jump]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11358375');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11358375');</guid>
-            <pubDate>Mon, 06 Nov 2023 03:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[밴드기린 (Bandgirin)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/58/375/11358375_20231103144853_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[Goodday #2 벤치위레오]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11358604');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11358604');</guid>
-            <pubDate>Mon, 06 Nov 2023 03:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[벤치위레오 (BenchWeLeo)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/58/604/11358604_20231103155659_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[Hero]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11358442');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11358442');</guid>
-            <pubDate>Mon, 06 Nov 2023 03:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[cossoff (코스오프)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/58/442/11358442_20231103151848_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[그렇게 우린 멀어지겠죠]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11358519');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11358519');</guid>
-            <pubDate>Mon, 06 Nov 2023 03:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[모닝커피 (Morning Coffee)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/58/519/11358519_20231103152724_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
