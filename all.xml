@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 04:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 05:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jingle Bell Rock (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11372024');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11372024');</guid>
+            <pubDate>Fri, 24 Nov 2023 05:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[aespa]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/72/024/11372024_20231123172039_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
         <item>
             <title><![CDATA[싱어게인3 - 무명가수전 Episode.5 (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>javascript:melon.link.goAlbumDetail('11372009');</link>
@@ -34,7 +42,7 @@
 						<span class="reg_date" title="발매일">2023.11.24</span>
 						<i class="bar"></i>
 						<button type="button" class="button_etc like" title="싱어게인3 - 무명가수전 Episode.5 좋아요" data-album-no="11372009" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>35</span></button>
+<span class="cnt"><strong class="none">총건수</strong>44</span></button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">3곡</span>
 					</div>
@@ -83,7 +91,7 @@
 						<span class="reg_date" title="발매일">2023.11.24</span>
 						<i class="bar"></i>
 						<button type="button" class="button_etc like" title="미스터로또 베스트 PART25 좋아요" data-album-no="11371942" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>428</span></button>
+<span class="cnt"><strong class="none">총건수</strong>592</span></button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">18곡</span>
 					</div>
@@ -112,6 +120,14 @@
             <pubDate>Thu, 23 Nov 2023 15:12:50 GMT</pubDate>
             <content:encoded><![CDATA[챤미나 (CHANMINA)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/69/960/11369960_20231122103053_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[3D - Justin Timberlake Remix (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11371850');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11371850');</guid>
+            <pubDate>Fri, 24 Nov 2023 05:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[정국]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/71/850/11371850_20231123150600_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[구름 (멜론 ─ 최신앨범 ─ 국내)]]></title>
@@ -216,22 +232,6 @@
             <pubDate>Thu, 23 Nov 2023 09:12:44 GMT</pubDate>
             <content:encoded><![CDATA[FANTASY BOYS]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/71/437/11371437_20231122174356_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[ONLY ONE (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11371282');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11371282');</guid>
-            <pubDate>Thu, 23 Nov 2023 09:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[방예담]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/71/282/11371282_20231122163811_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[낮에 뜨는 달 OST Part.4 (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11370543');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11370543');</guid>
-            <pubDate>Thu, 23 Nov 2023 09:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[길구봉구]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/70/543/11370543_20231122122355_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
