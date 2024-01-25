@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 14:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 15:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어떤 미래 (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11406439');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11406439');</guid>
+            <pubDate>Thu, 25 Jan 2024 15:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[WOOZI (SEVENTEEN)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/06/439/11406439_20240125115508_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
         <item>
             <title><![CDATA[소품집 (Studio Live) (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>javascript:melon.link.goAlbumDetail('11405079');</link>
@@ -96,6 +104,14 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/04/706/11404706_20240124113532_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
+            <title><![CDATA[Elles (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11406723');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11406723');</guid>
+            <pubDate>Thu, 25 Jan 2024 15:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[나윤선]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/06/723/11406723_20240125160327_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
             <title><![CDATA[Night and Day (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>javascript:melon.link.goAlbumDetail('11405233');</link>
             <guid>javascript:melon.link.goAlbumDetail('11405233');</guid>
@@ -115,14 +131,14 @@
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Thu, 25 Jan 2024 14:12:26 GMT</pubDate>
+            <pubDate>Thu, 25 Jan 2024 15:13:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3684568');" title="스타리아나 (From &quot;아기상어 극장판 : 사이렌 스톤의 비밀&quot;) 페이지 이동" class="ellipsis">쓰복만</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Thu, 25 Jan 2024 14:12:26 GMT</pubDate>
+            <pubDate>Thu, 25 Jan 2024 15:13:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('1384479');" title="스타리아나 (From &quot;아기상어 극장판 : 사이렌 스톤의 비밀&quot;) 페이지 이동" class="ellipsis">핑크퐁</a>]]></content:encoded>
         </item>
         <item>
@@ -164,22 +180,6 @@
             <pubDate>Thu, 25 Jan 2024 09:13:01 GMT</pubDate>
             <content:encoded><![CDATA[크리스 메인 (Kris Main)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/04/734/11404734_20240124121958_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[시절 (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11404729');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11404729');</guid>
-            <pubDate>Thu, 25 Jan 2024 03:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[이지형]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/04/729/11404729_20240124121543_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[피도 눈물도 없이 OST Part.1 (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11404410');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11404410');</guid>
-            <pubDate>Thu, 25 Jan 2024 03:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[김현정]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/04/410/11404410_20240124094526_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
