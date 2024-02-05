@@ -4,7 +4,7 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 16:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 17:11:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/12/015/11412015_20240205114436_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
+            <title><![CDATA[25 - A COLORS SHOW]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11412021');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11412021');</guid>
+            <pubDate>Mon, 05 Feb 2024 17:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[oceanfromtheblue]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/12/021/11412021_20240205114609_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
             <title><![CDATA[때가 되어 헤어진 것뿐이죠]]></title>
             <link>javascript:melon.link.goAlbumDetail('11411298');</link>
             <guid>javascript:melon.link.goAlbumDetail('11411298');</guid>
@@ -104,17 +112,17 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/11/437/11411437_20240202155355_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
-            <title><![CDATA[12]]></title>
-            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
-            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Mon, 05 Feb 2024 16:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('751');" title="중2 (모두의 우주를 Respect) 페이지 이동" class="ellipsis">김창완</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[13]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Mon, 05 Feb 2024 16:14:37 GMT</pubDate>
+            <pubDate>Mon, 05 Feb 2024 17:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('751');" title="중2 (모두의 우주를 Respect) 페이지 이동" class="ellipsis">김창완</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[14]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Mon, 05 Feb 2024 17:11:35 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2006376');" title="중2 (모두의 우주를 Respect) 페이지 이동" class="ellipsis">창빈 (Stray Kids)</a>]]></content:encoded>
         </item>
         <item>
@@ -172,14 +180,6 @@
             <pubDate>Mon, 05 Feb 2024 05:13:56 GMT</pubDate>
             <content:encoded><![CDATA[태일 (TAEIL)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/10/622/11410622_20240201153005_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[Zero To Hero]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11411503');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11411503');</guid>
-            <pubDate>Mon, 05 Feb 2024 05:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[Flavordash]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/11/503/11411503_20240202172347_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
