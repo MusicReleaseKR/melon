@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 22:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 23:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[With YOU-th (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11424984');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11424984');</guid>
-            <pubDate>Fri, 23 Feb 2024 05:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE (트와이스)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/24/984/11424984_20240222142756_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
         <item>
             <title><![CDATA[Circles (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>javascript:melon.link.goAlbumDetail('11426306');</link>
@@ -38,6 +30,14 @@
             <pubDate>Fri, 23 Feb 2024 09:11:44 GMT</pubDate>
             <content:encoded><![CDATA[Jayci yucca (제이씨 유카)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/25/037/11425037_20240222144706_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[With YOU-th (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11424984');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11424984');</guid>
+            <pubDate>Fri, 23 Feb 2024 05:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE (트와이스)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/24/984/11424984_20240222142756_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[남과여 OST Part.6 (멜론 ─ 최신앨범 ─ 국내)]]></title>
@@ -132,28 +132,28 @@
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 23 Feb 2024 22:11:03 GMT</pubDate>
+            <pubDate>Fri, 23 Feb 2024 23:11:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('1239365');" title="TIGER BLADE 페이지 이동" class="ellipsis">Bruno Champman (브루노 챔프맨)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 23 Feb 2024 22:11:03 GMT</pubDate>
+            <pubDate>Fri, 23 Feb 2024 23:11:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('1813845');" title="TIGER BLADE 페이지 이동" class="ellipsis">브린 (Bryn)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 23 Feb 2024 22:11:03 GMT</pubDate>
+            <pubDate>Fri, 23 Feb 2024 23:11:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2642425');" title="TIGER BLADE 페이지 이동" class="ellipsis">키츠요지 (kitsyojii)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 23 Feb 2024 22:11:03 GMT</pubDate>
+            <pubDate>Fri, 23 Feb 2024 23:11:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2138586');" title="TIGER BLADE 페이지 이동" class="ellipsis">SINCE</a>]]></content:encoded>
         </item>
         <item>
