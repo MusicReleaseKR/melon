@@ -1,8 +1,185 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</id>
-    <title>멜론 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-03-17T17:11:26.097Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.melon.com/new/album/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 ─ 최신앨범 ─ 국내</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 17 Mar 2024 18:14:09 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[눈물의 여왕 OST Part.3]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11443908');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11443908');</guid>
+            <pubDate>Sun, 17 Mar 2024 18:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[헤이즈 (Heize)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/43/908/11443908_20240315134108_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[봄도 너의 소식도]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11443777');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11443777');</guid>
+            <pubDate>Sun, 17 Mar 2024 18:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[전예지 (경서예지)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/43/777/11443777_20240315114050_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[봄밤]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11443726');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11443726');</guid>
+            <pubDate>Sun, 17 Mar 2024 18:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[유림]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/43/726/11443726_20240315110451_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[With You (수업중입니다 2 OST)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11443659');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11443659');</guid>
+            <pubDate>Sun, 17 Mar 2024 18:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[유권 (블락비)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/43/659/11443659_20240315100842_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[매일 난 헤어진 다음날 (웹툰 '선녀외전' X 신예영)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11443665');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11443665');</guid>
+            <pubDate>Sun, 17 Mar 2024 18:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[신예영]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/43/665/11443665_20240315101459_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[그 여자]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11443781');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11443781');</guid>
+            <pubDate>Sun, 17 Mar 2024 18:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[송하예]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/43/781/11443781_20240315114209_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Refresh project]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11443690');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11443690');</guid>
+            <pubDate>Sun, 17 Mar 2024 18:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[고유진 (플라워)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/43/690/11443690_20240315105610_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[마리골드]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11442414');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11442414');</guid>
+            <pubDate>Sun, 17 Mar 2024 18:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[Blue.D]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/42/414/11442414_20240314111146_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[S.S SEASON: DARK KNIGHTS]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11443684');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11443684');</guid>
+            <pubDate>Sun, 17 Mar 2024 18:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[나상욱]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/43/684/11443684_20240315104958_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[9]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Sun, 17 Mar 2024 18:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3061334');" title="S.S SEASON: DARK KNIGHTS 페이지 이동" class="ellipsis">나상욱</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[10]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Sun, 17 Mar 2024 18:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2890309');" title="S.S SEASON: DARK KNIGHTS 페이지 이동" class="ellipsis">SXENT</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[안녕]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11443910');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11443910');</guid>
+            <pubDate>Sun, 17 Mar 2024 18:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[NO_ON (눈)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/43/910/11443910_20240315134155_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Guess We ain’t just Friends Now]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11443691');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11443691');</guid>
+            <pubDate>Sun, 17 Mar 2024 18:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[LeSon (르손)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/43/691/11443691_20240315105638_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[To Save Us All]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11443678');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11443678');</guid>
+            <pubDate>Sun, 17 Mar 2024 18:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[Herhums]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/43/678/11443678_20240315104103_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[눈물의 여왕 OST Part.2]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11443909');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11443909');</guid>
+            <pubDate>Sun, 17 Mar 2024 18:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[10CM]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/43/909/11443909_20240315134119_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[그거면 돼]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11443673');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11443673');</guid>
+            <pubDate>Sun, 17 Mar 2024 18:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[homezone]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/43/673/11443673_20240315103640_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[가보자GO]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11443776');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11443776');</guid>
+            <pubDate>Sun, 17 Mar 2024 18:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[홍지윤]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/43/776/11443776_20240315113848_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[잘 가고 있는지]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11443732');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11443732');</guid>
+            <pubDate>Sun, 17 Mar 2024 18:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[최도영(CANDO)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/43/732/11443732_20240315111357_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[머뭇머뭇]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11443693');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11443693');</guid>
+            <pubDate>Sun, 17 Mar 2024 18:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[황세현 (h3hyeon)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/43/693/11443693_20240315105748_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Long way (Feat. Snacky Chan)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11443662');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11443662');</guid>
+            <pubDate>Sun, 17 Mar 2024 18:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[시즈더데이 (seizetheday)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/43/662/11443662_20240315101206_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[너가 아니면]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11443731');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11443731');</guid>
+            <pubDate>Sun, 17 Mar 2024 18:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[Zenho]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/43/731/11443731_20240315111150_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Feelings]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11443775');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11443775');</guid>
+            <pubDate>Sun, 17 Mar 2024 18:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[다이애나 (Diana)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/43/775/11443775_20240315113825_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+    </channel>
+</rss>
