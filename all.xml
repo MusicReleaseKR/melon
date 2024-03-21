@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 14:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 15:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -67,15 +67,23 @@
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Thu, 21 Mar 2024 14:12:24 GMT</pubDate>
+            <pubDate>Thu, 21 Mar 2024 15:13:41 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('873054');" title="DOUBLECROSS MUSASHI: S’RIGHTEOUS GONE WILD 페이지 이동" class="ellipsis">Son Simba (손 심바)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Thu, 21 Mar 2024 14:12:24 GMT</pubDate>
+            <pubDate>Thu, 21 Mar 2024 15:13:41 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3462532');" title="DOUBLECROSS MUSASHI: S’RIGHTEOUS GONE WILD 페이지 이동" class="ellipsis">DET S'RIGHT</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Chopin: 12 Études, Op. 10: No. 12 in C Minor "Revolutionary" (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11446528');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11446528');</guid>
+            <pubDate>Thu, 21 Mar 2024 15:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[임윤찬]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/46/528/11446528_20240320105641_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[안녕 (멜론 ─ 최신앨범 ─ 국내)]]></title>
@@ -152,7 +160,7 @@
 						<span class="reg_date" title="발매일">2024.03.21</span>
 						<i class="bar"></i>
 						<button type="button" class="button_etc like" title="유명가수와 길거리 심사단 EP.3 좋아요" data-album-no="11447570" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>475</span></button>
+<span class="cnt"><strong class="none">총건수</strong>504</span></button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">4곡</span>
 					</div>
@@ -205,14 +213,6 @@
             <pubDate>Thu, 21 Mar 2024 03:14:25 GMT</pubDate>
             <content:encoded><![CDATA[제이세라]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/46/991/11446991_20240320121208_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[scabiosa (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11446891');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11446891');</guid>
-            <pubDate>Thu, 21 Mar 2024 03:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[migoo]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/46/891/11446891_20240320115215_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
