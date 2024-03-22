@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 03:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 04:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,7 +42,7 @@
 						<span class="reg_date" title="발매일">2024.03.22</span>
 						<i class="bar"></i>
 						<button type="button" class="button_etc like" title="빌드업 : 보컬 보이그룹 서바이벌 SEMI FINAL 좋아요" data-album-no="11448287" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>13</span></button>
+<span class="cnt"><strong class="none">총건수</strong>53</span></button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">8곡</span>
 					</div>
@@ -63,6 +63,14 @@
             <pubDate>Fri, 22 Mar 2024 03:13:21 GMT</pubDate>
             <content:encoded><![CDATA[곽태풍]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/48/200/11448200_20240321150039_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Smart (Remixes) (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11448558');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11448558');</guid>
+            <pubDate>Fri, 22 Mar 2024 04:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[LE SSERAFIM (르세라핌)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/48/558/11448558_20240321170750_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[너무행! (feat. WEN) (멜론 ─ 최신앨범 ─ 국내)]]></title>
@@ -191,28 +199,6 @@
             <pubDate>Thu, 21 Mar 2024 09:12:26 GMT</pubDate>
             <content:encoded><![CDATA[우예린]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/47/649/11447649_20240320163455_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[DOUBLECROSS MUSASHI: S’RIGHTEOUS GONE WILD (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11447580');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11447580');</guid>
-            <pubDate>Thu, 21 Mar 2024 09:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[Son Simba (손 심바)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/47/580/11447580_20240320153009_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
-            <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 22 Mar 2024 03:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('873054');" title="DOUBLECROSS MUSASHI: S’RIGHTEOUS GONE WILD 페이지 이동" class="ellipsis">Son Simba (손 심바)</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
-            <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 22 Mar 2024 03:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3462532');" title="DOUBLECROSS MUSASHI: S’RIGHTEOUS GONE WILD 페이지 이동" class="ellipsis">DET S'RIGHT</a>]]></content:encoded>
         </item>
     </channel>
 </rss>
