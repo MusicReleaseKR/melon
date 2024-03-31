@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Mar 2024 14:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Mar 2024 15:11:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BABYMONSTER 1st MINI ALBUM [BABYMONS7ER] (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11454802');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11454802');</guid>
+            <pubDate>Sun, 31 Mar 2024 15:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[BABYMONSTER]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/54/802/11454802_20240329134608_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
         <item>
             <title><![CDATA[Psycho, Loveholic [THE 시즌즈: 이효리의 레드카펫] (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>javascript:melon.link.goAlbumDetail('11454362');</link>
@@ -19,14 +27,14 @@
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Sun, 31 Mar 2024 14:10:19 GMT</pubDate>
+            <pubDate>Sun, 31 Mar 2024 15:11:28 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('792022');" title="Psycho, Loveholic [THE 시즌즈: 이효리의 레드카펫] 페이지 이동" class="ellipsis">볼빨간사춘기</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Sun, 31 Mar 2024 14:10:19 GMT</pubDate>
+            <pubDate>Sun, 31 Mar 2024 15:11:28 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('894864');" title="Psycho, Loveholic [THE 시즌즈: 이효리의 레드카펫] 페이지 이동" class="ellipsis">DAY6 (데이식스)</a>]]></content:encoded>
         </item>
         <item>
@@ -172,14 +180,6 @@
             <pubDate>Sun, 31 Mar 2024 03:13:58 GMT</pubDate>
             <content:encoded><![CDATA[Hoodin(후딘)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/54/382/11454382_20240328161817_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[가짜 공녀님의 만렙 토끼 OST Part.30 (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11453998');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11453998');</guid>
-            <pubDate>Sun, 31 Mar 2024 03:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[전근화 (Weeky1)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/53/998/11453998_20240328142207_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
