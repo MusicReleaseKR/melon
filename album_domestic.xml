@@ -4,7 +4,7 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Apr 2024 14:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 15:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,14 +43,14 @@
             <title><![CDATA[4]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Thu, 04 Apr 2024 14:13:15 GMT</pubDate>
+            <pubDate>Thu, 04 Apr 2024 15:12:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('897481');" title="DSMN (Don't Stop Me Now) 페이지 이동" class="ellipsis">Advanced</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[5]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Thu, 04 Apr 2024 14:13:15 GMT</pubDate>
+            <pubDate>Thu, 04 Apr 2024 15:12:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('792765');" title="DSMN (Don't Stop Me Now) 페이지 이동" class="ellipsis">SURAN (수란)</a>]]></content:encoded>
         </item>
         <item>
@@ -103,6 +103,14 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/56/553/11456553_20240403105048_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
+            <title><![CDATA[Chopin: 12 Études, Op. 25: No. 1 in A-Flat Major "Aeolian Harp"]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11457073');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11457073');</guid>
+            <pubDate>Thu, 04 Apr 2024 15:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[임윤찬]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/57/073/11457073_20240403131655_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
             <title><![CDATA[IMMM]]></title>
             <link>javascript:melon.link.goAlbumDetail('11456494');</link>
             <guid>javascript:melon.link.goAlbumDetail('11456494');</guid>
@@ -137,7 +145,7 @@
 						<span class="reg_date" title="발매일">2024.04.04</span>
 						<i class="bar"></i>
 						<button type="button" class="button_etc like" title="유명가수와 길거리 심사단 EP.5 좋아요" data-album-no="11457506" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>157</span></button>
+<span class="cnt"><strong class="none">총건수</strong>160</span></button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">4곡</span>
 					</div>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 04 Apr 2024 03:14:27 GMT</pubDate>
             <content:encoded><![CDATA[피다 (pida)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/56/756/11456756_20240403114545_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[피도 눈물도 없이 OST Part.11]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11456609');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11456609');</guid>
-            <pubDate>Thu, 04 Apr 2024 03:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[정선연]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/56/609/11456609_20240403111117_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
