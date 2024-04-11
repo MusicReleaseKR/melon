@@ -4,9 +4,17 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 03:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 04:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<Pre2 : Flower Rhythm>]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11460894');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11460894');</guid>
+            <pubDate>Thu, 11 Apr 2024 04:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[ARTMS]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/60/894/11460894_20240409115403_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
         <item>
             <title><![CDATA[희망]]></title>
             <link>javascript:melon.link.goAlbumDetail('11461462');</link>
@@ -144,17 +152,17 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/60/677/11460677_20240409095131_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
-            <title><![CDATA[17]]></title>
-            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
-            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Thu, 11 Apr 2024 03:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2854963');" title="The One 페이지 이동" class="ellipsis">SEMIN (세민)</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[18]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Thu, 11 Apr 2024 03:13:18 GMT</pubDate>
+            <pubDate>Thu, 11 Apr 2024 04:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2854963');" title="The One 페이지 이동" class="ellipsis">SEMIN (세민)</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[19]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Thu, 11 Apr 2024 04:14:38 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3058720');" title="The One 페이지 이동" class="ellipsis">Wiz-B</a>]]></content:encoded>
         </item>
         <item>
@@ -172,14 +180,6 @@
             <pubDate>Thu, 11 Apr 2024 03:13:18 GMT</pubDate>
             <content:encoded><![CDATA[Normal puppy]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/61/138/11461138_20240409144304_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[좋은 이별까진 아니어도]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11460890');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11460890');</guid>
-            <pubDate>Wed, 10 Apr 2024 09:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[장예진]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/60/890/11460890_20240409115051_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
