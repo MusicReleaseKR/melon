@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 May 2024 04:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 May 2024 05:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Mon, 13 May 2024 03:14:30 GMT</pubDate>
             <content:encoded><![CDATA[포더모어]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/86/799/11486799_20240510171009_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[때깔 (Killin' It) (English Version) (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11486223');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11486223');</guid>
+            <pubDate>Mon, 13 May 2024 05:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[P1Harmony]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/86/223/11486223_20240510111648_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[Spring 1 (멜론 ─ 최신앨범 ─ 국내)]]></title>
@@ -123,14 +131,14 @@
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Mon, 13 May 2024 04:16:37 GMT</pubDate>
+            <pubDate>Mon, 13 May 2024 05:15:04 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('935');" title="포에버 마이 러브(Forever My Love) 페이지 이동" class="ellipsis">진미령</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Mon, 13 May 2024 04:16:37 GMT</pubDate>
+            <pubDate>Mon, 13 May 2024 05:15:04 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('673106');" title="포에버 마이 러브(Forever My Love) 페이지 이동" class="ellipsis">김수찬</a>]]></content:encoded>
         </item>
         <item>
@@ -169,14 +177,14 @@
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Mon, 13 May 2024 04:16:37 GMT</pubDate>
+            <pubDate>Mon, 13 May 2024 05:15:04 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3462922');" title="붙잡아줘 페이지 이동" class="ellipsis">황병희</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Mon, 13 May 2024 04:16:37 GMT</pubDate>
+            <pubDate>Mon, 13 May 2024 05:15:04 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('455161');" title="붙잡아줘 페이지 이동" class="ellipsis">리디아 (Lydia)</a>]]></content:encoded>
         </item>
         <item>
@@ -186,14 +194,6 @@
             <pubDate>Mon, 13 May 2024 03:14:30 GMT</pubDate>
             <content:encoded><![CDATA[Komah Jay (코마제이)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/86/677/11486677_20240510155009_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[히어로는 아닙니다만 OST Part.1 (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11486488');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11486488');</guid>
-            <pubDate>Sun, 12 May 2024 09:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[소수빈]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/86/488/11486488_20240510141157_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
