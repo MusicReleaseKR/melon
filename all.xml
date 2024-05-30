@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 03:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 04:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 30 May 2024 03:14:45 GMT</pubDate>
             <content:encoded><![CDATA[유키스]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/00/796/11500796_20240529140703_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[The Cello (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11500180');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11500180');</guid>
+            <pubDate>Thu, 30 May 2024 04:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[윤한]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/00/180/11500180_20240529110041_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[아무도 없는 밤에〈산울림 50주년 기념 프로젝트〉 (멜론 ─ 최신앨범 ─ 국내)]]></title>
@@ -147,14 +155,14 @@
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Thu, 30 May 2024 03:14:45 GMT</pubDate>
+            <pubDate>Thu, 30 May 2024 04:18:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2736779');" title="조폭인 내가 고등학생이 되었습니다 OST Part.1 페이지 이동" class="ellipsis">LUCY</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Thu, 30 May 2024 03:14:45 GMT</pubDate>
+            <pubDate>Thu, 30 May 2024 04:18:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('904802');" title="조폭인 내가 고등학생이 되었습니다 OST Part.1 페이지 이동" class="ellipsis">지영훈</a>]]></content:encoded>
         </item>
         <item>
@@ -172,14 +180,6 @@
             <pubDate>Thu, 30 May 2024 03:14:45 GMT</pubDate>
             <content:encoded><![CDATA[그린베이지 (greenbeige)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/99/299/11499299_20240528114513_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[굿초이스 (Good Choice) (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11497856');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11497856');</guid>
-            <pubDate>Wed, 29 May 2024 09:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[나태주]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/97/856/11497856_20240527112918_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
