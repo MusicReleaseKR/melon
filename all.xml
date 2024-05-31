@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 21:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 22:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,22 +14,6 @@
             <pubDate>Fri, 31 May 2024 21:12:53 GMT</pubDate>
             <content:encoded><![CDATA[수호 (SUHO)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/91/834/11491834_20240531143809_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[GOLDEN HOUR : Part.1 (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11499863');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11499863');</guid>
-            <pubDate>Fri, 31 May 2024 21:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[ATEEZ (에이티즈)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/99/863/11499863_20240529091155_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[<Dall> (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11502132');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11502132');</guid>
-            <pubDate>Fri, 31 May 2024 21:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[ARTMS]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/02/132/11502132_20240530155830_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[Maze Runner (멜론 ─ 최신앨범 ─ 국내)]]></title>
@@ -54,6 +38,22 @@
             <pubDate>Fri, 31 May 2024 21:12:53 GMT</pubDate>
             <content:encoded><![CDATA[윤종신]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/02/151/11502151_20240530162032_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[GOLDEN HOUR : Part.1 (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11499863');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11499863');</guid>
+            <pubDate>Fri, 31 May 2024 21:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[ATEEZ (에이티즈)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/114/99/863/11499863_20240529091155_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[<Dall> (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11502132');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11502132');</guid>
+            <pubDate>Fri, 31 May 2024 21:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[ARTMS]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/02/132/11502132_20240530155830_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[omw (멜론 ─ 최신앨범 ─ 국내)]]></title>
@@ -196,14 +196,14 @@
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 31 May 2024 21:12:53 GMT</pubDate>
+            <pubDate>Fri, 31 May 2024 22:12:15 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('563152');" title="Truth 페이지 이동" class="ellipsis">Kiik</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 31 May 2024 21:12:53 GMT</pubDate>
+            <pubDate>Fri, 31 May 2024 22:12:15 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('790440');" title="Truth 페이지 이동" class="ellipsis">신기원 (ShinGiWon)</a>]]></content:encoded>
         </item>
         <item>
