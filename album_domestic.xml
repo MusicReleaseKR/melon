@@ -4,7 +4,7 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 03:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 04:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/03/635/11503635_20240603172411_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
+            <title><![CDATA[너를 찾아]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11503359');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11503359');</guid>
+            <pubDate>Tue, 04 Jun 2024 04:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[김만재]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/03/359/11503359_20240603113058_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
             <title><![CDATA[SEOUL]]></title>
             <link>javascript:melon.link.goAlbumDetail('11503068');</link>
             <guid>javascript:melon.link.goAlbumDetail('11503068');</guid>
@@ -56,38 +64,38 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/03/068/11503068_20240531203245_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
-            <title><![CDATA[6]]></title>
-            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
-            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Tue, 04 Jun 2024 03:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3808689');" title="SEOUL 페이지 이동" class="ellipsis">BASECREAM</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[7]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Tue, 04 Jun 2024 03:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('728795');" title="SEOUL 페이지 이동" class="ellipsis">Nieah (니아)</a>]]></content:encoded>
+            <pubDate>Tue, 04 Jun 2024 04:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3808689');" title="SEOUL 페이지 이동" class="ellipsis">BASECREAM</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[8]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Tue, 04 Jun 2024 03:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2754965');" title="SEOUL 페이지 이동" class="ellipsis">WOLFKOOKY</a>]]></content:encoded>
+            <pubDate>Tue, 04 Jun 2024 04:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('728795');" title="SEOUL 페이지 이동" class="ellipsis">Nieah (니아)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[9]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Tue, 04 Jun 2024 03:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2864664');" title="SEOUL 페이지 이동" class="ellipsis">KAEOH626</a>]]></content:encoded>
+            <pubDate>Tue, 04 Jun 2024 04:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2754965');" title="SEOUL 페이지 이동" class="ellipsis">WOLFKOOKY</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[10]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Tue, 04 Jun 2024 03:16:12 GMT</pubDate>
+            <pubDate>Tue, 04 Jun 2024 04:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2864664');" title="SEOUL 페이지 이동" class="ellipsis">KAEOH626</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[11]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Tue, 04 Jun 2024 04:15:50 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('992835');" title="SEOUL 페이지 이동" class="ellipsis">Mac Kidd</a>]]></content:encoded>
         </item>
         <item>
@@ -193,14 +201,6 @@
             <pubDate>Tue, 04 Jun 2024 03:16:12 GMT</pubDate>
             <content:encoded><![CDATA[Celestial Squad]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/03/511/11503511_20240603162319_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[What To Do]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11502197');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11502197');</guid>
-            <pubDate>Mon, 03 Jun 2024 14:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[SIM2]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/02/197/11502197_20240530171205_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
