@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jun 2024 23:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 01:00:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -114,15 +114,20 @@
 						<span class="vdo_name">[옴니버스]</span>
 						<a href="javascript:melon.link.goAlbumDetail('11509355');" class="ellipsis album_name" title="<걸스 온 파이어> Episode.2 - 페이지 이동">&lt;걸스 온 파이어&gt; Episode.2</a>
 						<span class="ellipsis artist">
-							Various Artists<span class="checkEllipsis" style="display: none;">Various Artists</span>
+							Various Artists<span class="checkEllipsis" style="display:none">Various Artists</span>
 						</span>
 						
 					</div>
 					<div class="meta">
 						<span class="reg_date" title="발매일">2024.06.12</span>
 						<i class="bar"></i>
-						<button type="button" class="button_etc like" title="<걸스 온 파이어> Episode.2 좋아요" data-album-no="11509355" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>17</span></button>
+						<button type="button" class="button_etc like" title="<걸스 온 파이어> Episode.2 좋아요" data-album-no="11509355" data-album-menuid="18020123">
+							<span class="odd_span">좋아요</span>
+							<span class="cnt">
+								<span class="none">총건수</span>
+								0
+							</span>
+						</button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">2곡</span>
 					</div>
@@ -196,56 +201,56 @@
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Wed, 12 Jun 2024 23:13:56 GMT</pubDate>
+            <pubDate>Thu, 13 Jun 2024 01:00:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3810475');" title="뮤지컬 ′어쩌면 해피엔딩′ 2024 페이지 이동" class="ellipsis">홍지희</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Wed, 12 Jun 2024 23:13:56 GMT</pubDate>
+            <pubDate>Thu, 13 Jun 2024 01:00:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('652531');" title="뮤지컬 ′어쩌면 해피엔딩′ 2024 페이지 이동" class="ellipsis">박진주</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Wed, 12 Jun 2024 23:13:56 GMT</pubDate>
+            <pubDate>Thu, 13 Jun 2024 01:00:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3619551');" title="뮤지컬 ′어쩌면 해피엔딩′ 2024 페이지 이동" class="ellipsis">장민제</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Wed, 12 Jun 2024 23:13:56 GMT</pubDate>
+            <pubDate>Thu, 13 Jun 2024 01:00:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3810482');" title="뮤지컬 ′어쩌면 해피엔딩′ 2024 페이지 이동" class="ellipsis">정욱진</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Wed, 12 Jun 2024 23:13:56 GMT</pubDate>
+            <pubDate>Thu, 13 Jun 2024 01:00:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('945665');" title="뮤지컬 ′어쩌면 해피엔딩′ 2024 페이지 이동" class="ellipsis">윤은오 (VROMANCE)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Wed, 12 Jun 2024 23:13:56 GMT</pubDate>
+            <pubDate>Thu, 13 Jun 2024 01:00:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2297740');" title="뮤지컬 ′어쩌면 해피엔딩′ 2024 페이지 이동" class="ellipsis">신재범</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Wed, 12 Jun 2024 23:13:56 GMT</pubDate>
+            <pubDate>Thu, 13 Jun 2024 01:00:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3810420');" title="뮤지컬 ′어쩌면 해피엔딩′ 2024 페이지 이동" class="ellipsis">이시안</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Wed, 12 Jun 2024 23:13:56 GMT</pubDate>
+            <pubDate>Thu, 13 Jun 2024 01:00:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3810480');" title="뮤지컬 ′어쩌면 해피엔딩′ 2024 페이지 이동" class="ellipsis">최호중</a>]]></content:encoded>
         </item>
         <item>
