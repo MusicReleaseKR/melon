@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 03:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 04:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NA (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11512703');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11512703');</guid>
+            <pubDate>Fri, 14 Jun 2024 04:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[나연 (TWICE)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/12/703/11512703_20240613174744_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
         <item>
             <title><![CDATA[미워미워 (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>javascript:melon.link.goAlbumDetail('11511877');</link>
@@ -42,7 +50,7 @@
 						<span class="reg_date" title="발매일">2024.06.14</span>
 						<i class="bar"></i>
 						<button type="button" class="button_etc like" title="미스쓰리랑 베스트 PART7 좋아요" data-album-no="11512021" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>11</span></button>
+<span class="cnt"><strong class="none">총건수</strong>33</span></button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">6곡</span>
 					</div>
@@ -63,6 +71,28 @@
             <pubDate>Fri, 14 Jun 2024 03:15:00 GMT</pubDate>
             <content:encoded><![CDATA[달수빈]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/12/239/11512239_20240613163519_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Iris (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11512031');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11512031');</guid>
+            <pubDate>Fri, 14 Jun 2024 04:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[Kanallia]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/12/031/11512031_20240613155024_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
+            <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
+            <pubDate>Fri, 14 Jun 2024 04:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2620150');" title="Iris 페이지 이동" class="ellipsis">Kanallia</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
+            <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
+            <pubDate>Fri, 14 Jun 2024 04:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('882041');" title="Iris 페이지 이동" class="ellipsis">사람12사람</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Over (멜론 ─ 최신앨범 ─ 국내)]]></title>
@@ -121,6 +151,14 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/11/298/11511298_20240613104655_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
+            <title><![CDATA[AK47 MEGA MIX (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11510599');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11510599');</guid>
+            <pubDate>Fri, 14 Jun 2024 04:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[Men's Tear(맨스티어)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/10/599/11510599_20240612141624_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
             <title><![CDATA[나 어떡해〈산울림 50주년 기념 프로젝트〉 (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>javascript:melon.link.goAlbumDetail('11511014');</link>
             <guid>javascript:melon.link.goAlbumDetail('11511014');</guid>
@@ -175,30 +213,6 @@
             <pubDate>Fri, 14 Jun 2024 03:15:00 GMT</pubDate>
             <content:encoded><![CDATA[치즈스틱]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/11/916/11511916_20240613154347_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[dopamine (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11510964');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11510964');</guid>
-            <pubDate>Thu, 13 Jun 2024 09:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[JUNNY (주니)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/10/964/11510964_20240612152521_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑이지 말입니다 (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11511034');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11511034');</guid>
-            <pubDate>Thu, 13 Jun 2024 09:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[미유 (Mew)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/11/034/11511034_20240612155618_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[Hobbies (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11510497');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11510497');</guid>
-            <pubDate>Thu, 13 Jun 2024 09:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[LambC (램씨)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/10/497/11510497_20240612114059_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
