@@ -4,7 +4,7 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jun 2024 04:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jun 2024 05:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,12 +152,26 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/22/620/11522620_20240626121415_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
-            <title><![CDATA[COOK!]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11521804');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11521804');</guid>
-            <pubDate>Wed, 26 Jun 2024 19:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[태우(TAEWOO)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/21/804/11521804_20240625175821_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+            <title><![CDATA[Cabaret (Feat. Babylon)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11522545');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11522545');</guid>
+            <pubDate>Thu, 27 Jun 2024 05:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[GENE$IS]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/22/545/11522545_20240626112408_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[19]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Thu, 27 Jun 2024 05:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2295660');" title="Cabaret (Feat. Babylon) 페이지 이동" class="ellipsis">GENE$IS</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[20]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Thu, 27 Jun 2024 05:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3688499');" title="Cabaret (Feat. Babylon) 페이지 이동" class="ellipsis">KUD MAN</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[수지맞은 우리 OST Part.16]]></title>
