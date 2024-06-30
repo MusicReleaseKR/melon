@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jun 2024 14:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jun 2024 15:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sticky (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11525661');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11525661');</guid>
+            <pubDate>Sun, 30 Jun 2024 15:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[KISS OF LIFE]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/25/661/11525661_20240628155508_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[FOREVER (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11525644');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11525644');</guid>
+            <pubDate>Sun, 30 Jun 2024 15:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[BABYMONSTER]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/25/644/11525644_20240628152518_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
         <item>
             <title><![CDATA[McNasty (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>javascript:melon.link.goAlbumDetail('11525429');</link>
@@ -27,14 +43,14 @@
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Sun, 30 Jun 2024 14:12:16 GMT</pubDate>
+            <pubDate>Sun, 30 Jun 2024 15:14:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('10210');" title="사랑했었다 페이지 이동" class="ellipsis">이영현</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Sun, 30 Jun 2024 14:12:16 GMT</pubDate>
+            <pubDate>Sun, 30 Jun 2024 15:14:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('30655');" title="사랑했었다 페이지 이동" class="ellipsis">박민혜 (빅마마)</a>]]></content:encoded>
         </item>
         <item>
@@ -73,14 +89,14 @@
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Sun, 30 Jun 2024 14:12:16 GMT</pubDate>
+            <pubDate>Sun, 30 Jun 2024 15:14:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('1867111');" title="Go Shawty 페이지 이동" class="ellipsis">Wooks</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Sun, 30 Jun 2024 14:12:16 GMT</pubDate>
+            <pubDate>Sun, 30 Jun 2024 15:14:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3056497');" title="Go Shawty 페이지 이동" class="ellipsis">삼손 (XAMXON)</a>]]></content:encoded>
         </item>
         <item>
@@ -178,22 +194,6 @@
             <pubDate>Sun, 30 Jun 2024 03:16:45 GMT</pubDate>
             <content:encoded><![CDATA[Movin(무빈)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/25/545/11525545_20240628142119_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[아직도 널 (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11525801');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11525801');</guid>
-            <pubDate>Sun, 30 Jun 2024 03:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[Opius]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/25/801/11525801_20240628164613_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[emeralds (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11524957');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11524957');</guid>
-            <pubDate>Sun, 30 Jun 2024 03:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[kennytheking (케니더킹)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/24/957/11524957_20240627183939_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
