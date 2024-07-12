@@ -1,8 +1,204 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</id>
-    <title>멜론 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-07-12T10:15:36.944Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.melon.com/new/album/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 ─ 최신앨범 ─ 국내</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 12 Jul 2024 11:12:30 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ROMANCE : UNTOLD]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11538785');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11538785');</guid>
+            <pubDate>Fri, 12 Jul 2024 11:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/38/785/11538785_20240712094359_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[OST]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11538312');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11538312');</guid>
+            <pubDate>Fri, 12 Jul 2024 11:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[ASH ISLAND]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/38/312/11538312_20240711150921_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[coco water]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11536836');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11536836');</guid>
+            <pubDate>Fri, 12 Jul 2024 11:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[휘인 (Whee In)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/36/836/11536836_20240710165021_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[알라릴라릴랄루]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11538075');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11538075');</guid>
+            <pubDate>Fri, 12 Jul 2024 11:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[박경]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/38/075/11538075_20240711143648_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[제가 어른이 라네요]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11538118');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11538118');</guid>
+            <pubDate>Fri, 12 Jul 2024 11:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[수진 (Sujin)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/38/118/11538118_20240711144835_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[아리아]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11538296');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11538296');</guid>
+            <pubDate>Fri, 12 Jul 2024 11:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[양정승]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/38/296/11538296_20240711150654_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[THE SUNRISE]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11385339');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11385339');</guid>
+            <pubDate>Fri, 12 Jul 2024 11:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[유토 (JUTO)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/113/85/339/11385339_20240712132835_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[24HRS IN SEOUL]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11537177');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11537177');</guid>
+            <pubDate>Fri, 12 Jul 2024 11:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[Effie]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/37/177/11537177_20240710183658_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[미스쓰리랑 베스트 PART11]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11538311');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11538311');</guid>
+            <pubDate>Fri, 12 Jul 2024 11:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="thumb">
+					<a href="javascript:melon.link.goAlbumDetail('11538311');" title="미스쓰리랑 베스트 PART11 - 페이지 이동" class="image_typeAll">
+						<img onerror="WEBPOCIMG.defaultAlbumImg(this);" width="180" height="180" src="https://cdnimg.melon.co.kr/cm2/album/images/115/38/311/11538311_20240711150842_500.jpg/melon/resize/360/quality/80/optimize" alt="">
+						<span class="bg_album_frame"></span>
+					</a>
+				</div>
+
+				
+
+				<div class="entry">
+					<div class="info">
+						<span class="vdo_name">[옴니버스]</span>
+						<a href="javascript:melon.link.goAlbumDetail('11538311');" class="ellipsis album_name" title="미스쓰리랑 베스트 PART11 - 페이지 이동">미스쓰리랑 베스트 PART11</a>
+						<span class="ellipsis artist">
+							Various Artists<span class="checkEllipsis" style="display: none;">Various Artists</span>
+						</span>
+						
+					</div>
+					<div class="meta">
+						<span class="reg_date" title="발매일">2024.07.12</span>
+						<i class="bar"></i>
+						<button type="button" class="button_etc like" title="미스쓰리랑 베스트 PART11 좋아요" data-album-no="11538311" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
+<span class="cnt"><strong class="none">총건수</strong>71</span></button>
+						<i class="bar"></i>
+						<span class="tot_song" title="총 수록곡">8곡</span>
+					</div>
+					<div class="wrap_btn_tb">
+						<button type="button" onclick="melon.play.playAlbum('18020123','11538311');" title="앨범듣기" class="button_rbox"><span class="button_icons type02 play"></span><span class="cnt">앨범듣기</span></button>
+						<button type="button" onclick="melon.buy.goBuyProduct('frm','11538311','3B0001','','0','18020123','1');" title="앨범 다운로드" class="button_rbox"><span class="button_icons type02 download"></span><span class="cnt">앨범다운</span></button>
+						
+						<button type="button" onclick="melon.buy.goPresentForAlbum('11538311', '', '18020123');" title="선택된 곡 선물하기" class="button_rbox"><span class="button_icons type02 gift"></span><span class="cnt">선물</span></button>
+						
+					</div>
+				</div>]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/38/311/11538311_20240711150842_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Sweetie]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11537123');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11537123');</guid>
+            <pubDate>Fri, 12 Jul 2024 11:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[PRSNT(프레젠트)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/37/123/11537123_20240710181938_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[고통없이 (Painless)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11537124');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11537124');</guid>
+            <pubDate>Fri, 12 Jul 2024 11:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[파란노을 (Parannoul)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/37/124/11537124_20240710181942_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[이혼도장]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11537835');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11537835');</guid>
+            <pubDate>Fri, 12 Jul 2024 11:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[심규덕]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/37/835/11537835_20240711110715_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[그치지 않는 소나기]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11536961');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11536961');</guid>
+            <pubDate>Fri, 12 Jul 2024 11:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[강찬휘]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/36/961/11536961_20240710171206_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[부디]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11536630');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11536630');</guid>
+            <pubDate>Fri, 12 Jul 2024 11:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[박원]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/36/630/11536630_20240710151812_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[교차로]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11536585');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11536585');</guid>
+            <pubDate>Fri, 12 Jul 2024 11:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[아우릴고트 (OUREALGOAT)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/36/585/11536585_20240710150728_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Brothers]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11538157');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11538157');</guid>
+            <pubDate>Fri, 12 Jul 2024 11:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[Time2cook(타임투쿡)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/38/157/11538157_20240711145346_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[바래진 기억이라 생각했었는데]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11538073');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11538073');</guid>
+            <pubDate>Fri, 12 Jul 2024 11:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[톤 (TONE)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/38/073/11538073_20240711143536_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[STAY WITH ME]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11536614');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11536614');</guid>
+            <pubDate>Fri, 12 Jul 2024 11:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[박정현]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/36/614/11536614_20240710151441_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Ever Since We]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11538019');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11538019');</guid>
+            <pubDate>Fri, 12 Jul 2024 11:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[Horace]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/38/019/11538019_20240711135745_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[마피아 보스가 나에게 집착한다 OST Part.14]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11537772');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11537772');</guid>
+            <pubDate>Fri, 12 Jul 2024 11:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[주현민]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/37/772/11537772_20240711102807_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+    </channel>
+</rss>
