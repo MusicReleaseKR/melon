@@ -4,17 +4,9 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jul 2024 21:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jul 2024 22:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[ROMANCE : UNTOLD]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11538785');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11538785');</guid>
-            <pubDate>Fri, 12 Jul 2024 11:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/38/785/11538785_20240712094359_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
         <item>
             <title><![CDATA[OST]]></title>
             <link>javascript:melon.link.goAlbumDetail('11538312');</link>
@@ -46,6 +38,14 @@
             <pubDate>Fri, 12 Jul 2024 11:12:29 GMT</pubDate>
             <content:encoded><![CDATA[수진 (Sujin)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/38/118/11538118_20240711144835_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[ROMANCE : UNTOLD]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11538785');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11538785');</guid>
+            <pubDate>Fri, 12 Jul 2024 11:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/38/785/11538785_20240712094359_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[아리아]]></title>
