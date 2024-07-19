@@ -4,25 +4,9 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jul 2024 21:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 22:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[ATE]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11545789');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11545789');</guid>
-            <pubDate>Fri, 19 Jul 2024 04:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids (스트레이 키즈)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/45/789/11545789_20240719102456_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[MUSE]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11525235');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11525235');</guid>
-            <pubDate>Fri, 19 Jul 2024 04:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[지민]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/25/235/11525235_20240628094627_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
         <item>
             <title><![CDATA[괜찮은 척하지만]]></title>
             <link>javascript:melon.link.goAlbumDetail('11545513');</link>
@@ -56,6 +40,22 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/45/376/11545376_20240718141656_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
+            <title><![CDATA[ATE]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11545789');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11545789');</guid>
+            <pubDate>Fri, 19 Jul 2024 04:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids (스트레이 키즈)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/45/789/11545789_20240719102456_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[MUSE]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11525235');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11525235');</guid>
+            <pubDate>Fri, 19 Jul 2024 04:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[지민]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/25/235/11525235_20240628094627_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
             <title><![CDATA[화인가 스캔들 OST Part.5]]></title>
             <link>javascript:melon.link.goAlbumDetail('11545515');</link>
             <guid>javascript:melon.link.goAlbumDetail('11545515');</guid>
@@ -67,14 +67,14 @@
             <title><![CDATA[7]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Fri, 19 Jul 2024 21:12:43 GMT</pubDate>
+            <pubDate>Fri, 19 Jul 2024 22:14:23 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('1383070');" title="화인가 스캔들 OST Part.5 페이지 이동" class="ellipsis">시연 (드림캐쳐)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[8]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Fri, 19 Jul 2024 21:12:43 GMT</pubDate>
+            <pubDate>Fri, 19 Jul 2024 22:14:23 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('881941');" title="화인가 스캔들 OST Part.5 페이지 이동" class="ellipsis">임단우</a>]]></content:encoded>
         </item>
         <item>
@@ -128,7 +128,7 @@
 						<span class="reg_date" title="발매일">2024.07.19</span>
 						<i class="bar"></i>
 						<button type="button" class="button_etc like" title="미스쓰리랑 베스트 PART12 좋아요" data-album-no="11545516" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>68</span></button>
+<span class="cnt"><strong class="none">총건수</strong>69</span></button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">6곡</span>
 					</div>
@@ -170,14 +170,14 @@
             <title><![CDATA[16]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Fri, 19 Jul 2024 21:12:43 GMT</pubDate>
+            <pubDate>Fri, 19 Jul 2024 22:14:23 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2969145');" title="지우를 지켜라! 페이지 이동" class="ellipsis">임지우(imzoo)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[17]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Fri, 19 Jul 2024 21:12:43 GMT</pubDate>
+            <pubDate>Fri, 19 Jul 2024 22:14:23 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2746232');" title="지우를 지켜라! 페이지 이동" class="ellipsis">박천득</a>]]></content:encoded>
         </item>
         <item>
@@ -216,14 +216,14 @@
             <title><![CDATA[22]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Fri, 19 Jul 2024 21:12:43 GMT</pubDate>
+            <pubDate>Fri, 19 Jul 2024 22:14:23 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('924416');" title="MINISERIES 2 페이지 이동" class="ellipsis">SUMIN (수민)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[23]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Fri, 19 Jul 2024 21:12:43 GMT</pubDate>
+            <pubDate>Fri, 19 Jul 2024 22:14:23 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('958165');" title="MINISERIES 2 페이지 이동" class="ellipsis">Slom</a>]]></content:encoded>
         </item>
         <item>
