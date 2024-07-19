@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jul 2024 03:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 04:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ATE (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11545789');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11545789');</guid>
+            <pubDate>Fri, 19 Jul 2024 04:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids (스트레이 키즈)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/45/789/11545789_20240719102456_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[MUSE (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11525235');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11525235');</guid>
+            <pubDate>Fri, 19 Jul 2024 04:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[지민]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/25/235/11525235_20240628094627_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
         <item>
             <title><![CDATA[#IMNOTYOUREMOJI (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>javascript:melon.link.goAlbumDetail('11545674');</link>
@@ -42,7 +58,7 @@
 						<span class="reg_date" title="발매일">2024.07.19</span>
 						<i class="bar"></i>
 						<button type="button" class="button_etc like" title="미스쓰리랑 베스트 PART12 좋아요" data-album-no="11545516" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>17</span></button>
+<span class="cnt"><strong class="none">총건수</strong>35</span></button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">6곡</span>
 					</div>
@@ -84,14 +100,14 @@
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 19 Jul 2024 03:17:23 GMT</pubDate>
+            <pubDate>Fri, 19 Jul 2024 04:18:36 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2969145');" title="지우를 지켜라! 페이지 이동" class="ellipsis">임지우(imzoo)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 19 Jul 2024 03:17:23 GMT</pubDate>
+            <pubDate>Fri, 19 Jul 2024 04:18:37 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2746232');" title="지우를 지켜라! 페이지 이동" class="ellipsis">박천득</a>]]></content:encoded>
         </item>
         <item>
@@ -130,14 +146,14 @@
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 19 Jul 2024 03:17:23 GMT</pubDate>
+            <pubDate>Fri, 19 Jul 2024 04:18:37 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('924416');" title="MINISERIES 2 페이지 이동" class="ellipsis">SUMIN (수민)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 19 Jul 2024 03:17:23 GMT</pubDate>
+            <pubDate>Fri, 19 Jul 2024 04:18:37 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('958165');" title="MINISERIES 2 페이지 이동" class="ellipsis">Slom</a>]]></content:encoded>
         </item>
         <item>
@@ -211,22 +227,6 @@
             <pubDate>Fri, 19 Jul 2024 03:17:24 GMT</pubDate>
             <content:encoded><![CDATA[플린 (Fleen)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/45/220/11545220_20240718122556_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[QWERTY CAKE (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11544949');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11544949');</guid>
-            <pubDate>Thu, 18 Jul 2024 09:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[이찬희]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/44/949/11544949_20240718102458_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[Parasol Violet (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11543811');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11543811');</guid>
-            <pubDate>Thu, 18 Jul 2024 03:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[Hookuo (후쿠오)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/43/811/11543811_20240717105821_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
