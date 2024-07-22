@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jul 2024 03:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jul 2024 04:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Mon, 22 Jul 2024 03:16:51 GMT</pubDate>
             <content:encoded><![CDATA[Raon]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/46/263/11546263_20240719195029_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Chk Chk Boom (Remixes) (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11546310');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11546310');</guid>
+            <pubDate>Mon, 22 Jul 2024 04:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids (스트레이 키즈)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/46/310/11546310_20240722095350_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[어린왕자 (멜론 ─ 최신앨범 ─ 국내)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 21 Jul 2024 09:13:09 GMT</pubDate>
             <content:encoded><![CDATA[신예영]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/45/825/11545825_20240719115006_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[Project[심금], Part 1 (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11545909');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11545909');</guid>
-            <pubDate>Sun, 21 Jul 2024 09:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[반하나]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/45/909/11545909_20240719135801_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
