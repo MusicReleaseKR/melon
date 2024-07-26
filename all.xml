@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jul 2024 03:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jul 2024 04:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[dummy (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11551172');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11551172');</guid>
+            <pubDate>Fri, 26 Jul 2024 04:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[ARrC (아크)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/51/172/11551172_20240725162658_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
         <item>
             <title><![CDATA[미스쓰리랑 베스트 PART13 (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>javascript:melon.link.goAlbumDetail('11551066');</link>
@@ -34,7 +42,7 @@
 						<span class="reg_date" title="발매일">2024.07.26</span>
 						<i class="bar"></i>
 						<button type="button" class="button_etc like" title="미스쓰리랑 베스트 PART13 좋아요" data-album-no="11551066" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>13</span></button>
+<span class="cnt"><strong class="none">총건수</strong>33</span></button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">4곡</span>
 					</div>
@@ -65,6 +73,14 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/50/832/11550832_20240725114934_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
+            <title><![CDATA[City Lights - The Mini Album (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11551026');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11551026');</guid>
+            <pubDate>Fri, 26 Jul 2024 04:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[태하]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/51/026/11551026_20240725150515_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
             <title><![CDATA[우산 (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>javascript:melon.link.goAlbumDetail('11550794');</link>
             <guid>javascript:melon.link.goAlbumDetail('11550794');</guid>
@@ -92,14 +108,14 @@
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 26 Jul 2024 03:16:37 GMT</pubDate>
+            <pubDate>Fri, 26 Jul 2024 04:17:29 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('688432');" title="ON FIRE 페이지 이동" class="ellipsis">로꼬</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 26 Jul 2024 03:16:37 GMT</pubDate>
+            <pubDate>Fri, 26 Jul 2024 04:17:29 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2111694');" title="ON FIRE 페이지 이동" class="ellipsis">쿠기 (Coogie)</a>]]></content:encoded>
         </item>
         <item>
@@ -197,22 +213,6 @@
             <pubDate>Thu, 25 Jul 2024 17:12:17 GMT</pubDate>
             <content:encoded><![CDATA[WH3N (웬)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/50/440/11550440_20240725101743_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[SILHOUETTE (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11548981');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11548981');</guid>
-            <pubDate>Thu, 25 Jul 2024 17:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[OoOo (오넷)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/48/981/11548981_20240724095941_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑 그게 대체 뭔데 (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11550159');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11550159');</guid>
-            <pubDate>Thu, 25 Jul 2024 17:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[정창룡]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/50/159/11550159_20240724164608_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
