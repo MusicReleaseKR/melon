@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Aug 2024 09:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Aug 2024 10:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Thu, 01 Aug 2024 09:13:51 GMT</pubDate>
             <content:encoded><![CDATA[JINBO the SuperFreak]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/55/493/11555493_20240801094220_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[Umbrella (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11555291');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11555291');</guid>
-            <pubDate>Thu, 01 Aug 2024 09:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[DK (김동혁)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/55/291/11555291_20240731145748_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[그게맞아 (멜론 ─ 최신앨범 ─ 국내)]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Thu, 01 Aug 2024 03:16:33 GMT</pubDate>
             <content:encoded><![CDATA[유명한아이]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/55/225/11555225_20240731143429_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Talkin' Too Much (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11555100');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11555100');</guid>
+            <pubDate>Thu, 01 Aug 2024 10:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[Young Telly]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/55/100/11555100_20240731110607_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
