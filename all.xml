@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Aug 2024 03:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Aug 2024 04:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,28 @@
             <pubDate>Wed, 07 Aug 2024 03:16:03 GMT</pubDate>
             <content:encoded><![CDATA[강백수]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/59/589/11559589_20240806102835_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Badder Love (MINDA Remixes) (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11560218');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11560218');</guid>
+            <pubDate>Wed, 07 Aug 2024 04:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[EVNNE(이븐)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/60/218/11560218_20240806145748_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
+            <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
+            <pubDate>Wed, 07 Aug 2024 04:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3561880');" title="Badder Love (MINDA Remixes) 페이지 이동" class="ellipsis">EVNNE(이븐)</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
+            <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
+            <pubDate>Wed, 07 Aug 2024 04:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2879481');" title="Badder Love (MINDA Remixes) 페이지 이동" class="ellipsis">MINDA</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[17 (멜론 ─ 최신앨범 ─ 국내)]]></title>
@@ -158,28 +180,6 @@
             <pubDate>Wed, 07 Aug 2024 03:16:03 GMT</pubDate>
             <content:encoded><![CDATA[리얼프로그]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/59/735/11559735_20240806111430_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[미미미누 수능 응원송 프로젝트 2024 (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11558632');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11558632');</guid>
-            <pubDate>Wed, 07 Aug 2024 02:34:56 GMT</pubDate>
-            <content:encoded><![CDATA[윤마치 (MRCH)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/58/632/11558632_20240805114542_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
-            <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Wed, 07 Aug 2024 03:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2742395');" title="미미미누 수능 응원송 프로젝트 2024 페이지 이동" class="ellipsis">윤마치 (MRCH)</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
-            <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Wed, 07 Aug 2024 03:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3119231');" title="미미미누 수능 응원송 프로젝트 2024 페이지 이동" class="ellipsis">미미미누</a>]]></content:encoded>
         </item>
     </channel>
 </rss>
