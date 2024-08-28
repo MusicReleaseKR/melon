@@ -4,7 +4,7 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Aug 2024 03:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 04:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 28 Aug 2024 03:16:13 GMT</pubDate>
             <content:encoded><![CDATA[윤석철트리오]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/76/989/11576989_20240827180704_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Day That I Died]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11576522');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11576522');</guid>
+            <pubDate>Wed, 28 Aug 2024 04:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[WOOSUNG]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/76/522/11576522_20240827120345_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[홍자 3rd 미니앨범 '빠라삐리뽀']]></title>
@@ -152,24 +160,24 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/75/548/11575548_20240826123422_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
-            <title><![CDATA[18]]></title>
-            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
-            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Wed, 28 Aug 2024 03:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3883076');" title="특전소녀전선 Spring Memories 페이지 이동" class="ellipsis">백일몽</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[19]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Wed, 28 Aug 2024 03:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3883077');" title="특전소녀전선 Spring Memories 페이지 이동" class="ellipsis">시로유메</a>]]></content:encoded>
+            <pubDate>Wed, 28 Aug 2024 04:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3883076');" title="특전소녀전선 Spring Memories 페이지 이동" class="ellipsis">백일몽</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[20]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Wed, 28 Aug 2024 03:16:13 GMT</pubDate>
+            <pubDate>Wed, 28 Aug 2024 04:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3883077');" title="특전소녀전선 Spring Memories 페이지 이동" class="ellipsis">시로유메</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[21]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Wed, 28 Aug 2024 04:18:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3883078');" title="특전소녀전선 Spring Memories 페이지 이동" class="ellipsis">미도리샤워</a>]]></content:encoded>
         </item>
         <item>
@@ -179,14 +187,6 @@
             <pubDate>Wed, 28 Aug 2024 03:16:13 GMT</pubDate>
             <content:encoded><![CDATA[HJ]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/76/695/11576695_20240827150303_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[흔들리며 피는 꽃]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11575327');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11575327');</guid>
-            <pubDate>Tue, 27 Aug 2024 09:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[정훈희]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/75/327/11575327_20240826113204_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
