@@ -4,25 +4,9 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Aug 2024 21:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 22:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[CRAZY]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11579884');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11579884');</guid>
-            <pubDate>Fri, 30 Aug 2024 04:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[LE SSERAFIM (르세라핌)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/79/884/11579884_20240830100608_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[Starry Night]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11579333');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11579333');</guid>
-            <pubDate>Fri, 30 Aug 2024 04:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[FIFTY FIFTY]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/79/333/11579333_20240829154300_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
         <item>
             <title><![CDATA[Grey (나쁜 기억 지우개 X LUCY)]]></title>
             <link>javascript:melon.link.goAlbumDetail('11579328');</link>
@@ -54,6 +38,22 @@
             <pubDate>Fri, 30 Aug 2024 09:16:08 GMT</pubDate>
             <content:encoded><![CDATA[우디 (Woody)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/78/908/11578908_20240829115342_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[CRAZY]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11579884');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11579884');</guid>
+            <pubDate>Fri, 30 Aug 2024 04:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[LE SSERAFIM (르세라핌)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/79/884/11579884_20240830100608_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Starry Night]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11579333');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11579333');</guid>
+            <pubDate>Fri, 30 Aug 2024 04:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[FIFTY FIFTY]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/79/333/11579333_20240829154300_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[Supernova (Jazz Ver.)]]></title>
