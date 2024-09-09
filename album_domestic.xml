@@ -4,7 +4,7 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Sep 2024 03:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Sep 2024 04:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,28 @@
             <pubDate>Mon, 09 Sep 2024 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[THE SOUND (더 사운드)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/87/431/11587431_20240906165531_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[CRAZY (David Guetta Remix)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11588032');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11588032');</guid>
+            <pubDate>Mon, 09 Sep 2024 04:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[LE SSERAFIM (르세라핌)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/88/032/11588032_20240909095400_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[5]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Mon, 09 Sep 2024 04:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3092950');" title="CRAZY (David Guetta Remix) 페이지 이동" class="ellipsis">LE SSERAFIM (르세라핌)</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[6]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Mon, 09 Sep 2024 04:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('182123');" title="CRAZY (David Guetta Remix) 페이지 이동" class="ellipsis">David Guetta</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[엄마친구아들 OST Part.3]]></title>
@@ -158,14 +180,6 @@
             <pubDate>Mon, 09 Sep 2024 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[당기시오]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/86/859/11586859_20240906120011_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[쏟아지는 별을 따라가]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11585844');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11585844');</guid>
-            <pubDate>Sun, 08 Sep 2024 13:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[탑현]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/85/844/11585844_20240905144227_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
