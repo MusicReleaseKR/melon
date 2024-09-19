@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Sep 2024 03:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Sep 2024 04:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,28 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/92/269/11592269_20240912141900_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
+            <title><![CDATA[TROUBLE (arcon Remix) (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11592637');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11592637');</guid>
+            <pubDate>Thu, 19 Sep 2024 04:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[EVNNE(이븐)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/92/637/11592637_20240912154813_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
+            <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
+            <pubDate>Thu, 19 Sep 2024 04:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3561880');" title="TROUBLE (arcon Remix) 페이지 이동" class="ellipsis">EVNNE(이븐)</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
+            <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
+            <pubDate>Thu, 19 Sep 2024 04:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2862309');" title="TROUBLE (arcon Remix) 페이지 이동" class="ellipsis">arcon</a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[I Wish (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>javascript:melon.link.goAlbumDetail('11593782');</link>
             <guid>javascript:melon.link.goAlbumDetail('11593782');</guid>
@@ -83,14 +105,14 @@
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Thu, 19 Sep 2024 03:18:00 GMT</pubDate>
+            <pubDate>Thu, 19 Sep 2024 04:18:21 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2643864');" title="Pick Up The Phone 페이지 이동" class="ellipsis">Jiho Givenchy (지호지방시)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Thu, 19 Sep 2024 03:18:00 GMT</pubDate>
+            <pubDate>Thu, 19 Sep 2024 04:18:21 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3940811');" title="Pick Up The Phone 페이지 이동" class="ellipsis">Kish Ban</a>]]></content:encoded>
         </item>
         <item>
@@ -172,14 +194,6 @@
             <pubDate>Wed, 18 Sep 2024 09:17:12 GMT</pubDate>
             <content:encoded><![CDATA[반광옥]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/93/499/11593499_20240913113634_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[If Our Love Was a Show (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11593388');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11593388');</guid>
-            <pubDate>Wed, 18 Sep 2024 09:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[Griffy]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/93/388/11593388_20240913104642_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
