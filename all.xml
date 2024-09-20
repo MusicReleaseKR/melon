@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Sep 2024 03:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 04:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Love Tune (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11579333');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11579333');</guid>
+            <pubDate>Fri, 20 Sep 2024 04:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[FIFTY FIFTY]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/79/333/11579333_20240919172747_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[SAD SONG (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11592771');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11592771');</guid>
+            <pubDate>Fri, 20 Sep 2024 04:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[P1Harmony]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/92/771/11592771_20240912170403_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
         <item>
             <title><![CDATA[Sundowner (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>javascript:melon.link.goAlbumDetail('11595503');</link>
@@ -42,7 +58,7 @@
 						<span class="reg_date" title="발매일">2024.09.20</span>
 						<i class="bar"></i>
 						<button type="button" class="button_etc like" title="미스쓰리랑 베스트 PART21 좋아요" data-album-no="11595784" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>20</span></button>
+<span class="cnt"><strong class="none">총건수</strong>46</span></button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">4곡</span>
 					</div>
@@ -63,6 +79,35 @@
             <pubDate>Fri, 20 Sep 2024 03:18:19 GMT</pubDate>
             <content:encoded><![CDATA[Rosy Barbie]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/95/341/11595341_20240919143858_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[iScreaM Vol.33 : Supernova / Armageddon Remixes (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11595796');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11595796');</guid>
+            <pubDate>Fri, 20 Sep 2024 04:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[aespa]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/95/796/11595796_20240919160302_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
+            <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
+            <pubDate>Fri, 20 Sep 2024 04:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2899555');" title="iScreaM Vol.33 : Supernova / Armageddon Remixes 페이지 이동" class="ellipsis">aespa</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
+            <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
+            <pubDate>Fri, 20 Sep 2024 04:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('640654');" title="iScreaM Vol.33 : Supernova / Armageddon Remixes 페이지 이동" class="ellipsis">Grimes</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
+            <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
+            <pubDate>Fri, 20 Sep 2024 04:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('1039669');" title="iScreaM Vol.33 : Supernova / Armageddon Remixes 페이지 이동" class="ellipsis">Flava D</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[7.2 (멜론 ─ 최신앨범 ─ 국내)]]></title>
@@ -175,30 +220,6 @@
             <pubDate>Thu, 19 Sep 2024 09:16:24 GMT</pubDate>
             <content:encoded><![CDATA[조장혁]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/94/172/11594172_20240913204840_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[CHO:RD (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11593543');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11593543');</guid>
-            <pubDate>Thu, 19 Sep 2024 09:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[진호 (펜타곤)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/93/543/11593543_20240913121200_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[iMaGiNe #2 (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11591946');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11591946');</guid>
-            <pubDate>Thu, 19 Sep 2024 09:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[ANODE(애노드)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/91/946/11591946_20240912103201_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[Only You (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11593784');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11593784');</guid>
-            <pubDate>Thu, 19 Sep 2024 09:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[CAMO]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/93/784/11593784_20240913154045_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
