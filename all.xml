@@ -4,9 +4,82 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Sep 2024 02:43:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 03:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sundowner (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11595503');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11595503');</guid>
+            <pubDate>Fri, 20 Sep 2024 03:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[스윗소로우 (SWEET SORROW)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/95/503/11595503_20240919153859_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[미스쓰리랑 베스트 PART21 (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11595784');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11595784');</guid>
+            <pubDate>Fri, 20 Sep 2024 03:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="thumb">
+					<a href="javascript:melon.link.goAlbumDetail('11595784');" title="미스쓰리랑 베스트 PART21 - 페이지 이동" class="image_typeAll">
+						<img onerror="WEBPOCIMG.defaultAlbumImg(this);" width="180" height="180" src="https://cdnimg.melon.co.kr/cm2/album/images/115/95/784/11595784_20240919155829_500.jpg/melon/resize/360/quality/80/optimize" alt="">
+						<span class="bg_album_frame"></span>
+					</a>
+				</div>
+
+				
+
+				<div class="entry">
+					<div class="info">
+						<span class="vdo_name">[옴니버스]</span>
+						<a href="javascript:melon.link.goAlbumDetail('11595784');" class="ellipsis album_name" title="미스쓰리랑 베스트 PART21 - 페이지 이동">미스쓰리랑 베스트 PART21</a>
+						<span class="ellipsis artist">
+							Various Artists<span class="checkEllipsis" style="display: none;">Various Artists</span>
+						</span>
+						
+					</div>
+					<div class="meta">
+						<span class="reg_date" title="발매일">2024.09.20</span>
+						<i class="bar"></i>
+						<button type="button" class="button_etc like" title="미스쓰리랑 베스트 PART21 좋아요" data-album-no="11595784" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
+<span class="cnt"><strong class="none">총건수</strong>20</span></button>
+						<i class="bar"></i>
+						<span class="tot_song" title="총 수록곡">4곡</span>
+					</div>
+					<div class="wrap_btn_tb">
+						<button type="button" onclick="melon.play.playAlbum('18020123','11595784');" title="앨범듣기" class="button_rbox"><span class="button_icons type02 play"></span><span class="cnt">앨범듣기</span></button>
+						<button type="button" onclick="melon.buy.goBuyProduct('frm','11595784','3B0001','','0','18020123','1');" title="앨범 다운로드" class="button_rbox"><span class="button_icons type02 download"></span><span class="cnt">앨범다운</span></button>
+						
+						<button type="button" onclick="melon.buy.goPresentForAlbum('11595784', '', '18020123');" title="선택된 곡 선물하기" class="button_rbox"><span class="button_icons type02 gift"></span><span class="cnt">선물</span></button>
+						
+					</div>
+				</div>]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/95/784/11595784_20240919155829_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[노래시작했다노래끝났다 (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11595341');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11595341');</guid>
+            <pubDate>Fri, 20 Sep 2024 03:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[Rosy Barbie]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/95/341/11595341_20240919143858_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[7.2 (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11595651');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11595651');</guid>
+            <pubDate>Fri, 20 Sep 2024 03:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[아거 (AGER)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/95/651/11595651_20240919154852_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[시크릿쥬쥬 OST 비밀의 공주 (English Ver.) (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11595340');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11595340');</guid>
+            <pubDate>Fri, 20 Sep 2024 03:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[이소 (E.SO)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/95/340/11595340_20240919143843_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
         <item>
             <title><![CDATA[GGUM (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>javascript:melon.link.goAlbumDetail('11594195');</link>
@@ -24,12 +97,76 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/94/496/11594496_20240919111932_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
+            <title><![CDATA[Skin (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11587266');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11587266');</guid>
+            <pubDate>Fri, 20 Sep 2024 03:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[Wildberry]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/87/266/11587266_20240906162339_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[연기 (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11594894');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11594894');</guid>
+            <pubDate>Fri, 20 Sep 2024 03:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[박상돈]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/94/894/11594894_20240919121959_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Exit (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11595345');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11595345');</guid>
+            <pubDate>Fri, 20 Sep 2024 03:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[GENRE (장르)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/95/345/11595345_20240919144042_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[축하해 첫 생일 (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11595349');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11595349');</guid>
+            <pubDate>Fri, 20 Sep 2024 03:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[1% (원퍼센트)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/95/349/11595349_20240919144216_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Hug & Hub Part.1 (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11595637');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11595637');</guid>
+            <pubDate>Fri, 20 Sep 2024 03:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[홍예지]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/95/637/11595637_20240919154800_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[반짝! (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11595334');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11595334');</guid>
+            <pubDate>Fri, 20 Sep 2024 03:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[패러렐(Parallel)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/95/334/11595334_20240919143605_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
             <title><![CDATA[IN MY DREAM (웹툰 '환생좌' X 츄 (CHUU)) (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>javascript:melon.link.goAlbumDetail('11592794');</link>
             <guid>javascript:melon.link.goAlbumDetail('11592794');</guid>
             <pubDate>Thu, 19 Sep 2024 09:16:24 GMT</pubDate>
             <content:encoded><![CDATA[츄 (CHUU)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/92/794/11592794_20240912170948_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[우리만의 (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11595774');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11595774');</guid>
+            <pubDate>Fri, 20 Sep 2024 03:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[양선 (YANGSUN)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/95/774/11595774_20240919155653_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[괜찮다고 말해줘 (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11595561');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11595561');</guid>
+            <pubDate>Fri, 20 Sep 2024 03:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[WillCome]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/95/561/11595561_20240919154316_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[면도 (멜론 ─ 최신앨범 ─ 국내)]]></title>
@@ -62,138 +199,6 @@
             <pubDate>Thu, 19 Sep 2024 09:16:24 GMT</pubDate>
             <content:encoded><![CDATA[CAMO]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/93/784/11593784_20240913154045_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[After hours (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11593540');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11593540');</guid>
-            <pubDate>Thu, 19 Sep 2024 09:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[heyden]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/93/540/11593540_20240913120757_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[혼자, 이별 (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11593565');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11593565');</guid>
-            <pubDate>Thu, 19 Sep 2024 09:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[주대건]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/93/565/11593565_20240913140341_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[웹툰 ‘귀공자’ OST Part.1 (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11593548');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11593548');</guid>
-            <pubDate>Thu, 19 Sep 2024 03:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[스카이민혁 (Skyminhyuk)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/93/548/11593548_20240913121345_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[1,2,3,4 (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11593544');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11593544');</guid>
-            <pubDate>Thu, 19 Sep 2024 03:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[주은]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/93/544/11593544_20240913121300_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[소녀, 빛을 달리다 (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11592993');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11592993');</guid>
-            <pubDate>Thu, 19 Sep 2024 03:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[신의진]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/92/993/11592993_20240912175305_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[아름다운 세상 (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11592267');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11592267');</guid>
-            <pubDate>Thu, 19 Sep 2024 03:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[김훨]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/92/267/11592267_20240912141752_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[MOSQUITO (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11593562');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11593562');</guid>
-            <pubDate>Thu, 19 Sep 2024 03:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[Urban Fisher]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/93/562/11593562_20240913140053_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[High&Drive (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11592269');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11592269');</guid>
-            <pubDate>Thu, 19 Sep 2024 03:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[OAH! (오아!)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/92/269/11592269_20240912141900_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[TROUBLE (arcon Remix) (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11592637');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11592637');</guid>
-            <pubDate>Thu, 19 Sep 2024 04:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[EVNNE(이븐)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/92/637/11592637_20240912154813_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
-            <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 20 Sep 2024 02:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3561880');" title="TROUBLE (arcon Remix) 페이지 이동" class="ellipsis">EVNNE(이븐)</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
-            <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 20 Sep 2024 02:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2862309');" title="TROUBLE (arcon Remix) 페이지 이동" class="ellipsis">arcon</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[I Wish (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11593782');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11593782');</guid>
-            <pubDate>Wed, 18 Sep 2024 09:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[네이비쿼카 (NavyQuokka)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/93/782/11593782_20240913153831_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[기억조각 (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11592283');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11592283');</guid>
-            <pubDate>Thu, 19 Sep 2024 03:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[이범준]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/92/283/11592283_20240912142143_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[Pick Up The Phone (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11593124');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11593124');</guid>
-            <pubDate>Thu, 19 Sep 2024 03:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[Jiho Givenchy (지호지방시)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/93/124/11593124_20240912182937_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
-            <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 20 Sep 2024 02:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2643864');" title="Pick Up The Phone 페이지 이동" class="ellipsis">Jiho Givenchy (지호지방시)</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
-            <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 20 Sep 2024 02:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3940811');" title="Pick Up The Phone 페이지 이동" class="ellipsis">Kish Ban</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Sara Smile (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11593575');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11593575');</guid>
-            <pubDate>Thu, 19 Sep 2024 03:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[김주환]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/115/93/575/11593575_20240913141120_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
