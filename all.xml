@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Oct 2024 03:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2024 04:18:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,14 +35,14 @@
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Wed, 23 Oct 2024 03:21:22 GMT</pubDate>
+            <pubDate>Wed, 23 Oct 2024 04:18:58 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2881094');" title="SRRY♥ 페이지 이동" class="ellipsis">Effie</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Wed, 23 Oct 2024 03:21:22 GMT</pubDate>
+            <pubDate>Wed, 23 Oct 2024 04:18:58 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2634055');" title="SRRY♥ 페이지 이동" class="ellipsis">The Deep</a>]]></content:encoded>
         </item>
         <item>
@@ -68,6 +68,28 @@
             <pubDate>Tue, 22 Oct 2024 09:17:10 GMT</pubDate>
             <content:encoded><![CDATA[앰퍼샌드원 (AMPERS&amp;ONE)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/21/311/11621311_20241022113910_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[P U M P Me Up (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11621914');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11621914');</guid>
+            <pubDate>Wed, 23 Oct 2024 04:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[Mar Vista]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/21/914/11621914_20241022162707_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
+            <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
+            <pubDate>Wed, 23 Oct 2024 04:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2744144');" title="P U M P Me Up 페이지 이동" class="ellipsis">Mar Vista</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
+            <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
+            <pubDate>Wed, 23 Oct 2024 04:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('906046');" title="P U M P Me Up 페이지 이동" class="ellipsis">Kellin Quinn</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[So Nice (GMF Theme Song) (멜론 ─ 최신앨범 ─ 국내)]]></title>
@@ -172,14 +194,6 @@
             <pubDate>Wed, 23 Oct 2024 03:21:22 GMT</pubDate>
             <content:encoded><![CDATA[UnderRock19]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/21/600/11621600_20241022141358_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[HEADWAY (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11621342');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11621342');</guid>
-            <pubDate>Tue, 22 Oct 2024 09:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[퍼플키스 (PURPLE KISS)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/21/342/11621342_20241022114258_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
