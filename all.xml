@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 03:33:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 04:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DRIP (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11629208');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11629208');</guid>
+            <pubDate>Fri, 01 Nov 2024 04:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[BABYMONSTER]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/29/208/11629208_20241101103249_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Kep1er The 6th Mini Album 〈TIPI-TAP〉 (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11630620');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11630620');</guid>
+            <pubDate>Fri, 01 Nov 2024 04:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[Kep1er (케플러)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/30/620/11630620_20241031141312_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
         <item>
             <title><![CDATA[로드 투 킹덤 : ACE OF ACE <FINAL> (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>javascript:melon.link.goAlbumDetail('11630825');</link>
@@ -19,35 +35,35 @@
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 01 Nov 2024 03:33:13 GMT</pubDate>
+            <pubDate>Fri, 01 Nov 2024 04:18:44 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3945320');" title="로드 투 킹덤 : ACE OF ACE <FINAL> 페이지 이동" class="ellipsis">더크루원(The CrewOne)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 01 Nov 2024 03:33:13 GMT</pubDate>
+            <pubDate>Fri, 01 Nov 2024 04:18:44 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3192307');" title="로드 투 킹덤 : ACE OF ACE <FINAL> 페이지 이동" class="ellipsis">8TURN</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 01 Nov 2024 03:33:13 GMT</pubDate>
+            <pubDate>Fri, 01 Nov 2024 04:18:44 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2298864');" title="로드 투 킹덤 : ACE OF ACE <FINAL> 페이지 이동" class="ellipsis">원어스 (ONEUS)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 01 Nov 2024 03:33:13 GMT</pubDate>
+            <pubDate>Fri, 01 Nov 2024 04:18:44 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3083356');" title="로드 투 킹덤 : ACE OF ACE <FINAL> 페이지 이동" class="ellipsis">YOUNITE</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 01 Nov 2024 03:33:13 GMT</pubDate>
+            <pubDate>Fri, 01 Nov 2024 04:18:44 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2863902');" title="로드 투 킹덤 : ACE OF ACE <FINAL> 페이지 이동" class="ellipsis">CRAVITY</a>]]></content:encoded>
         </item>
         <item>
@@ -77,7 +93,7 @@
 						<span class="reg_date" title="발매일">2024.11.01</span>
 						<i class="bar"></i>
 						<button type="button" class="button_etc like" title="대학가요제 연합미션 베스트 PART2 좋아요" data-album-no="11630937" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>4</span></button>
+<span class="cnt"><strong class="none">총건수</strong>6</span></button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">10곡</span>
 					</div>
@@ -98,6 +114,14 @@
             <pubDate>Thu, 31 Oct 2024 09:16:24 GMT</pubDate>
             <content:encoded><![CDATA[G-DRAGON]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/30/124/11630124_20241031100530_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[LOVE, MONEY, FAME (feat. DJ Khaled) (Timbaland Remix) (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11631156');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11631156');</guid>
+            <pubDate>Fri, 01 Nov 2024 04:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[세븐틴 (SEVENTEEN)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/31/156/11631156_20241101095541_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[하루살이 (멜론 ─ 최신앨범 ─ 국내)]]></title>
@@ -210,30 +234,6 @@
             <pubDate>Thu, 31 Oct 2024 09:16:24 GMT</pubDate>
             <content:encoded><![CDATA[dori]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/28/662/11628662_20241030112420_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[Bad Luck (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11628451');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11628451');</guid>
-            <pubDate>Thu, 31 Oct 2024 09:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[JAMIE (제이미)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/28/451/11628451_20241030102353_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[Sun Arp (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11630441');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11630441');</guid>
-            <pubDate>Fri, 01 Nov 2024 03:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[Otakhee]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/30/441/11630441_20241031115814_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[PETER (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11614532');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11614532');</guid>
-            <pubDate>Thu, 31 Oct 2024 09:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[문종업]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/14/532/11614532_20241031121804_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
