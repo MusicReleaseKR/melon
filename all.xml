@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Nov 2024 03:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Nov 2024 04:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -27,14 +27,14 @@
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Sat, 09 Nov 2024 03:18:39 GMT</pubDate>
+            <pubDate>Sat, 09 Nov 2024 04:17:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2739011');" title="FOREVER(2024) 페이지 이동" class="ellipsis">전건호</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Sat, 09 Nov 2024 03:18:39 GMT</pubDate>
+            <pubDate>Sat, 09 Nov 2024 04:17:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3055183');" title="FOREVER(2024) 페이지 이동" class="ellipsis">이예은</a>]]></content:encoded>
         </item>
         <item>
@@ -44,6 +44,47 @@
             <pubDate>Sat, 09 Nov 2024 03:18:39 GMT</pubDate>
             <content:encoded><![CDATA[차우주]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/36/956/11636956_20241108110831_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <ETERNITY> Part.2 시간 (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11637360');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11637360');</guid>
+            <pubDate>Sat, 09 Nov 2024 04:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="thumb">
+					<a href="javascript:melon.link.goAlbumDetail('11637360');" title="뮤지컬 <ETERNITY> Part.2 시간 - 페이지 이동" class="image_typeAll">
+						<img onerror="WEBPOCIMG.defaultAlbumImg(this);" width="180" height="180" src="https://cdnimg.melon.co.kr/cm2/album/images/116/37/360/11637360_20241108162645_500.jpg/melon/resize/360/quality/80/optimize" alt="">
+						<span class="bg_album_frame"></span>
+					</a>
+				</div>
+
+				
+
+				<div class="entry">
+					<div class="info">
+						<span class="vdo_name">[OST]</span>
+						<a href="javascript:melon.link.goAlbumDetail('11637360');" class="ellipsis album_name" title="뮤지컬 <ETERNITY> Part.2 시간 - 페이지 이동">뮤지컬 &lt;ETERNITY&gt; Part.2 시간</a>
+						<span class="ellipsis artist">
+							Various Artists<span class="checkEllipsis" style="display: none;">Various Artists</span>
+						</span>
+						
+					</div>
+					<div class="meta">
+						<span class="reg_date" title="발매일">2024.11.09</span>
+						<i class="bar"></i>
+						<button type="button" class="button_etc like" title="뮤지컬 <ETERNITY> Part.2 시간 좋아요" data-album-no="11637360" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
+<span class="cnt"><strong class="none">총건수</strong>68</span></button>
+						<i class="bar"></i>
+						<span class="tot_song" title="총 수록곡">6곡</span>
+					</div>
+					<div class="wrap_btn_tb">
+						<button type="button" onclick="melon.play.playAlbum('18020123','11637360');" title="앨범듣기" class="button_rbox"><span class="button_icons type02 play"></span><span class="cnt">앨범듣기</span></button>
+						<button type="button" onclick="melon.buy.goBuyProduct('frm','11637360','3B0001','','0','18020123','1');" title="앨범 다운로드" class="button_rbox"><span class="button_icons type02 download"></span><span class="cnt">앨범다운</span></button>
+						
+						<button type="button" onclick="melon.buy.goPresentForAlbum('11637360', '', '18020123');" title="선택된 곡 선물하기" class="button_rbox"><span class="button_icons type02 gift"></span><span class="cnt">선물</span></button>
+						
+					</div>
+				</div>]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/37/360/11637360_20241108162645_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[청혼 (멜론 ─ 최신앨범 ─ 국내)]]></title>
@@ -105,14 +146,14 @@
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Sat, 09 Nov 2024 03:18:39 GMT</pubDate>
+            <pubDate>Sat, 09 Nov 2024 04:17:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('49098');" title="애니메이션 '집이 없어' OST 페이지 이동" class="ellipsis">이원석</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Sat, 09 Nov 2024 03:18:39 GMT</pubDate>
+            <pubDate>Sat, 09 Nov 2024 04:17:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2561371');" title="애니메이션 '집이 없어' OST 페이지 이동" class="ellipsis">리플리 (RIPLEY)</a>]]></content:encoded>
         </item>
         <item>
@@ -183,14 +224,14 @@
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Sat, 09 Nov 2024 03:18:39 GMT</pubDate>
+            <pubDate>Sat, 09 Nov 2024 04:17:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3055146');" title="Supernova Love 페이지 이동" class="ellipsis">IVE (아이브)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Sat, 09 Nov 2024 03:18:39 GMT</pubDate>
+            <pubDate>Sat, 09 Nov 2024 04:17:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('182123');" title="Supernova Love 페이지 이동" class="ellipsis">David Guetta</a>]]></content:encoded>
         </item>
         <item>
@@ -200,14 +241,6 @@
             <pubDate>Fri, 08 Nov 2024 09:15:58 GMT</pubDate>
             <content:encoded><![CDATA[에디킴]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/36/946/11636946_20241108105052_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[미카엘 (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11635634');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11635634');</guid>
-            <pubDate>Fri, 08 Nov 2024 09:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[김뜻돌]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/35/634/11635634_20241107122104_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
