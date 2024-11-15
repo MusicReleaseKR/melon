@@ -4,25 +4,9 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Nov 2024 22:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Nov 2024 23:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Happy]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11625591');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11625591');</guid>
-            <pubDate>Fri, 15 Nov 2024 05:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[진]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/25/591/11625591_20241115111127_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[GOLDEN HOUR : Part.2]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11642234');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11642234');</guid>
-            <pubDate>Fri, 15 Nov 2024 05:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[ATEEZ(에이티즈)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/42/234/11642234_20241114171441_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
         <item>
             <title><![CDATA[Love Story [THE 시즌즈: 이영지의 레인보우]]]></title>
             <link>javascript:melon.link.goAlbumDetail('11641763');</link>
@@ -54,6 +38,22 @@
             <pubDate>Fri, 15 Nov 2024 09:16:52 GMT</pubDate>
             <content:encoded><![CDATA[jeebanoff]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/41/703/11641703_20241114114454_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Happy]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11625591');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11625591');</guid>
+            <pubDate>Fri, 15 Nov 2024 05:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[진]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/25/591/11625591_20241115111127_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[GOLDEN HOUR : Part.2]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11642234');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11642234');</guid>
+            <pubDate>Fri, 15 Nov 2024 05:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[ATEEZ(에이티즈)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/42/234/11642234_20241114171441_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[견뎌야 되잖아]]></title>
