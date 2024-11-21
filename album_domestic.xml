@@ -4,7 +4,7 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Nov 2024 14:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 15:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Thu, 21 Nov 2024 09:17:52 GMT</pubDate>
             <content:encoded><![CDATA[OLNL (오르내림)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/46/108/11646108_20241120114955_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Ravel: Le tombeau de Couperin, M. 68: I. Prélude]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11646344');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11646344');</guid>
+            <pubDate>Thu, 21 Nov 2024 15:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[조성진]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/46/344/11646344_20241120140716_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[휴먼 매커니즘]]></title>
@@ -130,7 +138,7 @@
 						<span class="reg_date" title="발매일">2024.11.21</span>
 						<i class="bar"></i>
 						<button type="button" class="button_etc like" title="미스쓰리랑 베스트 PART30 좋아요" data-album-no="11646583" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>67</span></button>
+<span class="cnt"><strong class="none">총건수</strong>69</span></button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">6곡</span>
 					</div>
@@ -191,14 +199,6 @@
             <pubDate>Thu, 21 Nov 2024 03:27:33 GMT</pubDate>
             <content:encoded><![CDATA[ecru (에크루)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/46/103/11646103_20241120114604_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[마지막 앨범]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11646039');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11646039');</guid>
-            <pubDate>Thu, 21 Nov 2024 03:27:33 GMT</pubDate>
-            <content:encoded><![CDATA[처리 (Churry)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/46/039/11646039_20241120113711_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
