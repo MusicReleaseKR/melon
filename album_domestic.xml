@@ -4,25 +4,9 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 22:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 23:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[HOME SWEET HOME (feat. 태양, 대성)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11647670');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11647670');</guid>
-            <pubDate>Fri, 22 Nov 2024 05:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[G-DRAGON]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/47/670/11647670_20241121150855_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[number one girl]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11648244');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11648244');</guid>
-            <pubDate>Fri, 22 Nov 2024 05:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[로제 (ROSÉ)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/48/244/11648244_20241122102042_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
         <item>
             <title><![CDATA[미안하다, 사랑한다 2024 OST - Wavve 뉴클래식 프로젝트]]></title>
             <link>javascript:melon.link.goAlbumDetail('11647547');</link>
@@ -30,14 +14,6 @@
             <pubDate>Fri, 22 Nov 2024 09:17:31 GMT</pubDate>
             <content:encoded><![CDATA[도영 (DOYOUNG)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/47/547/11647547_20241121140106_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[What Would You Do]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11647696');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11647696');</guid>
-            <pubDate>Fri, 22 Nov 2024 05:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[원호 (WONHO)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/47/696/11647696_20241121152602_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[한사람(2024)]]></title>
@@ -62,6 +38,30 @@
             <pubDate>Fri, 22 Nov 2024 09:17:31 GMT</pubDate>
             <content:encoded><![CDATA[ZENE THE ZILLA]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/47/996/11647996_20241121180506_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[HOME SWEET HOME (feat. 태양, 대성)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11647670');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11647670');</guid>
+            <pubDate>Fri, 22 Nov 2024 05:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[G-DRAGON]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/47/670/11647670_20241121150855_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[number one girl]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11648244');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11648244');</guid>
+            <pubDate>Fri, 22 Nov 2024 05:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[로제 (ROSÉ)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/48/244/11648244_20241122102042_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[What Would You Do]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11647696');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11647696');</guid>
+            <pubDate>Fri, 22 Nov 2024 05:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[원호 (WONHO)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/47/696/11647696_20241121152602_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[Prequel]]></title>
