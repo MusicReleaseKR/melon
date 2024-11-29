@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Nov 2024 03:34:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 04:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3:33 (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11654324');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11654324');</guid>
+            <pubDate>Fri, 29 Nov 2024 04:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[DEAN]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/54/324/11654324_20241128161444_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
         <item>
             <title><![CDATA[UP SIDE DOWN (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>javascript:melon.link.goAlbumDetail('11654253');</link>
@@ -188,14 +196,14 @@
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 29 Nov 2024 03:34:26 GMT</pubDate>
+            <pubDate>Fri, 29 Nov 2024 04:20:02 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('563152');" title="The Piano 페이지 이동" class="ellipsis">Kiik</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 29 Nov 2024 03:34:26 GMT</pubDate>
+            <pubDate>Fri, 29 Nov 2024 04:20:02 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('790440');" title="The Piano 페이지 이동" class="ellipsis">신기원 (ShinGiWon)</a>]]></content:encoded>
         </item>
         <item>
@@ -205,14 +213,6 @@
             <pubDate>Thu, 28 Nov 2024 09:17:59 GMT</pubDate>
             <content:encoded><![CDATA[장민호]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/45/132/11645132_20241119154801_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑을 억지로 할 수 없잖아 (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11652828');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11652828');</guid>
-            <pubDate>Thu, 28 Nov 2024 09:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[황치열]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/52/828/11652828_20241127162459_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
