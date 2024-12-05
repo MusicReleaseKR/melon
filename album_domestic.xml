@@ -4,7 +4,7 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Dec 2024 13:26:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 14:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -51,14 +51,14 @@
             <title><![CDATA[5]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Thu, 05 Dec 2024 13:26:53 GMT</pubDate>
+            <pubDate>Thu, 05 Dec 2024 14:16:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2747956');" title="4 Seasons 페이지 이동" class="ellipsis">MELOH</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[6]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Thu, 05 Dec 2024 13:26:53 GMT</pubDate>
+            <pubDate>Thu, 05 Dec 2024 14:16:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2971628');" title="4 Seasons 페이지 이동" class="ellipsis">VVON (본)</a>]]></content:encoded>
         </item>
         <item>
@@ -105,14 +105,14 @@
             <title><![CDATA[12]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Thu, 05 Dec 2024 13:26:53 GMT</pubDate>
+            <pubDate>Thu, 05 Dec 2024 14:16:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3079008');" title="Bouquet 페이지 이동" class="ellipsis">AVN (에이븐)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[13]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Thu, 05 Dec 2024 13:26:53 GMT</pubDate>
+            <pubDate>Thu, 05 Dec 2024 14:16:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3572973');" title="Bouquet 페이지 이동" class="ellipsis">PAAK</a>]]></content:encoded>
         </item>
         <item>
@@ -182,20 +182,15 @@
 						<span class="vdo_name">[옴니버스]</span>
 						<a href="javascript:melon.link.goAlbumDetail('11657598');" class="ellipsis album_name" title="랩:퍼블릭 Episode.2 - 페이지 이동">랩:퍼블릭 Episode.2</a>
 						<span class="ellipsis artist">
-							Various Artists<span class="checkEllipsis" style="display:none">Various Artists</span>
+							Various Artists<span class="checkEllipsis" style="display: none;">Various Artists</span>
 						</span>
 						
 					</div>
 					<div class="meta">
 						<span class="reg_date" title="발매일">2024.12.04</span>
 						<i class="bar"></i>
-						<button type="button" class="button_etc like" title="랩:퍼블릭 Episode.2 좋아요" data-album-no="11657598" data-album-menuid="18020123">
-							<span class="odd_span">좋아요</span>
-							<span class="cnt">
-								<span class="none">총건수</span>
-								0
-							</span>
-						</button>
+						<button type="button" class="button_etc like" title="랩:퍼블릭 Episode.2 좋아요" data-album-no="11657598" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
+<span class="cnt"><strong class="none">총건수</strong>435</span></button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">6곡</span>
 					</div>
