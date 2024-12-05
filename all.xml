@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Dec 2024 14:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 15:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 05 Dec 2024 09:18:27 GMT</pubDate>
             <content:encoded><![CDATA[CRAVITY]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/58/580/11658580_20241204150439_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[rosie (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11659696');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11659696');</guid>
+            <pubDate>Thu, 05 Dec 2024 15:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[로제 (ROSÉ)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/59/696/11659696_20241205141243_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[LAST NIGHT (멜론 ─ 최신앨범 ─ 국내)]]></title>
@@ -51,14 +59,14 @@
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Thu, 05 Dec 2024 14:16:13 GMT</pubDate>
+            <pubDate>Thu, 05 Dec 2024 15:18:24 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2747956');" title="4 Seasons 페이지 이동" class="ellipsis">MELOH</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Thu, 05 Dec 2024 14:16:13 GMT</pubDate>
+            <pubDate>Thu, 05 Dec 2024 15:18:24 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2971628');" title="4 Seasons 페이지 이동" class="ellipsis">VVON (본)</a>]]></content:encoded>
         </item>
         <item>
@@ -105,14 +113,14 @@
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Thu, 05 Dec 2024 14:16:13 GMT</pubDate>
+            <pubDate>Thu, 05 Dec 2024 15:18:24 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3079008');" title="Bouquet 페이지 이동" class="ellipsis">AVN (에이븐)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Thu, 05 Dec 2024 14:16:13 GMT</pubDate>
+            <pubDate>Thu, 05 Dec 2024 15:18:24 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3572973');" title="Bouquet 페이지 이동" class="ellipsis">PAAK</a>]]></content:encoded>
         </item>
         <item>
@@ -182,15 +190,20 @@
 						<span class="vdo_name">[옴니버스]</span>
 						<a href="javascript:melon.link.goAlbumDetail('11657598');" class="ellipsis album_name" title="랩:퍼블릭 Episode.2 - 페이지 이동">랩:퍼블릭 Episode.2</a>
 						<span class="ellipsis artist">
-							Various Artists<span class="checkEllipsis" style="display: none;">Various Artists</span>
+							Various Artists<span class="checkEllipsis" style="display:none">Various Artists</span>
 						</span>
 						
 					</div>
 					<div class="meta">
 						<span class="reg_date" title="발매일">2024.12.04</span>
 						<i class="bar"></i>
-						<button type="button" class="button_etc like" title="랩:퍼블릭 Episode.2 좋아요" data-album-no="11657598" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>435</span></button>
+						<button type="button" class="button_etc like" title="랩:퍼블릭 Episode.2 좋아요" data-album-no="11657598" data-album-menuid="18020123">
+							<span class="odd_span">좋아요</span>
+							<span class="cnt">
+								<span class="none">총건수</span>
+								0
+							</span>
+						</button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">6곡</span>
 					</div>
@@ -219,14 +232,6 @@
             <pubDate>Thu, 05 Dec 2024 03:01:44 GMT</pubDate>
             <content:encoded><![CDATA[담담]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/58/864/11658864_20241204171155_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[노형우 (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11658635');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11658635');</guid>
-            <pubDate>Thu, 05 Dec 2024 03:01:44 GMT</pubDate>
-            <content:encoded><![CDATA[Woolenciah]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/58/635/11658635_20241204154050_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
