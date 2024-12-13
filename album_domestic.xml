@@ -4,17 +4,9 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Dec 2024 22:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 23:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[合 (HOP)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11665096');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11665096');</guid>
-            <pubDate>Fri, 13 Dec 2024 05:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids (스트레이 키즈)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/65/096/11665096_20241212164301_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
         <item>
             <title><![CDATA[Get Back]]></title>
             <link>javascript:melon.link.goAlbumDetail('11665160');</link>
@@ -46,6 +38,14 @@
             <pubDate>Fri, 13 Dec 2024 05:17:18 GMT</pubDate>
             <content:encoded><![CDATA[민지운 (Min Jiwoon)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/65/106/11665106_20241212164451_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[合 (HOP)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11665096');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11665096');</guid>
+            <pubDate>Fri, 13 Dec 2024 05:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids (스트레이 키즈)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/65/096/11665096_20241212164301_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[L Process [B]]]></title>
