@@ -1,8 +1,241 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</id>
-    <title>멜론 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-12-24T02:47:13.960Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.melon.com/new/album/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 ─ 최신앨범 ─ 국내</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 24 Dec 2024 03:20:43 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Over U, 안녕 (Seeun x J)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11676526');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11676526');</guid>
+            <pubDate>Tue, 24 Dec 2024 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[STAYC(스테이씨)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/76/526/11676526_20241223152855_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[hate me 100]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11675501');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11675501');</guid>
+            <pubDate>Tue, 24 Dec 2024 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[이한울]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/75/501/11675501_20241220151500_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스마스니까]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11676581');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11676581');</guid>
+            <pubDate>Tue, 24 Dec 2024 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[정서주]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/76/581/11676581_20241223155632_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[3]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Tue, 24 Dec 2024 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3130209');" title="크리스마스니까 페이지 이동" class="ellipsis">정서주</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[4]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Tue, 24 Dec 2024 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('927605');" title="크리스마스니까 페이지 이동" class="ellipsis">배아현</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Tue, 24 Dec 2024 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2909181');" title="크리스마스니까 페이지 이동" class="ellipsis">오유진</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[6]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Tue, 24 Dec 2024 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3680354');" title="크리스마스니까 페이지 이동" class="ellipsis">미스김</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[7]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Tue, 24 Dec 2024 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3051999');" title="크리스마스니까 페이지 이동" class="ellipsis">나영</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[8]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Tue, 24 Dec 2024 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2898204');" title="크리스마스니까 페이지 이동" class="ellipsis">김소연</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[9]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Tue, 24 Dec 2024 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3681908');" title="크리스마스니까 페이지 이동" class="ellipsis">정슬</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[10]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Tue, 24 Dec 2024 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2736887');" title="크리스마스니까 페이지 이동" class="ellipsis">염유리</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Stupid boy]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11676509');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11676509');</guid>
+            <pubDate>Tue, 24 Dec 2024 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[기원 (Giwon)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/76/509/11676509_20241223150703_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[from]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11676205');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11676205');</guid>
+            <pubDate>Tue, 24 Dec 2024 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[프로미스나인]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/76/205/11676205_20241223105148_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[메이플스토리 OST : MAPLE CON 2024]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11670648');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11670648');</guid>
+            <pubDate>Tue, 24 Dec 2024 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[NEXON Sound Team]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/70/648/11670648_20241219110241_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[14]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Tue, 24 Dec 2024 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2753541');" title="메이플스토리 OST : MAPLE CON 2024 페이지 이동" class="ellipsis">NEXON Sound Team</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[15]]></title>
+            <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
+            <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
+            <pubDate>Tue, 24 Dec 2024 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('180655');" title="메이플스토리 OST : MAPLE CON 2024 페이지 이동" class="ellipsis">메이트리 (Maytree)</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TAEHO 5th Single album [Sweet Winter]]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11676608');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11676608');</guid>
+            <pubDate>Tue, 24 Dec 2024 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[태호 (TAE HO)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/76/608/11676608_20241223161603_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[에스바이미]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11676536');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11676536');</guid>
+            <pubDate>Tue, 24 Dec 2024 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[세리 (달샤벳)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/76/536/11676536_20241223153634_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[勿忘 mul:maang]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11676612');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11676612');</guid>
+            <pubDate>Tue, 24 Dec 2024 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[PIRA]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/76/612/11676612_20241223161901_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[눈이 내려와]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11675502');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11675502');</guid>
+            <pubDate>Tue, 24 Dec 2024 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[예람]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/75/502/11675502_20241220151501_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Smile Again (도영 (DOYOUNG) X 나미브)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11676362');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11676362');</guid>
+            <pubDate>Tue, 24 Dec 2024 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[도영 (DOYOUNG)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/76/362/11676362_20241223121241_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[SECRET SANTA]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11675444');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11675444');</guid>
+            <pubDate>Tue, 24 Dec 2024 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[원위 (ONEWE)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/75/444/11675444_20241220150207_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Sleep Tight]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11676610');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11676610');</guid>
+            <pubDate>Tue, 24 Dec 2024 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[Slevin]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/76/610/11676610_20241223161746_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[I wish you a Merry Christmas]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11676566');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11676566');</guid>
+            <pubDate>Tue, 24 Dec 2024 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[정튠 (Jungtune)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/76/566/11676566_20241223154326_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[꿈을 꾸는 건]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11676571');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11676571');</guid>
+            <pubDate>Tue, 24 Dec 2024 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[랑세 (RANGSE)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/76/571/11676571_20241223154342_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[웹툰 '이세계 착각 헌터' 타이틀 OST - Illusion Hunter]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11676363');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11676363');</guid>
+            <pubDate>Tue, 24 Dec 2024 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[가브리엘(Gabriel)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/76/363/11676363_20241223122350_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[NS-Mas]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11675417');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11675417');</guid>
+            <pubDate>Tue, 24 Dec 2024 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[수니그룹]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/75/417/11675417_20241220144955_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[We Need To Talk About Holidays]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11675623');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11675623');</guid>
+            <pubDate>Tue, 24 Dec 2024 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[t024]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/75/623/11675623_20241220154658_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[빌어먹을 MEGAMIX]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11676584');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11676584');</guid>
+            <pubDate>Tue, 24 Dec 2024 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[TimeFeveR (타임피버)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/76/584/11676584_20241223155851_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[HANDS]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11676357');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11676357');</guid>
+            <pubDate>Tue, 24 Dec 2024 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[pH-1]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/76/357/11676357_20241223120747_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+    </channel>
+</rss>
