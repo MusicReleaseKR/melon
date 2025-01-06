@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</id>
-    <title>멜론 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-01-06T10:18:19.115Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.melon.com/new/album/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 ─ 최신앨범 ─ 국내</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 06 Jan 2025 11:13:21 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘만 I LOVE YOU]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11685070');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11685070');</guid>
+            <pubDate>Mon, 06 Jan 2025 11:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[BOYNEXTDOOR]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/85/070/11685070_20250106111631_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[CONNECTION]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11664450');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11664450');</guid>
+            <pubDate>Mon, 06 Jan 2025 11:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[온유 (ONEW)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/64/450/11664450_20250103162527_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[snow8]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11683064');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11683064');</guid>
+            <pubDate>Mon, 06 Jan 2025 11:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[리도어 (Redoor)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/83/064/11683064_20250102132442_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[2025FREEYO]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11684616');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11684616');</guid>
+            <pubDate>Mon, 06 Jan 2025 11:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[Tray B]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/84/616/11684616_20250103135435_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Season of Memories]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11684987');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11684987');</guid>
+            <pubDate>Mon, 06 Jan 2025 11:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[여자친구 (GFRIEND)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/84/987/11684987_20250106100751_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[날 두고 가지 마]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11684810');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11684810');</guid>
+            <pubDate>Mon, 06 Jan 2025 11:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[여은]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/84/810/11684810_20250103163633_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[100%]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11684706');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11684706');</guid>
+            <pubDate>Mon, 06 Jan 2025 11:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[TOVE]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/84/706/11684706_20250103144351_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[TAPE NO-P]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11683665');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11683665');</guid>
+            <pubDate>Mon, 06 Jan 2025 11:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[Sycho(사이코)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/83/665/11683665_20250102172312_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Valentine]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11684636');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11684636');</guid>
+            <pubDate>Mon, 06 Jan 2025 11:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[아이오웰 (Aiowell)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/84/636/11684636_20250103141359_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Love Letter]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11683060');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11683060');</guid>
+            <pubDate>Mon, 06 Jan 2025 11:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[혜인]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/83/060/11683060_20250102131944_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[별들에게 물어봐 OST Part.1]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11684615');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11684615');</guid>
+            <pubDate>Mon, 06 Jan 2025 11:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[BIG Naughty (서동현)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/84/615/11684615_20250103135431_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑은 언제나 걸음이 느려서]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11684607');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11684607');</guid>
+            <pubDate>Mon, 06 Jan 2025 11:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[허각]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/84/607/11684607_20250103132552_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA['DKZ Year End Project Song 'It's All Right Part.5'']]></title>
+            <link>javascript:melon.link.goAlbumDetail('11680055');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11680055');</guid>
+            <pubDate>Mon, 06 Jan 2025 11:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[DKZ]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/80/055/11680055_20241227160738_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[우편물 보관함 Episode. 12]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11684608');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11684608');</guid>
+            <pubDate>Mon, 06 Jan 2025 11:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[레터 플로우]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/84/608/11684608_20250103132652_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Breathing II]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11684809');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11684809');</guid>
+            <pubDate>Mon, 06 Jan 2025 11:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[전진희]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/84/809/11684809_20250103163606_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[결혼하자 맹꽁아! OST Part.14]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11684666');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11684666');</guid>
+            <pubDate>Mon, 06 Jan 2025 11:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[송민경]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/84/666/11684666_20250103142502_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[혼잣말]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11684918');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11684918');</guid>
+            <pubDate>Mon, 06 Jan 2025 11:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[해별]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/84/918/11684918_20250103172342_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[I've chosen you]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11683671');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11683671');</guid>
+            <pubDate>Mon, 06 Jan 2025 11:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[Master Class]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/83/671/11683671_20250102172449_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[엄마]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11684585');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11684585');</guid>
+            <pubDate>Mon, 06 Jan 2025 11:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[로키드 (Lokid)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/84/585/11684585_20250103120601_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[바보같지]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11684586');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11684586');</guid>
+            <pubDate>Mon, 06 Jan 2025 11:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[1DAY]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/84/586/11684586_20250103120633_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+    </channel>
+</rss>
