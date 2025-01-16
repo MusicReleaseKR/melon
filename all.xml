@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jan 2025 14:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jan 2025 15:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,14 +35,14 @@
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Thu, 16 Jan 2025 14:13:58 GMT</pubDate>
+            <pubDate>Thu, 16 Jan 2025 15:15:35 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('150196');" title="말할 수 없는 비밀 OST 페이지 이동" class="ellipsis">김준성</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Thu, 16 Jan 2025 14:13:58 GMT</pubDate>
+            <pubDate>Thu, 16 Jan 2025 15:15:35 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('721145');" title="말할 수 없는 비밀 OST 페이지 이동" class="ellipsis">김지애</a>]]></content:encoded>
         </item>
         <item>
@@ -52,6 +52,14 @@
             <pubDate>Thu, 16 Jan 2025 09:16:00 GMT</pubDate>
             <content:encoded><![CDATA[황인욱]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/93/144/11693144_20250115172436_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Ravel: The Complete Solo Piano Works (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11692617');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11692617');</guid>
+            <pubDate>Thu, 16 Jan 2025 15:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[조성진]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/92/617/11692617_20250115145153_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[지치고 힘들 땐 내게 기대 (멜론 ─ 최신앨범 ─ 국내)]]></title>
@@ -137,14 +145,14 @@
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Thu, 16 Jan 2025 14:13:58 GMT</pubDate>
+            <pubDate>Thu, 16 Jan 2025 15:15:35 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('108358');" title="Take Care 페이지 이동" class="ellipsis">다이나믹 듀오</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
             <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Thu, 16 Jan 2025 14:13:58 GMT</pubDate>
+            <pubDate>Thu, 16 Jan 2025 15:15:35 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('30358');" title="Take Care 페이지 이동" class="ellipsis">거미 (GUMMY)</a>]]></content:encoded>
         </item>
         <item>
@@ -186,14 +194,6 @@
             <pubDate>Thu, 16 Jan 2025 03:17:11 GMT</pubDate>
             <content:encoded><![CDATA[천다성]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/92/409/11692409_20250115120003_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[Behind Winter (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11691474');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11691474');</guid>
-            <pubDate>Thu, 16 Jan 2025 03:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[윤하은]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/116/91/474/11691474_20250114175201_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
