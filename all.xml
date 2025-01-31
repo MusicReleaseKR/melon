@@ -4,31 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Jan 2025 22:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jan 2025 23:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Love Hangover (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11702957');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11702957');</guid>
-            <pubDate>Fri, 31 Jan 2025 05:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[제니 (JENNIE)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/117/02/957/11702957_20250131120846_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
-            <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 31 Jan 2025 22:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('995173');" title="Love Hangover 페이지 이동" class="ellipsis">제니 (JENNIE)</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
-            <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
-            <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
-            <pubDate>Fri, 31 Jan 2025 22:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2558445');" title="Love Hangover 페이지 이동" class="ellipsis">Dominic Fike</a>]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[라페스타 (La Festa) (멜론 ─ 최신앨범 ─ 국내)]]></title>
             <link>javascript:melon.link.goAlbumDetail('11702956');</link>
@@ -60,6 +38,28 @@
             <pubDate>Fri, 31 Jan 2025 09:16:08 GMT</pubDate>
             <content:encoded><![CDATA[DOKO (도코)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/117/01/727/11701727_20250124144101_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Love Hangover (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11702957');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11702957');</guid>
+            <pubDate>Fri, 31 Jan 2025 05:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[제니 (JENNIE)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/117/02/957/11702957_20250131120846_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
+            <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
+            <pubDate>Fri, 31 Jan 2025 23:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('995173');" title="Love Hangover 페이지 이동" class="ellipsis">제니 (JENNIE)</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (멜론 ─ 최신앨범 ─ 국내)]]></title>
+            <link>https://MusicReleaseKR.github.io/melon/all.xml</link>
+            <guid>https://MusicReleaseKR.github.io/melon/all.xml</guid>
+            <pubDate>Fri, 31 Jan 2025 23:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2558445');" title="Love Hangover 페이지 이동" class="ellipsis">Dominic Fike</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Adore You (멜론 ─ 최신앨범 ─ 국내)]]></title>
