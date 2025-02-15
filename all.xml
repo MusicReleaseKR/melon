@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Feb 2025 09:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Feb 2025 10:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -106,20 +106,15 @@
 						<span class="vdo_name">[OST]</span>
 						<a href="javascript:melon.link.goAlbumDetail('11715263');" class="ellipsis album_name" title="모텔 캘리포니아 OST - 페이지 이동">모텔 캘리포니아 OST</a>
 						<span class="ellipsis artist">
-							Various Artists<span class="checkEllipsis" style="display:none">Various Artists</span>
+							Various Artists<span class="checkEllipsis" style="display: none;">Various Artists</span>
 						</span>
 						
 					</div>
 					<div class="meta">
 						<span class="reg_date" title="발매일">2025.02.15</span>
 						<i class="bar"></i>
-						<button type="button" class="button_etc like" title="모텔 캘리포니아 OST 좋아요" data-album-no="11715263" data-album-menuid="18020123">
-							<span class="odd_span">좋아요</span>
-							<span class="cnt">
-								<span class="none">총건수</span>
-								0
-							</span>
-						</button>
+						<button type="button" class="button_etc like" title="모텔 캘리포니아 OST 좋아요" data-album-no="11715263" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
+<span class="cnt"><strong class="none">총건수</strong>5</span></button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">69곡</span>
 					</div>
@@ -200,20 +195,15 @@
 						<span class="vdo_name">[OST]</span>
 						<a href="javascript:melon.link.goAlbumDetail('11715028');" class="ellipsis album_name" title="멜로무비 OST from Netflix Original - 페이지 이동">멜로무비 OST from Netflix Original</a>
 						<span class="ellipsis artist">
-							Various Artists<span class="checkEllipsis" style="display:none">Various Artists</span>
+							Various Artists<span class="checkEllipsis" style="display: none;">Various Artists</span>
 						</span>
 						
 					</div>
 					<div class="meta">
 						<span class="reg_date" title="발매일">2025.02.14</span>
 						<i class="bar"></i>
-						<button type="button" class="button_etc like" title="멜로무비 OST from Netflix Original 좋아요" data-album-no="11715028" data-album-menuid="18020123">
-							<span class="odd_span">좋아요</span>
-							<span class="cnt">
-								<span class="none">총건수</span>
-								0
-							</span>
-						</button>
+						<button type="button" class="button_etc like" title="멜로무비 OST from Netflix Original 좋아요" data-album-no="11715028" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
+<span class="cnt"><strong class="none">총건수</strong>592</span></button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">22곡</span>
 					</div>
