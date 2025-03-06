@@ -4,9 +4,17 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Mar 2025 14:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 15:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ruby]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11730946');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11730946');</guid>
+            <pubDate>Thu, 06 Mar 2025 15:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[제니 (JENNIE)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/117/30/946/11730946_20250306153803_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
         <item>
             <title><![CDATA[너에게 닿기를]]></title>
             <link>javascript:melon.link.goAlbumDetail('11730411');</link>
@@ -54,6 +62,14 @@
             <pubDate>Thu, 06 Mar 2025 09:18:03 GMT</pubDate>
             <content:encoded><![CDATA[원써겐]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/117/29/714/11729714_20250305154921_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Ravel: Jeux d'eau, M. 30 (Live Version)]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11729505');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11729505');</guid>
+            <pubDate>Thu, 06 Mar 2025 15:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[조성진]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/117/29/505/11729505_20250305152718_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[Dot]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 06 Mar 2025 03:25:20 GMT</pubDate>
             <content:encoded><![CDATA[최동혁]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/117/29/687/11729687_20250305154402_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[Lonely]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11730195');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11730195');</guid>
-            <pubDate>Thu, 06 Mar 2025 03:25:20 GMT</pubDate>
-            <content:encoded><![CDATA[HANZI]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/117/30/195/11730195_20250305180001_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[STARDUST LIFESTYLE]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11730067');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11730067');</guid>
-            <pubDate>Thu, 06 Mar 2025 09:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[키모엘 (Kimo:L)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/117/30/067/11730067_20250305170514_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
