@@ -4,17 +4,9 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Mar 2025 21:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 22:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[HOT]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11738155');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11738155');</guid>
-            <pubDate>Fri, 14 Mar 2025 04:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[LE SSERAFIM (르세라핌)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/117/38/155/11738155_20250314101906_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
         <item>
             <title><![CDATA[이렇게 좋아해 본 적이 없어요 (소녀의 세계 X BOYNEXTDOOR)]]></title>
             <link>javascript:melon.link.goAlbumDetail('11737028');</link>
@@ -38,6 +30,14 @@
             <pubDate>Fri, 14 Mar 2025 09:17:35 GMT</pubDate>
             <content:encoded><![CDATA[백호]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/117/38/156/11738156_20250314102401_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[HOT]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11738155');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11738155');</guid>
+            <pubDate>Fri, 14 Mar 2025 04:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[LE SSERAFIM (르세라핌)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/117/38/155/11738155_20250314101906_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[11:11 (Jazz Ver.)]]></title>
@@ -114,7 +114,7 @@
 						<span class="reg_date" title="발매일">2025.03.14</span>
 						<i class="bar"></i>
 						<button type="button" class="button_etc like" title="미스터트롯3 결승전 베스트 좋아요" data-album-no="11736814" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>363</span></button>
+<span class="cnt"><strong class="none">총건수</strong>367</span></button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">14곡</span>
 					</div>
