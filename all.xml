@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Mar 2025 12:32:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 13:24:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -138,15 +138,20 @@
 						<span class="vdo_name">[옴니버스]</span>
 						<a href="javascript:melon.link.goAlbumDetail('11745731');" class="ellipsis album_name" title="잘생긴 트롯 1라운드 Part.1 - 페이지 이동">잘생긴 트롯 1라운드 Part.1</a>
 						<span class="ellipsis artist">
-							Various Artists<span class="checkEllipsis" style="display: none;">Various Artists</span>
+							Various Artists<span class="checkEllipsis" style="display:none">Various Artists</span>
 						</span>
 						
 					</div>
 					<div class="meta">
 						<span class="reg_date" title="발매일">2025.03.21</span>
 						<i class="bar"></i>
-						<button type="button" class="button_etc like" title="잘생긴 트롯 1라운드 Part.1 좋아요" data-album-no="11745731" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>19</span></button>
+						<button type="button" class="button_etc like" title="잘생긴 트롯 1라운드 Part.1 좋아요" data-album-no="11745731" data-album-menuid="18020123">
+							<span class="odd_span">좋아요</span>
+							<span class="cnt">
+								<span class="none">총건수</span>
+								0
+							</span>
+						</button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">5곡</span>
 					</div>
@@ -179,15 +184,20 @@
 						<span class="vdo_name">[옴니버스]</span>
 						<a href="javascript:melon.link.goAlbumDetail('11744527');" class="ellipsis album_name" title="제35회 유재하 음악경연대회 - 페이지 이동">제35회 유재하 음악경연대회</a>
 						<span class="ellipsis artist">
-							Various Artists<span class="checkEllipsis" style="display: none;">Various Artists</span>
+							Various Artists<span class="checkEllipsis" style="display:none">Various Artists</span>
 						</span>
 						
 					</div>
 					<div class="meta">
 						<span class="reg_date" title="발매일">2025.03.21</span>
 						<i class="bar"></i>
-						<button type="button" class="button_etc like" title="제35회 유재하 음악경연대회 좋아요" data-album-no="11744527" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
-<span class="cnt"><strong class="none">총건수</strong>69</span></button>
+						<button type="button" class="button_etc like" title="제35회 유재하 음악경연대회 좋아요" data-album-no="11744527" data-album-menuid="18020123">
+							<span class="odd_span">좋아요</span>
+							<span class="cnt">
+								<span class="none">총건수</span>
+								0
+							</span>
+						</button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">11곡</span>
 					</div>
