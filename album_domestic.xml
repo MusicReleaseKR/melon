@@ -4,7 +4,7 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Mar 2025 03:31:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 04:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Tue, 25 Mar 2025 18:22:43 GMT</pubDate>
             <content:encoded><![CDATA[JAEHA (재하)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/117/50/331/11750331_20250325115543_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[iScreaM Vol.37 : 프락치 (Fraktsiya) (Feat. 이영지) Remixes]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11750652');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11750652');</guid>
+            <pubDate>Wed, 26 Mar 2025 04:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[마크 (MARK)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/117/50/652/11750652_20250325161424_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[있잖아]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 26 Mar 2025 03:31:03 GMT</pubDate>
             <content:encoded><![CDATA[승민]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/117/50/243/11750243_20250325111812_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 나만의 그대]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11749753');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11749753');</guid>
-            <pubDate>Tue, 25 Mar 2025 18:22:43 GMT</pubDate>
-            <content:encoded><![CDATA[정예인 (Yein)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/117/49/753/11749753_20250324194311_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
     </channel>
 </rss>
