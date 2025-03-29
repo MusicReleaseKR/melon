@@ -4,7 +4,7 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Mar 2025 10:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Mar 2025 11:13:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,14 +43,14 @@
             <title><![CDATA[4]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sat, 29 Mar 2025 10:16:02 GMT</pubDate>
+            <pubDate>Sat, 29 Mar 2025 11:13:25 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('3075405');" title="OXY RED 페이지 이동" class="ellipsis">OXYNOVA</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[5]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Sat, 29 Mar 2025 10:16:02 GMT</pubDate>
+            <pubDate>Sat, 29 Mar 2025 11:13:25 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('2971357');" title="OXY RED 페이지 이동" class="ellipsis">Polodared</a>]]></content:encoded>
         </item>
         <item>
@@ -136,20 +136,15 @@
 						<span class="vdo_name">[OST]</span>
 						<a href="javascript:melon.link.goAlbumDetail('11753905');" class="ellipsis album_name" title="폭싹 속았수다 OST from the Netflix Series - 페이지 이동">폭싹 속았수다 OST from the Netflix Series</a>
 						<span class="ellipsis artist">
-							Various Artists<span class="checkEllipsis" style="display:none">Various Artists</span>
+							Various Artists<span class="checkEllipsis" style="display: none;">Various Artists</span>
 						</span>
 						
 					</div>
 					<div class="meta">
 						<span class="reg_date" title="발매일">2025.03.29</span>
 						<i class="bar"></i>
-						<button type="button" class="button_etc like" title="폭싹 속았수다 OST from the Netflix Series 좋아요" data-album-no="11753905" data-album-menuid="18020123">
-							<span class="odd_span">좋아요</span>
-							<span class="cnt">
-								<span class="none">총건수</span>
-								0
-							</span>
-						</button>
+						<button type="button" class="button_etc like" title="폭싹 속았수다 OST from the Netflix Series 좋아요" data-album-no="11753905" data-album-menuid="18020123"><span class="odd_span">좋아요</span>
+<span class="cnt"><strong class="none">총건수</strong>454</span></button>
 						<i class="bar"></i>
 						<span class="tot_song" title="총 수록곡">85곡</span>
 					</div>
