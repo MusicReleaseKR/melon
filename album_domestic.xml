@@ -4,7 +4,7 @@
         <title>멜론 ─ 최신앨범 ─ 국내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Apr 2025 21:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 22:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,22 +14,6 @@
             <pubDate>Fri, 04 Apr 2025 09:18:37 GMT</pubDate>
             <content:encoded><![CDATA[이승윤]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/117/62/934/11762934_20250403151847_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[Loose]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11762584');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11762584');</guid>
-            <pubDate>Fri, 04 Apr 2025 04:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[엔하이픈 (ENHYPEN)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/117/62/584/11762584_20250403115402_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
-        </item>
-        <item>
-            <title><![CDATA[HOUSE OF TRICKY : SPUR]]></title>
-            <link>javascript:melon.link.goAlbumDetail('11762927');</link>
-            <guid>javascript:melon.link.goAlbumDetail('11762927');</guid>
-            <pubDate>Fri, 04 Apr 2025 04:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[xikers(싸이커스)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/117/62/927/11762927_20250403151456_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[쿠키런: 모험의 탑 Original Soundtrack 너를 위한 노래]]></title>
@@ -46,6 +30,22 @@
             <pubDate>Fri, 04 Apr 2025 09:18:37 GMT</pubDate>
             <content:encoded><![CDATA[C JAMM]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/117/62/648/11762648_20250403120905_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[Loose]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11762584');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11762584');</guid>
+            <pubDate>Fri, 04 Apr 2025 04:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[엔하이픈 (ENHYPEN)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/117/62/584/11762584_20250403115402_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
+        </item>
+        <item>
+            <title><![CDATA[HOUSE OF TRICKY : SPUR]]></title>
+            <link>javascript:melon.link.goAlbumDetail('11762927');</link>
+            <guid>javascript:melon.link.goAlbumDetail('11762927');</guid>
+            <pubDate>Fri, 04 Apr 2025 04:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[xikers(싸이커스)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/album/images/117/62/927/11762927_20250403151456_500.jpg/melon/resize/360/quality/80/optimize" length="0" type="image/jpg/melon/resize/360/quality/80/optimize"/>
         </item>
         <item>
             <title><![CDATA[Divine]]></title>
@@ -147,14 +147,14 @@
             <title><![CDATA[17]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Fri, 04 Apr 2025 21:16:01 GMT</pubDate>
+            <pubDate>Fri, 04 Apr 2025 22:16:16 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('525');" title="C.F 페이지 이동" class="ellipsis">조규찬</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[18]]></title>
             <link>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</link>
             <guid>https://www.melon.com/new/album/index.htm#params%5BareaFlg%5D=I&amp;params%5BorderBy%5D=&amp;po=pageObj&amp;startIndex=1</guid>
-            <pubDate>Fri, 04 Apr 2025 21:16:01 GMT</pubDate>
+            <pubDate>Fri, 04 Apr 2025 22:16:16 GMT</pubDate>
             <content:encoded><![CDATA[<a href="javascript:melon.link.goArtistDetail('836766');" title="C.F 페이지 이동" class="ellipsis">이해문</a>]]></content:encoded>
         </item>
         <item>
